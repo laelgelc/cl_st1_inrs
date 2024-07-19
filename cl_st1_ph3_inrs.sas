@@ -4,7 +4,7 @@
 /* account: CEPRIL */
 
 /* Replace all occurrences of this project ID by yours and create a folder named after it */
-%let project = cl_st1_renata ;
+%let project = cl_st1_ph3_inrs ;
 
 %let myfolder = &project ;
 
@@ -991,7 +991,7 @@ run;
 /* canonical correlation with user profiles */
 
 OPTIONS VALIDVARNAME=ANY;
-FILENAME IN "/home/&sasusername/cl_st1_renata_profiles/cl_st1_renata_profiles_scores_only.tsv";
+FILENAME IN "/home/&sasusername/cl_st1_ph3_inrs_profiles/cl_st1_ph3_inrs_profiles_scores_only.tsv";
 PROC IMPORT OUT= users
      DATAFILE= IN
      DBMS=DLM REPLACE;
@@ -1238,7 +1238,7 @@ data filelist;
   input root;
   retain filename dname ' ' level 0 dir 1;
 cards4;
-/home/u63529080/cl_st1_renata
+/home/u63529080/cl_st1_ph3_inrs
 ;;;;
 run;
 

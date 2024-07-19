@@ -1,4 +1,4 @@
-# Corpus Linguistics - Study 1 - Renata
+# Corpus Linguistics - Study 1 - Phase 3 - INRS
 
 ## Prerequisites
 
@@ -7,7 +7,7 @@
 ## Dataset
 
 #Please download the following dataset (Right-click on the link and choose `Save link as` to download the corresponding file):
-#- [cl_st1_renata_truthbrush_20240616_raw_data_prep.jsonl](https://laelgelcrenata.s3.sa-east-1.amazonaws.com/cl_st1_renata_truthbrush_20240616_raw_data_prep.jsonl)
+#- [CL_St1_Ph2_INRS.tar.gz](https://github.com/laelgelc/cl_st1_inrs/blob/main/CL_St1_Ph2_INRS.tar.gz)
 
 ## Importing the required libraries
 
@@ -21,7 +21,14 @@ from collections import Counter
 
 ### Importing the tweet raw data into a dataframe
 
-df_tweets_raw_data = pd.read_json('cl_st1_renata_truthbrush_20240616_raw_data_prep.jsonl', lines=True)
+df_tweets_raw_data = pd.read_csv('cl_st1_inrs_tc/debates_turns.tsv', sep='\t')
+
+df_tweets_raw_data.dtypes
+
+df_tweets_raw_data['Date'] = pd.to_datetime(df_tweets_raw_data['Date'])
+#df_tweets_raw_data['Date'] = df_tweets_raw_data['Date'].astype('datetime64[ns]') # Alternative command
+
+df_tweets_raw_data.dtypes
 
 df_tweets_raw_data.head(5)
 
@@ -29,146 +36,22 @@ df_tweets_raw_data.shape
 
 #### Inspecting a few tweets
 
-inspected_row = 14
-print('username:' + df_tweets_raw_data.loc[inspected_row, 'username'])
-print('text:' + df_tweets_raw_data.loc[inspected_row, 'text'])
-print('tweet_url:' + df_tweets_raw_data.loc[inspected_row, 'tweet_url'])
-
-### Inspecting the dataset and eliminating malformed data
-
-#### Checking if data types are consistent
-
-df_tweets_raw_data.dtypes
-
-#### Identifying rows that are empty in column `text`
-
-print(df_tweets_raw_data['text'].isnull().sum())
-
-df_tweets_raw_data[df_tweets_raw_data['text'].isnull()]
-
-#### Dropping the rows that are empty in the column `text`
-
-# Drop the rows whose column 'text' is NaN
-df_tweets_raw_data = df_tweets_raw_data.dropna(subset=['text'])
-
-# Reset the index
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-
-print(df_tweets_raw_data['text'].isnull().sum())
-
-#### Removing specific Unicode characters
-
-#The dataset may need to be cleaned of invisible Unicode characters.
-
-##### Detecting `U+2066` and `U+2069` characters
-
-#- [U+2066](https://www.compart.com/en/unicode/U+2066)
-#- [U+2069](https://www.compart.com/en/unicode/U+2069)
-
-#Please refer to:
-#- [Python RegEx](https://www.w3schools.com/python/python_regex.asp)
-#- [regex101](https://regex101.com/)
-#- [RegExr](https://regexr.com/)
-
-# Defining a function to detect specific Unicode characters
-def extract_unicode_characters(df, column_name):
-    unicode_chars = Counter()  # Initialize a Counter to store Unicode character counts
-
-    for value in df[column_name]:
-        if isinstance(value, str):
-            # Use RegEx to find non-ASCII characters (Unicode)
-#            non_ascii_chars = re.findall(r'[^\x00-\x7F]+', value)
-            # Use RegEx to find specific Unicode characters - adjust the expression accordingly
-            specific_unicode_chars = re.findall(r'[\u2066\u2069]', value)
-            unicode_chars.update(specific_unicode_chars)
-
-    return unicode_chars
-
-# Inspect the dataframe for specific Unicode characters
-unicode_counts = extract_unicode_characters(df_tweets_raw_data, 'text')
-
-# Print the results
-for char, count in unicode_counts.items():
-    print(f'Character {char}: Count = {count}')
-
-##### Removing `U+2066` and `U+2069` characters
-
-# Defining a function to remove specific Unicode characters
-def remove_specific_unicode(input_line):
-    # Using RegEx to replace specific Unicode characters - adjust the expression accordingly
-    cleaned_line = re.sub(r'[\u2066\u2069]', '', input_line)
-    return cleaned_line
-
-# Removing specific Unicode characters
-df_tweets_raw_data['text'] = df_tweets_raw_data['text'].apply(remove_specific_unicode)
-
-#### Replacing the `LF` character by a space
-
-#Some tweets, especially the retweeted ones, contain multiple lines of text.
-
-# Defining a function to replace the `LF` character by a space
-def remove_cr_lf(input_line):
-    # Using RegEx to replace LF by a space
-    cleaned_line = re.sub(r'\n', ' ', input_line)
-    return cleaned_line
-
-# Applying the function to the 'text' column in your DataFrame
-df_tweets_raw_data['text'] = df_tweets_raw_data['text'].apply(remove_cr_lf)
-
-df_tweets_raw_data
-
-### Dropping duplicates
-
-#### Retweets
-
-#Retweets bear the RegEx pattern `'\bRT @\w+'gm` at the beginning of the column `text`.
-
-# Creating a boolean mask for filtering - it is preceded by '~' to invert the selection
-mask = ~df_tweets_raw_data['text'].str.contains(r'\bRT @\w+', regex=True)
-
-# Applying the mask to overwrite the raw data dataframe with non retweeted tweets
-df_tweets_raw_data = df_tweets_raw_data[mask]
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-df_tweets_raw_data.shape
-
-#### Duplicate tweets
-
-#The dataset was build in a way that if a certain tweet had more than one photo, one copy of the tweet was included per unique photo. Since we are concerned with analysing just the text, those duplicates should be removed. Tweets that bear the same 'tweet_url' are duplicates - we are going to keep only the first.
-
-df_tweets_raw_data.drop_duplicates(subset='tweet_url', keep='first', inplace=True)
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-df_tweets_raw_data.shape
-
-#### @mentioned tweets
-
-#A few users @mention copies of tweets towards other specific users creating multiple copies of the same tweet - those duplicates should be removed.
-
-# Create a new column 'no_mention' containing the contents of the column 'text' without any preceding @mentions
-df_tweets_raw_data['no_mention'] = df_tweets_raw_data['text'].str.replace(r'@\w+\s*', '', regex=True)
-
-# Drop duplicate rows except the first occurrence based on 'no_mention'
-df_tweets_raw_data.drop_duplicates(subset='no_mention', keep='first', inplace=True)
-df_tweets_raw_data = df_tweets_raw_data.reset_index(drop=True)
-df_tweets_raw_data.shape
+inspected_row = 0
+print('Speaker:' + df_tweets_raw_data.loc[inspected_row, 'Speaker'])
+print('Text:' + df_tweets_raw_data.loc[inspected_row, 'Text'])
 
 ## Sampling the raw data according to filtering expressions
 
-# Defining the filtering expressions
-#filter_words = ['arma', 'pátria', 'ladrão', 'cristão', 'comunista', 'família', 'liberdade', 'conservador', 'deus']
-filter_words = ['chinese', 'communist', 'democrat', 'maga', 'president', 'vaccine', 'vax']
-
-# Creating a boolean mask for filtering
-mask = df_tweets_raw_data['text'].str.contains('|'.join(filter_words), case=False)
-
-# Applying the mask to create 'df_tweets_filtered'
-df_tweets_filtered = df_tweets_raw_data[mask]
-df_tweets_filtered = df_tweets_filtered.reset_index(drop=True)
+# Bypassing the screening by filtering expressions because it is not relevant in this case
+df_tweets_filtered = df_tweets_raw_data
 
 df_tweets_filtered
 
 ### Exporting the filtered data into a file for inspection
 
 df_tweets_filtered.to_csv('tweets_emojified.tsv', sep='\t', index=False)
+
+df_tweets_filtered.to_json('tweets_emojified.jsonl', orient='records', lines=True)
 
 ## Replacing emojis
 
@@ -179,7 +62,7 @@ def demojify_line(input_line):
     demojified_line = demoji.replace_with_desc(input_line, sep='<em>')
     return demojified_line
 
-df_tweets_filtered['text'] = df_tweets_filtered['text'].apply(demojify_line)
+df_tweets_filtered['Text'] = df_tweets_filtered['Text'].apply(demojify_line)
 
 #### Exporting the filtered data into a file for inspection
 
@@ -196,7 +79,7 @@ def preprocess_line(input_line):
     return preprocessed_line
 
 # Separating the demojified strings with spaces
-df_tweets_filtered['text'] = df_tweets_filtered['text'].apply(preprocess_line)
+df_tweets_filtered['Text'] = df_tweets_filtered['Text'].apply(preprocess_line)
 
 #### Exporting the filtered data into a file for inspection
 
@@ -221,7 +104,7 @@ def format_demojified_string(input_line):
     return processed_line
 
 # Formatting the demojified strings
-df_tweets_filtered['text'] = df_tweets_filtered['text'].apply(format_demojified_string)
+df_tweets_filtered['Text'] = df_tweets_filtered['Text'].apply(format_demojified_string)
 
 ### Replacing the `pipe` character by the `-` character in the `text` column
 
@@ -233,8 +116,7 @@ def replace_pipe_with_hyphen(input_string):
     return modified_string
 
 # Replacing the 'pipe' character by the '-' character
-df_tweets_filtered['text'] = df_tweets_filtered['text'].apply(replace_pipe_with_hyphen)
-
+df_tweets_filtered['Text'] = df_tweets_filtered['Text'].apply(replace_pipe_with_hyphen)
 
 #### Exporting the filtered data into a file for inspection
 
@@ -268,7 +150,7 @@ def tokenise_string(input_line):
     return tokenised_line
 
 # Tokenising the strings
-df_tweets_filtered['text'] = df_tweets_filtered['text'].apply(tokenise_string)
+df_tweets_filtered['Text'] = df_tweets_filtered['Text'].apply(tokenise_string)
 
 ## Creating the files `file_index.txt` and `tweets.txt`
 
@@ -278,32 +160,27 @@ df_tweets_filtered['text_id'] = 't' + df_tweets_filtered.index.astype(str).str.z
 
 ### Creating column `conversation`
 
-df_tweets_filtered['author_id'] = df_tweets_filtered['author_id'].astype(str)
-
-df_tweets_filtered['conversation'] = 'v:' + df_tweets_filtered['author_id'].str.replace('id_', '')
+df_tweets_filtered['conversation'] = 'v:' + df_tweets_filtered['Title']
 
 ### Creating column `date`
 
-# Convert 'created_at' to datetime format
-df_tweets_filtered['created_at'] = pd.to_datetime(df_tweets_filtered['created_at'])
-
 # Extract the date part (without time) into a new column 'date'
-df_tweets_filtered['date'] = df_tweets_filtered['created_at'].dt.date
+df_tweets_filtered['date'] = df_tweets_filtered['Date'].dt.date
 
 # Add the prefix 'd:' to the 'date' values
 df_tweets_filtered['date'] = 'd:' + df_tweets_filtered['date'].astype(str)
 
 ### Creating column `text_url`
 
-df_tweets_filtered['text_url'] = 'url:' + df_tweets_filtered['tweet_url']
+df_tweets_filtered['text_url'] = 'url:' + df_tweets_filtered['Debate']
 
 ### Creating column `user`
 
-df_tweets_filtered['user'] = 'u:' + df_tweets_filtered['username']
+df_tweets_filtered['user'] = 'u:' + df_tweets_filtered['Speaker']
 
 ### Creating column `content`
 
-df_tweets_filtered['content'] = 'c:' + df_tweets_filtered['text']
+df_tweets_filtered['content'] = 'c:' + df_tweets_filtered['Text']
 
 ### Reordering the created columns
 
@@ -329,6 +206,6 @@ try:
 except FileExistsError:
     print(f'Folder {folder} already exists')
 
-#Note: The parameters `doublequote=False` and `escapechar=' '` are required to avoid that the column content is doublequoted with '"' in sentences that use characters that need to be escaped such as double quote '"' itself - this causes a malformed response from TreeTagger.
+Note: The parameters `doublequote=False` and `escapechar=' '` are required to avoid that the column content is doublequoted with '"' in sentences that use characters that need to be escaped such as double quote '"' itself - this causes a malformed response from TreeTagger.
 
 df_tweets_filtered[['text_id', 'conversation', 'date', 'user', 'content']].to_csv(f'{folder}/tweets.txt', sep='|', index=False, header=False, encoding='utf-8', lineterminator='\n', doublequote=False, escapechar=' ')
