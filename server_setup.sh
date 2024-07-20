@@ -24,6 +24,7 @@ curl -O ${BASE_URL}/english.par.gz
 curl -O ${BASE_URL}/portuguese2.par.gz
 
 # Install TreeTagger
+chmod +x "$HOME"/treetagger/install-tagger.sh
 "$HOME"/treetagger/install-tagger.sh
 
 # Append TreeTagger paths to .bashrc
@@ -33,10 +34,11 @@ echo "export PATH=\$PATH:/home/ubuntu/treetagger/cmd" >> "$HOME"/.bashrc
 echo "export PATH=\$PATH:/home/ubuntu/treetagger/bin" >> "$HOME"/.bashrc
 
 # Set up Python virtual environment
+cd "$HOME"
 python3 -m venv my_env
 source "$HOME"/my_env/bin/activate
 pip install ipython pandas demoji nltk
 deactivate
 
-# Logout to apply changes
-logout
+# Exit the session
+exit
