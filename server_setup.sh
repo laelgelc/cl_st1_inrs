@@ -15,12 +15,13 @@ mkdir -p "$HOME"/treetagger/
 # Define base URL for TreeTagger files
 BASE_URL="https://cis.uni-muenchen.de/~schmid/tools/TreeTagger/data"
 
-# Download TreeTagger files
-curl -O ${BASE_URL}/tree-tagger-linux-3.2.5.tar.gz -o "$HOME"/treetagger/$(basename ${BASE_URL}/tree-tagger-linux-3.2.5.tar.gz)
-curl -O ${BASE_URL}/tagger-scripts.tar.gz -o "$HOME"/treetagger/$(basename ${BASE_URL}/tagger-scripts.tar.gz)
-curl -O ${BASE_URL}/install-tagger.sh -o "$HOME"/treetagger/$(basename ${BASE_URL}/install-tagger.sh)
-curl -O ${BASE_URL}/english.par.gz -o "$HOME"/treetagger/$(basename ${BASE_URL}/english.par.gz)
-curl -O ${BASE_URL}/portuguese2.par.gz -o "$HOME"/treetagger/$(basename ${BASE_URL}/portuguese2.par.gz)
+# Download TreeTagger 
+cd "$HOME"/treetagger/
+curl -O ${BASE_URL}/tree-tagger-linux-3.2.5.tar.gz
+curl -O ${BASE_URL}/tagger-scripts.tar.gz
+curl -O ${BASE_URL}/install-tagger.sh
+curl -O ${BASE_URL}/english.par.gz
+curl -O ${BASE_URL}/portuguese2.par.gz
 
 # Install TreeTagger
 "$HOME"/treetagger/install-tagger.sh
