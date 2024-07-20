@@ -267,7 +267,7 @@ do
         textid=$file
         conversation=$( rg $file file_index.txt | cut -d' ' -f2 | sed 's/v://' )
         date=$( rg $file file_index.txt | cut -d' ' -f3 | sed 's/d://' )
-        user=$( rg $file tweets/tweets.txt | cut -d' ' -f4 | sed 's/u://' )
+        user=$( rg $file tweets/tweets.txt | cut -d'|' -f4 | sed 's/u://' )
         url=$( rg $file file_index.txt | cut -d' ' -f4 | sed 's/url://' )
 
       # REGARDLESS OF FACTOR -- FACTOR FILTERING OCCURS FURTHER DOWN:
