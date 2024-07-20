@@ -39,6 +39,3 @@ python3 -m venv my_env
 source "$HOME"/my_env/bin/activate
 pip install ipython pandas demoji nltk
 deactivate
-
-# Exit the session
-exit
