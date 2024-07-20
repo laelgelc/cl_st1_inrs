@@ -160,9 +160,25 @@ df_tweets_filtered['text_id'] = 't' + df_tweets_filtered.index.astype(str).str.z
 
 ### Creating column `conversation`
 
+#The column `conversation` maps on the column `Title`.
+
 df_tweets_filtered['conversation'] = 'v:' + df_tweets_filtered['Title']
 
+#### Replacing space by the `_` character
+
+#**Important**: Since the strings in the original columns contain spaces, Pandas creates `file_index.txt` with the columns enclosed with `"` - this caracter causes issues in `examples.sh` when it is executed. Therefore, spaces should be replaced by another character such as underscore.
+
+# Defining a function to replace space by the '_' character
+def replace_space_with_underscore(input_string):
+    modified_string = re.sub(r' ', '_', input_string)
+    return modified_string
+
+# Replacing space by the '_' character
+df_tweets_filtered['conversation'] = df_tweets_filtered['conversation'].apply(replace_space_with_underscore)
+
 ### Creating column `date`
+
+#The column `date` maps on the column `Date`.
 
 # Extract the date part (without time) into a new column 'date'
 df_tweets_filtered['date'] = df_tweets_filtered['Date'].dt.date
@@ -172,13 +188,29 @@ df_tweets_filtered['date'] = 'd:' + df_tweets_filtered['date'].astype(str)
 
 ### Creating column `text_url`
 
+#The column `text_url` maps on the column `Debate`.
+
 df_tweets_filtered['text_url'] = 'url:' + df_tweets_filtered['Debate']
+
+#### Replacing space by the `_` character
+
+# Replacing space by the '_' character
+df_tweets_filtered['text_url'] = df_tweets_filtered['text_url'].apply(replace_space_with_underscore)
 
 ### Creating column `user`
 
+#The column `user` maps on the column `Speaker`.
+
 df_tweets_filtered['user'] = 'u:' + df_tweets_filtered['Speaker']
 
+#### Replacing space by the `_` character
+
+# Replacing space by the '_' character
+df_tweets_filtered['user'] = df_tweets_filtered['user'].apply(replace_space_with_underscore)
+
 ### Creating column `content`
+
+#The column `content` maps on the column `Text`.
 
 df_tweets_filtered['content'] = 'c:' + df_tweets_filtered['Text']
 
