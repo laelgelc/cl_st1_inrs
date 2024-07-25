@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade -y || { echo "Failed to update and upgrade p
 
 # Installing necessary packages
 sudo snap install aws-cli --classic
-sudo apt install -y ripgrep html2text zip unzip python3-pip python3-venv
+sudo apt install -y python3-pip python3-venv ripgrep html2text zip unzip pipx
 
 # Creating directory for TreeTagger
 mkdir -p "$HOME"/treetagger/
