@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Attach the 'S3-Admin-Access' IAM role to the EC2 instance via AWS Console
-
 clear
 
 # Updating and upgrading the system
@@ -67,4 +65,5 @@ python -m ipykernel install --user --name=my_env
 # Deactivating the 'my_env' environment
 deactivate
 
-# Reboot the EC2 instance via AWS Console
+echo "Attach the 'S3-Admin-Access' IAM role to the EC2 instance via AWS Console"
+echo "Reboot the EC2 instance via AWS Console"
