@@ -63,5 +63,5 @@ webvtt-py \
 yt-dlp
 python -m ipykernel install --user --name=my_env
 
-# Rebooting the EC2 instance to update the operating system's kernel
+# Rebooting the system for kernel's update
 sudo reboot
