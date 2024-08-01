@@ -59,11 +59,9 @@ python-dotenv \
 requests \
 scipy \
 truthbrush \
-webvtt-py
+webvtt-py \
+yt-dlp
 python -m ipykernel install --user --name=my_env
 
-# Deactivating the 'my_env' environment
-deactivate
-
-echo "Attach the 'S3-Admin-Access' IAM role to the EC2 instance via AWS Console"
-echo "Reboot the EC2 instance via AWS Console"
+# Rebooting the EC2 instance to update the operating system's kernel
+sudo reboot
