@@ -1,3 +1,4 @@
+# Use the command 'conda env create -f condaenv.yml'
 # Regarding Google Cloud Python APIs, please check https://github.com/googleapis/google-cloud-python
 name: my_env
 dependencies:
