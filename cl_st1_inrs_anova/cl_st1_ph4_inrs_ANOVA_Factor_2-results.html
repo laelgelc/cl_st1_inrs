@@ -1,0 +1,2654 @@
+<!DOCTYPE html>
+<html class="ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985" lang="pt" xml:lang="pt" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8"/>
+<meta content="SAS 9.4" name="generator"/>
+<title>Results: cl_st1_ph4_inrs_ANOVA.sas</title>
+<style>
+/*<![CDATA[*/
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c section > table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c section > pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c div > table,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c div > pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c article > table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c article > pre,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j section > table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j section > pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j div > table,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j div > pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j article > table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j article > pre,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c p.note, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c p.warning, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c p.error, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c p.fatal,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j p.note, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j p.warning, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j p.error, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j p.fatal,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.c > table.layoutcontainer, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body.j > table.layoutcontainer { margin-left: auto; margin-right: auto }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.l table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.l pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.l p.note,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.l p.warning, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.l p.error, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.l p.fatal { margin-left: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.c table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.c pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.c p.note,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.c p.warning, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.c p.error, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.c p.fatal { margin-left: auto; margin-right: auto }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r p.note,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r table, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r pre, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r p.note,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r p.warning, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r p.error, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion.r p.fatal { margin-right: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 article, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 aside, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 details, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 figcaption, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 figure, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 footer, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 header, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 hgroup, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 nav, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 section { display: block }
+html.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 { font-size: 100% }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body { margin: 1em; font-size: 13px; line-height: 1.231 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 sup { position: relative; vertical-align: baseline; bottom: 0.25em; font-size: 0.8em }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 sub { position: relative; vertical-align: baseline; top: 0.25em; font-size: 0.8em }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 ul, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 ol { margin: 1em 0; padding: 0 0 0 40px }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 dd { margin: 0 0 0 40px }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 nav ul, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 nav ol { list-style: none; list-style-image: none; margin: 0; padding: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 img { border: 0; vertical-align: middle }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 svg:not(:root) { overflow: hidden }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 figure { margin: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 table { border-collapse: collapse; border-spacing: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutcontainer { border-collapse: separate; border-spacing: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 p { margin-top: 0; text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 h1.heading1 { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 h2.heading2 { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 h3.heading3 { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 h4.heading4 { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 h5.heading5 { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 h6.heading6 { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 span { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 table { margin-bottom: 1em }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 td, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 th { text-align: left; padding: 3px 6px; vertical-align: top }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 td[class$="fixed"], .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 th[class$="fixed"] { white-space: pre }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 section, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 article { padding-top: 1px; padding-bottom: 8px }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 hr.pagebreak { height: 0px; border: 0; border-bottom: 1px solid #c0c0c0; margin: 1em 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .stacked-value { text-align: left; display: block }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .stacked-cell > .stacked-value, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 td.data > td.data, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 th.data > td.data, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 th.data > th.data, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 td.data > th.data, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 th.header > th.header { border: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .stacked-cell > div.data { border-width: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer { white-space: nowrap; margin-bottom: 1em }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > p { margin: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > p > span { display: inline-block; width: 100%; white-space: normal }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch { display: table }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .toc { display: none }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .proc_note_group, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .proc_title_group { margin-bottom: 1em }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 p.proctitle { margin: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 p.note, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 p.warning, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 p.error, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 p.fatal { display: table }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .notebanner, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .warnbanner, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .errorbanner, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .fatalbanner,
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .notecontent, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .warncontent, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .errorcontent, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .fatalcontent { display: table-cell; padding: 0.5em }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .notebanner, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .warnbanner, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .errorbanner, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .fatalbanner { padding-right: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body > div > ol li { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .beforecaption > h4 { margin-top: 0; margin-bottom: 0 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .c { text-align: center }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .r { text-align: right }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .l { text-align: left }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .j { text-align: justify }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .d { text-align: right }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .b { vertical-align: bottom }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .m { vertical-align: middle }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .t { vertical-align: top }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .accessiblecaption {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 a:active { color: #800080 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .aftercaption {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+    padding-top: 4pt;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch > colgroup {
+    border-left: 1px solid #c1c1c1;
+    border-right: 1px solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch > tfoot {
+    border-top: 1px solid #c1c1c1;
+    border-bottom: 1px solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch { border: hidden; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .batch {
+    background-color: #fafbfe;
+    border: 1px solid #c1c1c1;
+    border-collapse: separate;
+    border-spacing: 1px;
+    color: #000000;
+    font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    padding: 7px;
+    }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .beforecaption {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .body {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bodydate {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    text-align: right;
+    vertical-align: top;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bycontentfolder {
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: none;
+    margin-left: 6pt;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .byline {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > colgroup > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > colgroup, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > * > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer > tfoot { border: none; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .bylinecontainer {
+    background-color: #fafbfe;
+    border: none;
+    border-spacing: 1px;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .caption {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .cell, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .container {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contentfolder, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contentitem {
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: none;
+    margin-left: 6pt;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contentproclabel, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contentprocname {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contents {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: decimal;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contentsdate {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .contenttitle {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .continued {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .data, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .dataemphasis {
+    background-color: #ffffff;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .dataemphasisfixed {
+    background-color: #ffffff;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .dataempty {
+    background-color: #ffffff;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .datafixed {
+    background-color: #ffffff;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .datastrong {
+    background-color: #ffffff;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .datastrongfixed {
+    background-color: #ffffff;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .date {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .document {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .errorbanner {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .errorcontent {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .errorcontentfixed {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .extendedpage {
+    background-color: #fafbfe;
+    border-style: solid;
+    border-width: 1pt;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+    text-align: center;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .fatalbanner {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .fatalcontent {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .fatalcontentfixed {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .folderaction {
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: none;
+    margin-left: 6pt;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footer {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footeremphasis {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footeremphasisfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footerempty {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footerfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footerstrong {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .footerstrongfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .frame {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .graph > colgroup {
+    border-left: 1px solid #c1c1c1;
+    border-right: 1px solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .graph > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .graph > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .graph > tfoot {
+    border-top: 1px solid #c1c1c1;
+    border-bottom: 1px solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .graph { border: hidden; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .graph {
+    background-color: #fafbfe;
+    border: 1px solid #c1c1c1;
+    border-collapse: separate;
+    border-spacing: 1px;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .header {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headeremphasis {
+    background-color: #d8dbd3;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headeremphasisfixed {
+    background-color: #d8dbd3;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headerempty {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headerfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headersandfooters {
+    background-color: #edf2f9;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headerstrong {
+    background-color: #d8dbd3;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .headerstrongfixed {
+    background-color: #d8dbd3;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .heading1, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .heading2, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .heading3, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .heading4, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .heading5, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .heading6 { font-family: Arial, Helvetica, sans-serif }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .index {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .indexaction, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .indexitem {
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: none;
+    margin-left: 6pt;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .indexprocname {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .indextitle {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutcontainer, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .layoutregion {
+    border-width: 0;
+    border-spacing: 30px;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .linecontent {
+    background-color: #fafbfe;
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 a:link { color: #0000ff }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: disc;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list10 {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: square;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list2 {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: circle;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list3, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list4, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list5, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list6, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list7, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list8, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .list9 {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: square;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: disc;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem10 {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: square;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem2 {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: circle;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem3, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem4, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem5, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem6, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem7, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem8, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .listitem9 {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: square;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .note {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .notebanner {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .notecontent {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .notecontentfixed {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .output > colgroup {
+    border-left: 1px solid #c1c1c1;
+    border-right: 1px solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .output > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .output > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .output > tfoot {
+    border-top: 1px solid #c1c1c1;
+    border-bottom: 1px solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .output { border: hidden; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .output {
+    background-color: #fafbfe;
+    border: 1px solid #c1c1c1;
+    border-collapse: separate;
+    border-spacing: 1px;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pageno {
+    background-color: #fafbfe;
+    border-spacing: 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: top;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pages {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: decimal;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pagesdate {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pagesitem {
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    list-style-type: none;
+    margin-left: 6pt;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pagesproclabel, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pagesprocname {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .pagestitle {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .paragraph {
+    background-color: #fafbfe;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > colgroup > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > colgroup, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > * > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip > tfoot { border: none; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .parskip {
+    border: none;
+    border-spacing: 0;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+    }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .prepage {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .proctitle {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .proctitlefixed {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooter {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooteremphasis {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooteremphasisfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooterempty {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooterfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooterstrong {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowfooterstrongfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheader {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheaderemphasis {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheaderemphasisfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheaderempty {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheaderfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheaderstrong {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .rowheaderstrongfixed {
+    background-color: #edf2f9;
+    border-color: #b0b7bb;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    color: #112277;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter10, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter2, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter3, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter4, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter5, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter6, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter7, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter8, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemfooter9 {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle10, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle2, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle3, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle4, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle5, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle6, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle7, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle8, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systemtitle9 {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > colgroup > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > colgroup, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > * > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer > tfoot { border: none; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .systitleandfootercontainer {
+    background-color: #fafbfe;
+    border: none;
+    border-spacing: 1px;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .table > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .table > colgroup > col {
+    border-left: 1px solid #c1c1c1;
+    border-right: 0 solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .table > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .table > * > tr {
+    border-top: 1px solid #c1c1c1;
+    border-bottom: 0 solid #c1c1c1;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .table { border: hidden; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .table {
+    border-color: #c1c1c1;
+    border-style: solid;
+    border-width: 1px 0 0 1px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > colgroup > col, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > colgroup, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > * > tr, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > thead, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > tbody, .ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer > tfoot { border: none; }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titleandnotecontainer {
+    background-color: #fafbfe;
+    border: none;
+    border-spacing: 1px;
+    color: #000000;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .titlesandfooters {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .usertext {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 a:visited { color: #800080 }
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .warnbanner {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: bold;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .warncontent {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: Arial, 'Albany AMT', Helvetica, Helv;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+.ods_53231e2a-0a93-4f55-a3a8-0ecfcbeed985 .warncontentfixed {
+    background-color: #fafbfe;
+    color: #112277;
+    font-family: 'Courier New', Courier;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: normal;
+}
+/*]]>*/
+</style>
+</head>
+<body class="body">
+<div id="div_53231e2a-0a93-4f55-a3a8-0ecfcbeed985" class="c body">
+<h1 class="body toc">Results: cl_st1_ph4_inrs_ANOVA.sas</h1>
+<section data-name="GLM" data-sec-type="proc">
+<h1 class="contentprocname toc">The GLM Procedure</h1>
+<section id="IDX">
+<h1 class="contentfolder toc">Data</h1>
+<article aria-label="Class Levels">
+<h1 class="contentitem toc">Class Levels</h1>
+<table class="table" style="border-spacing: 0" aria-label="Class Levels">
+<caption aria-label="Class Levels"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="c b header" colspan="3" scope="colgroup">Class Level Information</th>
+</tr>
+<tr>
+<th class="b header" scope="col">Class</th>
+<th class="r b header" scope="col">Levels</th>
+<th class="b header" scope="col">Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Party</th>
+<td class="r data">3</td>
+<td class="data">Democratic Republican independen</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX1" aria-label="Number of Observations">
+<h1 class="contentitem toc">Number of Observations</h1>
+<table class="table" style="border-spacing: 0" aria-label="Number of Observations">
+<caption aria-label="Number of Observations"></caption>
+<colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Number of Observations Read</th>
+<td class="r data">3428</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">Number of Observations Used</th>
+<td class="r data">3428</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+<hr class="pagebreak"/>
+<div id="IDX2" class="proc_title_group">
+<p class="c proctitle">Dependent Variable: Factor 2</p>
+</div>
+<section>
+<h1 class="contentfolder toc">Analysis of Variance</h1>
+<section>
+<h1 class="contentfolder toc">Factor 2</h1>
+<article aria-label="Overall ANOVA">
+<h1 class="contentitem toc">Overall ANOVA</h1>
+<table class="table" style="border-spacing: 0" aria-label="Overall ANOVA">
+<caption aria-label="Overall ANOVA"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="b header" scope="col">Source</th>
+<th class="r b header" scope="col">DF</th>
+<th class="r b header" scope="col">Sum of Squares</th>
+<th class="r b header" scope="col">Mean Square</th>
+<th class="r b header" scope="col">F Value</th>
+<th class="r b header" scope="col">Pr&#160;&gt;&#160;F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Model</th>
+<td class="r data">2</td>
+<td class="r data">2036.9888</td>
+<td class="r data">1018.4944</td>
+<td class="r data">15.74</td>
+<td class="r data">&lt;.0001</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">Error</th>
+<td class="r data">3425</td>
+<td class="r data">221558.8152</td>
+<td class="r data">64.6887</td>
+<td class="r data">&#160;</td>
+<td class="r data">&#160;</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">Corrected Total</th>
+<td class="r data">3427</td>
+<td class="r data">223595.8040</td>
+<td class="r data">&#160;</td>
+<td class="r data">&#160;</td>
+<td class="r data">&#160;</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX3" aria-label="Fit Statistics">
+<h1 class="contentitem toc">Fit Statistics</h1>
+<table class="table" style="border-spacing: 0" aria-label="Fit Statistics">
+<caption aria-label="Fit Statistics"></caption>
+<colgroup><col/><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="r b header" scope="col">R-Square</th>
+<th class="r b header" scope="col">Coeff Var</th>
+<th class="r b header" scope="col">Root MSE</th>
+<th class="r b header" scope="col">Factor&#160;2&#160;Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="r data">0.009110</td>
+<td class="r data">116.2948</td>
+<td class="r data">8.042929</td>
+<td class="r data">6.915986</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX4" aria-label="Type I Model ANOVA">
+<h1 class="contentitem toc">Type I Model ANOVA</h1>
+<table class="table" style="border-spacing: 0" aria-label="Type I Model ANOVA">
+<caption aria-label="Type I Model ANOVA"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="b header" scope="col">Source</th>
+<th class="r b header" scope="col">DF</th>
+<th class="r b header" scope="col">Type I SS</th>
+<th class="r b header" scope="col">Mean Square</th>
+<th class="r b header" scope="col">F Value</th>
+<th class="r b header" scope="col">Pr&#160;&gt;&#160;F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Party</th>
+<td class="r data">2</td>
+<td class="r data">2036.988756</td>
+<td class="r data">1018.494378</td>
+<td class="r data">15.74</td>
+<td class="r data">&lt;.0001</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX5" aria-label="Type III Model ANOVA">
+<h1 class="contentitem toc">Type III Model ANOVA</h1>
+<table class="table" style="border-spacing: 0" aria-label="Type III Model ANOVA">
+<caption aria-label="Type III Model ANOVA"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="b header" scope="col">Source</th>
+<th class="r b header" scope="col">DF</th>
+<th class="r b header" scope="col">Type III SS</th>
+<th class="r b header" scope="col">Mean Square</th>
+<th class="r b header" scope="col">F Value</th>
+<th class="r b header" scope="col">Pr&#160;&gt;&#160;F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Party</th>
+<td class="r data">2</td>
+<td class="r data">2036.988756</td>
+<td class="r data">1018.494378</td>
+<td class="r data">15.74</td>
+<td class="r data">&lt;.0001</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX6" aria-label="Box Plot">
+<h1 class="contentitem toc">Box Plot</h1>
+<map id="/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00079" name="/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00079"><Area shape="poly" alt=" Party = independen 
+ Factor 2 = 25 
+ Observation = 2818" title=" Party = independen 
+ Factor 2 = 25 
+ Observation = 2818" coords="532,313,537,313,537,318,532,318,532,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 1936" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 1936" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3390" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3390" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3287" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3287" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3423" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3423" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 1116" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 1116" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3006" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3006" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 1380" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 1380" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3154" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 3154" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 2067" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 2067" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 2085" title=" Party = Republican 
+ Factor 2 = 24 
+ Observation = 2085" coords="346,316,351,316,351,321,346,321,346,316,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3424" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3424" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3280" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3280" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3291" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3291" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3083" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3083" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3164" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3164" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3389" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3389" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 704" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 704" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 1841" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 1841" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3398" title=" Party = Republican 
+ Factor 2 = 25 
+ Observation = 3398" coords="346,313,351,313,351,318,346,318,346,313,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 3274" title=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 3274" coords="346,309,351,309,351,314,346,314,346,309,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 2022" title=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 2022" coords="346,309,351,309,351,314,346,314,346,309,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 1955" title=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 1955" coords="346,309,351,309,351,314,346,314,346,309,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 3104" title=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 3104" coords="346,309,351,309,351,314,346,314,346,309,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 2419" title=" Party = Republican 
+ Factor 2 = 26 
+ Observation = 2419" coords="346,309,351,309,351,314,346,314,346,309,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 27 
+ Observation = 1928" title=" Party = Republican 
+ Factor 2 = 27 
+ Observation = 1928" coords="346,306,351,306,351,311,346,311,346,306,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 27 
+ Observation = 1913" title=" Party = Republican 
+ Factor 2 = 27 
+ Observation = 1913" coords="346,306,351,306,351,311,346,311,346,306,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 28 
+ Observation = 3386" title=" Party = Republican 
+ Factor 2 = 28 
+ Observation = 3386" coords="346,303,351,303,351,308,346,308,346,303,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 28 
+ Observation = 3385" title=" Party = Republican 
+ Factor 2 = 28 
+ Observation = 3385" coords="346,303,351,303,351,308,346,308,346,303,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 29 
+ Observation = 3394" title=" Party = Republican 
+ Factor 2 = 29 
+ Observation = 3394" coords="346,300,351,300,351,305,346,305,346,300,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 30 
+ Observation = 3358" title=" Party = Republican 
+ Factor 2 = 30 
+ Observation = 3358" coords="346,297,351,297,351,302,346,302,346,297,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 30 
+ Observation = 1362" title=" Party = Republican 
+ Factor 2 = 30 
+ Observation = 1362" coords="346,297,351,297,351,302,346,302,346,297,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 30 
+ Observation = 3267" title=" Party = Republican 
+ Factor 2 = 30 
+ Observation = 3267" coords="346,297,351,297,351,302,346,302,346,297,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 731" title=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 731" coords="346,294,351,294,351,299,346,299,346,294,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 1341" title=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 1341" coords="346,294,351,294,351,299,346,299,346,294,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 3360" title=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 3360" coords="346,294,351,294,351,299,346,299,346,294,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 1065" title=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 1065" coords="346,294,351,294,351,299,346,299,346,294,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 829" title=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 829" coords="346,294,351,294,351,299,346,299,346,294,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 1624" title=" Party = Republican 
+ Factor 2 = 31 
+ Observation = 1624" coords="346,294,351,294,351,299,346,299,346,294,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 32 
+ Observation = 3179" title=" Party = Republican 
+ Factor 2 = 32 
+ Observation = 3179" coords="346,291,351,291,351,296,346,296,346,291,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 33 
+ Observation = 3107" title=" Party = Republican 
+ Factor 2 = 33 
+ Observation = 3107" coords="346,288,351,288,351,293,346,293,346,288,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 3379" title=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 3379" coords="346,285,351,285,351,290,346,290,346,285,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 3349" title=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 3349" coords="346,285,351,285,351,290,346,290,346,285,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 1328" title=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 1328" coords="346,285,351,285,351,290,346,290,346,285,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 2120" title=" Party = Republican 
+ Factor 2 = 34 
+ Observation = 2120" coords="346,285,351,285,351,290,346,290,346,285,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 35 
+ Observation = 1357" title=" Party = Republican 
+ Factor 2 = 35 
+ Observation = 1357" coords="346,282,351,282,351,287,346,287,346,282,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 36 
+ Observation = 1388" title=" Party = Republican 
+ Factor 2 = 36 
+ Observation = 1388" coords="346,279,351,279,351,284,346,284,346,279,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 37 
+ Observation = 3336" title=" Party = Republican 
+ Factor 2 = 37 
+ Observation = 3336" coords="346,275,351,275,351,280,346,280,346,275,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 38 
+ Observation = 1424" title=" Party = Republican 
+ Factor 2 = 38 
+ Observation = 1424" coords="346,272,351,272,351,277,346,277,346,272,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 39 
+ Observation = 3292" title=" Party = Republican 
+ Factor 2 = 39 
+ Observation = 3292" coords="346,269,351,269,351,274,346,274,346,269,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 40 
+ Observation = 3270" title=" Party = Republican 
+ Factor 2 = 40 
+ Observation = 3270" coords="346,266,351,266,351,271,346,271,346,266,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 43 
+ Observation = 2722" title=" Party = Republican 
+ Factor 2 = 43 
+ Observation = 2722" coords="346,257,351,257,351,262,346,262,346,257,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 44 
+ Observation = 1439" title=" Party = Republican 
+ Factor 2 = 44 
+ Observation = 1439" coords="346,254,351,254,351,259,346,259,346,254,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 46 
+ Observation = 1386" title=" Party = Republican 
+ Factor 2 = 46 
+ Observation = 1386" coords="346,248,351,248,351,253,346,253,346,248,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 50 
+ Observation = 3428" title=" Party = Republican 
+ Factor 2 = 50 
+ Observation = 3428" coords="346,235,351,235,351,240,346,240,346,235,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 54 
+ Observation = 3339" title=" Party = Republican 
+ Factor 2 = 54 
+ Observation = 3339" coords="346,223,351,223,351,228,346,228,346,223,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Factor 2 = 88 
+ Observation = 3410" title=" Party = Republican 
+ Factor 2 = 88 
+ Observation = 3410" coords="346,118,351,118,351,123,346,123,346,118,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 1130" title=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 1130" coords="161,306,166,306,166,311,161,311,161,306,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 1938" title=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 1938" coords="161,306,166,306,166,311,161,311,161,306,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 3005" title=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 3005" coords="161,306,166,306,166,311,161,311,161,306,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 3399" title=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 3399" coords="161,306,166,306,166,311,161,311,161,306,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 2953" title=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 2953" coords="161,306,166,306,166,311,161,311,161,306,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 2724" title=" Party = Democratic 
+ Factor 2 = 27 
+ Observation = 2724" coords="161,306,166,306,166,311,161,311,161,306,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 1791" title=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 1791" coords="161,303,166,303,166,308,161,308,161,303,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 3421" title=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 3421" coords="161,303,166,303,166,308,161,308,161,303,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 3308" title=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 3308" coords="161,303,166,303,166,308,161,308,161,303,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 1977" title=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 1977" coords="161,303,166,303,166,308,161,308,161,303,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 3249" title=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 3249" coords="161,303,166,303,166,308,161,308,161,303,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 2491" title=" Party = Democratic 
+ Factor 2 = 28 
+ Observation = 2491" coords="161,303,166,303,166,308,161,308,161,303,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 1795" title=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 1795" coords="161,300,166,300,166,305,161,305,161,300,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 2518" title=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 2518" coords="161,300,166,300,166,305,161,305,161,300,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 3369" title=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 3369" coords="161,300,166,300,166,305,161,305,161,300,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 2956" title=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 2956" coords="161,300,166,300,166,305,161,305,161,300,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 2121" title=" Party = Democratic 
+ Factor 2 = 29 
+ Observation = 2121" coords="161,300,166,300,166,305,161,305,161,300,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 3376" title=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 3376" coords="161,297,166,297,166,302,161,302,161,297,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 1865" title=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 1865" coords="161,297,166,297,166,302,161,302,161,297,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 3290" title=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 3290" coords="161,297,166,297,166,302,161,302,161,297,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 3414" title=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 3414" coords="161,297,166,297,166,302,161,302,161,297,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 1840" title=" Party = Democratic 
+ Factor 2 = 30 
+ Observation = 1840" coords="161,297,166,297,166,302,161,302,161,297,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 3343" title=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 3343" coords="161,294,166,294,166,299,161,299,161,294,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 3109" title=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 3109" coords="161,294,166,294,166,299,161,299,161,294,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 2999" title=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 2999" coords="161,294,166,294,166,299,161,299,161,294,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 1959" title=" Party = Democratic 
+ Factor 2 = 31 
+ Observation = 1959" coords="161,294,166,294,166,299,161,299,161,294,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 32 
+ Observation = 1852" title=" Party = Democratic 
+ Factor 2 = 32 
+ Observation = 1852" coords="161,291,166,291,166,296,161,296,161,291,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 32 
+ Observation = 2864" title=" Party = Democratic 
+ Factor 2 = 32 
+ Observation = 2864" coords="161,291,166,291,166,296,161,296,161,291,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 32 
+ Observation = 1759" title=" Party = Democratic 
+ Factor 2 = 32 
+ Observation = 1759" coords="161,291,166,291,166,296,161,296,161,291,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3418" title=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3418" coords="161,288,166,288,166,293,161,293,161,288,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 2890" title=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 2890" coords="161,288,166,288,166,293,161,293,161,288,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3108" title=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3108" coords="161,288,166,288,166,293,161,293,161,288,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3025" title=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3025" coords="161,288,166,288,166,293,161,293,161,288,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3284" title=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3284" coords="161,288,166,288,166,293,161,293,161,288,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3268" title=" Party = Democratic 
+ Factor 2 = 33 
+ Observation = 3268" coords="161,288,166,288,166,293,161,293,161,288,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 34 
+ Observation = 3117" title=" Party = Democratic 
+ Factor 2 = 34 
+ Observation = 3117" coords="161,285,166,285,166,290,161,290,161,285,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 35 
+ Observation = 3153" title=" Party = Democratic 
+ Factor 2 = 35 
+ Observation = 3153" coords="161,282,166,282,166,287,161,287,161,282,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 35 
+ Observation = 3388" title=" Party = Democratic 
+ Factor 2 = 35 
+ Observation = 3388" coords="161,282,166,282,166,287,161,287,161,282,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 36 
+ Observation = 3057" title=" Party = Democratic 
+ Factor 2 = 36 
+ Observation = 3057" coords="161,279,166,279,166,284,161,284,161,279,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 36 
+ Observation = 3373" title=" Party = Democratic 
+ Factor 2 = 36 
+ Observation = 3373" coords="161,279,166,279,166,284,161,284,161,279,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 38 
+ Observation = 3362" title=" Party = Democratic 
+ Factor 2 = 38 
+ Observation = 3362" coords="161,272,166,272,166,277,161,277,161,272,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 38 
+ Observation = 3096" title=" Party = Democratic 
+ Factor 2 = 38 
+ Observation = 3096" coords="161,272,166,272,166,277,161,277,161,272,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 40 
+ Observation = 3129" title=" Party = Democratic 
+ Factor 2 = 40 
+ Observation = 3129" coords="161,266,166,266,166,271,161,271,161,266,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 41 
+ Observation = 3228" title=" Party = Democratic 
+ Factor 2 = 41 
+ Observation = 3228" coords="161,263,166,263,166,268,161,268,161,263,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 42 
+ Observation = 3266" title=" Party = Democratic 
+ Factor 2 = 42 
+ Observation = 3266" coords="161,260,166,260,166,265,161,265,161,260,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 45 
+ Observation = 3377" title=" Party = Democratic 
+ Factor 2 = 45 
+ Observation = 3377" coords="161,251,166,251,166,256,161,256,161,251,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 46 
+ Observation = 3303" title=" Party = Democratic 
+ Factor 2 = 46 
+ Observation = 3303" coords="161,248,166,248,166,253,161,253,161,248,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 46 
+ Observation = 3422" title=" Party = Democratic 
+ Factor 2 = 46 
+ Observation = 3422" coords="161,248,166,248,166,253,161,253,161,248,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 48 
+ Observation = 3359" title=" Party = Democratic 
+ Factor 2 = 48 
+ Observation = 3359" coords="161,242,166,242,166,247,161,247,161,242,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 50 
+ Observation = 3337" title=" Party = Democratic 
+ Factor 2 = 50 
+ Observation = 3337" coords="161,235,166,235,166,240,161,240,161,235,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 52 
+ Observation = 3272" title=" Party = Democratic 
+ Factor 2 = 52 
+ Observation = 3272" coords="161,229,166,229,166,234,161,234,161,229,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 72 
+ Observation = 3427" title=" Party = Democratic 
+ Factor 2 = 72 
+ Observation = 3427" coords="161,167,166,167,166,172,161,172,161,167,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 80 
+ Observation = 3338" title=" Party = Democratic 
+ Factor 2 = 80 
+ Observation = 3338" coords="161,143,166,143,166,148,161,148,161,143,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Factor 2 = 112 
+ Observation = 3411" title=" Party = Democratic 
+ Factor 2 = 112 
+ Observation = 3411" coords="161,44,166,44,166,49,161,49,161,44,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="516,320,553,320,553,322,516,322,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="516,391,553,391,553,393,516,393,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="534,358,534,321,536,321,536,358,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="534,386,534,392,536,392,536,386,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="531,367,541,367,541,377,531,377,531,367,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="498,376,572,376,572,378,498,378,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="498,386,498,358,572,358,572,386,498,386,"/>
+<Area shape="poly" alt=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." title=" Party = independen 
+ Mínimo de dados = 0 
+ Whisker mínimo = 0 
+ Primeiro quartil = 2 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 23 
+ Máximo de dados = 25 
+ Média = 6.9245283019 
+ Desvio padrão = 6.4019314246 
+ Número de observações = 106 
+ Soma do peso = ." coords="498,386,498,358,572,358,572,386,498,386,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="330,320,368,320,368,322,330,322,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="330,407,368,407,368,409,330,409,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="348,361,348,321,350,321,350,361,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="348,389,348,408,350,408,350,389,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="345,370,355,370,355,380,345,380,345,370,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="312,379,386,379,386,381,312,381,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="312,389,312,361,386,361,386,389,312,389,"/>
+<Area shape="poly" alt=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." title=" Party = Republican 
+ Mínimo de dados = -5 
+ Whisker mínimo = -5 
+ Primeiro quartil = 1 
+ Mediana = 4 
+ Terceiro quartil = 10 
+ Whisker máximo = 23 
+ Máximo de dados = 88 
+ Média = 6.2008830022 
+ Desvio padrão = 7.4642856111 
+ Número de observações = 1812 
+ Soma do peso = ." coords="312,389,312,361,386,361,386,389,312,389,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="145,311,182,311,182,313,145,313,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="145,394,182,394,182,396,145,396,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="162,358,162,312,164,312,164,358,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="162,389,162,395,164,395,164,389,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="160,365,170,365,170,375,160,375,160,365,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="126,376,200,376,200,378,126,378,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="126,389,126,358,200,358,200,389,126,389,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." title=" Party = Democratic 
+ Mínimo de dados = -1 
+ Whisker mínimo = -1 
+ Primeiro quartil = 1 
+ Mediana = 5 
+ Terceiro quartil = 11 
+ Whisker máximo = 26 
+ Máximo de dados = 112 
+ Média = 7.7735099338 
+ Desvio padrão = 8.7810620821 
+ Número de observações = 1510 
+ Soma do peso = ." coords="126,389,126,358,200,358,200,389,126,389,"/>
+</map>
+<div class="c">
+<img style="height: 480px; width: 640px" alt="Fit Plot for Factor 2 by Party" src="data:image/png;base64,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" usemap="#/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00079"/>
+</div>
+</article>
+</section>
+</section>
+<hr class="pagebreak"/>
+<section id="IDX7">
+<h1 class="contentfolder toc">Means</h1>
+<section>
+<h1 class="contentfolder toc">Party</h1>
+<section>
+<h1 class="contentfolder toc">Factor 2</h1>
+<article aria-label="Bartlett&amp;apos;s HoV Test">
+<h1 class="contentitem toc">Bartlett&apos;s HoV Test</h1>
+<table class="table" style="border-spacing: 0" aria-label="Bartlett&apos;s HoV Test">
+<caption aria-label="Bartlett&apos;s HoV Test"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="c b header" colspan="4" scope="colgroup">Bartlett&apos;s Test for Homogeneity of Factor 2 Variance</th>
+</tr>
+<tr>
+<th class="b header" scope="col">Source</th>
+<th class="r b header" scope="col">DF</th>
+<th class="r b header" scope="col">Chi-Square</th>
+<th class="r b header" scope="col">Pr&#160;&gt;&#160;ChiSq</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Party</th>
+<td class="r data">2</td>
+<td class="r data">53.2667</td>
+<td class="r data">&lt;.0001</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+</section>
+<section id="IDX8">
+<h1 class="contentfolder toc">Party</h1>
+<section>
+<h1 class="contentfolder toc">Factor 2</h1>
+<article aria-label="Welch&amp;apos;s ANOVA">
+<h1 class="contentitem toc">Welch&apos;s ANOVA</h1>
+<table class="table" style="border-spacing: 0" aria-label="Welch&apos;s ANOVA">
+<caption aria-label="Welch&apos;s ANOVA"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="c b header" colspan="4" scope="colgroup">Welch&apos;s ANOVA for Factor 2</th>
+</tr>
+<tr>
+<th class="b header" scope="col">Source</th>
+<th class="r b header" scope="col">DF</th>
+<th class="r b header" scope="col">F Value</th>
+<th class="r b header" scope="col">Pr&#160;&gt;&#160;F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Party</th>
+<td class="r data">2.0000</td>
+<td class="r data">15.10</td>
+<td class="r data">&lt;.0001</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">Error</th>
+<td class="r data">296.0</td>
+<td class="r data">&#160;</td>
+<td class="r data">&#160;</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+</section>
+<hr class="pagebreak"/>
+<section id="IDX9">
+<h1 class="contentfolder toc">Party</h1>
+<article aria-label="Means">
+<h1 class="contentitem toc">Means</h1>
+<table class="table" style="border-spacing: 0" aria-label="Means">
+<caption aria-label="Means"></caption>
+<colgroup><col/><col/></colgroup><colgroup><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="b header" rowspan="2" scope="col">Level of<br/>Party</th>
+<th class="r b header" rowspan="2" scope="col">N</th>
+<th class="c b header" colspan="2" scope="colgroup">Factor 2</th>
+</tr>
+<tr>
+<th class="r b header" scope="col">Mean</th>
+<th class="r b header" scope="col">Std Dev</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Democratic</th>
+<th class="r data">1510</th>
+<td class="r data">7.77350993</td>
+<td class="r data">8.78106208</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">Republican</th>
+<th class="r data">1812</th>
+<td class="r data">6.20088300</td>
+<td class="r data">7.46428561</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">independen</th>
+<th class="r data">106</th>
+<td class="r data">6.92452830</td>
+<td class="r data">6.40193142</td>
+</tr>
+</tbody>
+</table>
+</article>
+</section>
+</section>
+<hr class="pagebreak"/>
+<div id="IDX10" class="proc_title_group">
+<p class="c proctitle">Least Squares Means</p>
+<p class="c proctitle">Adjustment for Multiple Comparisons: Tukey-Kramer</p>
+</div>
+<section>
+<h1 class="contentfolder toc">Least Squares Means</h1>
+<section>
+<h1 class="contentfolder toc">Party</h1>
+<section>
+<h1 class="contentfolder toc">Factor 2</h1>
+<article aria-label="LSMeans">
+<h1 class="contentitem toc">LSMeans</h1>
+<table class="table" style="border-spacing: 0" aria-label="LSMeans">
+<caption aria-label="LSMeans"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="b header" scope="col">Party</th>
+<th class="r b header" scope="col">Factor 2 LSMEAN</th>
+<th class="r b header" scope="col">LSMEAN Number</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">Democratic</th>
+<td class="r data">7.77350993</td>
+<td class="r data">1</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">Republican</th>
+<td class="r data">6.20088300</td>
+<td class="r data">2</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">independen</th>
+<td class="r data">6.92452830</td>
+<td class="r data">3</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX11" aria-label="Difference Matrix">
+<h1 class="contentitem toc">Difference Matrix</h1>
+<table class="table" style="border-spacing: 0" aria-label="Difference Matrix">
+<caption aria-label="Difference Matrix"></caption>
+<colgroup><col/></colgroup><colgroup><col/><col/><col/></colgroup>
+<thead>
+<tr>
+<th class="c b header" colspan="4" scope="colgroup">Least Squares Means for effect Party<br/>Pr &gt; |t| for H0: LSMean(i)=LSMean(j)<br/><br/>Dependent Variable: Factor 2</th>
+</tr>
+<tr>
+<th class="b header" scope="col">i/j</th>
+<th class="r b header" scope="col">1</th>
+<th class="r b header" scope="col">2</th>
+<th class="r b header" scope="col">3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="rowheader" scope="row">1</th>
+<td class="r data">&#160;</td>
+<td class="r data">&lt;.0001</td>
+<td class="r data">0.5450</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">2</th>
+<td class="r data">&lt;.0001</td>
+<td class="r data">&#160;</td>
+<td class="r data">0.6401</td>
+</tr>
+<tr>
+<th class="rowheader" scope="row">3</th>
+<td class="r data">0.5450</td>
+<td class="r data">0.6401</td>
+<td class="r data">&#160;</td>
+</tr>
+</tbody>
+</table>
+</article>
+<article id="IDX12" aria-label="Party Mean Plot">
+<h1 class="contentitem toc">Party Mean Plot</h1>
+<map id="/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00087" name="/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00087"><Area shape="poly" alt=" Party = independen 
+ LS-Mean = 6.9245 
+ Group = 1" title=" Party = independen 
+ LS-Mean = 6.9245 
+ Group = 1" coords="591,238,596,238,596,243,591,243,591,238,"/>
+<Area shape="poly" alt=" Party = Republican 
+ LS-Mean = 6.2009 
+ Group = 1" title=" Party = Republican 
+ LS-Mean = 6.2009 
+ Group = 1" coords="341,399,346,399,346,404,341,404,341,399,"/>
+<Area shape="poly" alt=" Party = Democratic 
+ LS-Mean = 7.7735 
+ Group = 1" title=" Party = Democratic 
+ LS-Mean = 7.7735 
+ Group = 1" coords="91,50,96,50,96,55,91,55,91,50,"/>
+</map>
+<div class="c">
+<img style="height: 480px; width: 640px" alt="Plot of Factor 2 least-squares means for Party." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAIAAAC6s0uzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAgAElEQVR4nO3de1xUdf748c/IHSRQMwIsab2UCKho8ljNC0pAIhZplutqmaVZ5r3Ur1K2iLm2ulKpuaYEallQa4bGWmvaZde00pkM8ZGPzDIEFLyAAiqc3x/n1+w0CDHDwFuH1/OPHjPnnDnzpg69OGcGxmA0GhUAAGherkqpiIgI6TEAAGhBTCZTK+kZAABoiQgwAAACCDAAAAIIMAAAAggwAAACCDAAAAIIMAAAAggwAAACCDAAAAIIMAAAAggwAAACCDAAAAIIMNAoBoPBYDDUtfaDDz4YOHDgjTfe6O3t3adPn7S0tKqqqnr2YzAYtm3bZl74ySefmJc7fvSG+fzzz8PDw11dXW+77bbG7MdgwcfHJzIyMisry1FDAtcjAgw0lXfeeWfEiBGfffZZSUlJRUXF119/PWPGjISEhPof9f7775tvb926tYln/H2TJk06dOhQdXX14MGDHbXPixcvHjhwYPTo0Tt37rT1sbI/jgAORICBprJo0SKl1Jo1a8rLywsLC3NycgYNGjR58uR6HuLm5paTk1NTU6Pfff/9911dXZth1HocOXJEKXX8+PH09PTG703TNE3Tzp8//9xzzymlli1b1vh9AtcpAgw0laKiIqVUhw4dfHx8AgICEhISdu/e/cADD9TzkAEDBhQXF+/du1cp9c033xw/frxfv35W2+Tl5T3wwAPt27dPTEw8dOiQefnnn39+//33t23btk2bNiNHjiwsLNSX66eMb731Vnh4eOvWraOjo48dO6av+v777xMTE9u1a9euXbu4uLhdu3ZZPZfBYNB/GujYsaN5YXp6eteuXd3d3bt27ZqZmWm5scFgOHToUKdOneq/Xu3r6ztnzhyl1P79+xsyvHmf5nNffXmrVq38/f0vX76slCovL/fx8XF1dS0uLq7nqYFriNFo1ADYS/8+uuqqGTNm6GuDg4MfffTR999//9KlS/XvJy0tTSk1d+5cTdOSk5OVUi+++KLlU+zfv9/T09P8/evj47N//359lWUjlVIjR4603LOl2NhYfVVkZKTl8pCQkKtOZTlATk6O1d5yc3MtN77rrruUUo888kg9/6LKysr0M+Dw8PCGDG/ep9VTR0VFKaV27typ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WsWHBAMA0HC2nQG/9NJLPXv2fOaZZ44fP679VhPNBwCAU7ItwHPmzPnqq6/69u07fvz40aNHf/HFF000FgAAzs3m14BdXFxGjRq1e/fuZ599ds2aNf3799+8efPly5ebYjgAAJyV/W/C6tOnz6ZNm1avXv3MM8907tzZgTMBAOD07A/wDz/88NRTT40aNWry5Ml79+514EwAADg9e34P+MCBAy+99FJJScmkSZPS0tJcXe3ZCQAALZlt7fz3v/+9bt26wMDARYsWde3atYlmAgDA6dkW4JiYGP3GypUrrVbxm0gAADScbQGmsgAAOAR/ihIAAAGNCnA9f5kSAADUgzNgAAAEEGAAAAQ0KsC8JwsAAPvYFuDy8vKZM2ea77788sv+/v4JCQllZWWOHgwAAGdm88cRRkdH67e3bNmybdu2H3/8MTw8fPHixU0wGwAATsu2AG/evLl///767Zdffjk5Odnf33/q1KlZWVlNMBsAAE7LtgAXFBS0a9dOKfXLL7/89NNPAwYMUErddNNNBQUFTTIdAABOyrYA33bbbfqNd999d9SoUa1atVJKnThxIjg42PGjAQDgvGz7U5QjRow4ceKEu7v7qlWrsrOz9YV79+596KGHmmA2AACclm0Bnj179ujRo/Pz81euXBkeHq4v3Llz58svv9wEswEA4LRsuwR944037tq1q6CgYPTo0eaFb7zxxg033GDHcxt+S7+gbSk9Pb179+7du3dPT0+3Y/8AAFyzbDsDdizLv+OxdevWjRs3Wq5NT09fvXr19u3bDQaDfol7woQJzT0iAABNwzF/irLxn8qQmpqanJxsueS1115LTU0NCQnp2LHj4sWL165d28inAADg2nFN/C3onJycoKCgnj17Wi48fPhw79699ds9evTIy8uTGA0AgCYheQnabPHixatWrbJaeOHCBT8/P/12mzZtLl682OxzAQDQVOQDnJub265dO/PJrlnr1q3Pnj174403KqUuXLjQunVry7VfHTB+fdBo9ZCTJ0826agAAFjy9fW1+7G2Bbjxr/XWlpKSsmLFitrLQ0ND9+/ff8899yilvv32227dulmu7dOrR59ePSyXrE3PDAwMdPh4AAA0BdsC7PDPH/z4449bt24dFRVVe9Xjjz++cOHCO+64w8XF5dlnn33ssccc+9QAAAgSvgSdkpKyZMkSq4XD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" usemap="#/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00087"/>
+</div>
+</article>
+<article id="IDX13" aria-label="Party Diffogram">
+<h1 class="contentitem toc">Party Diffogram</h1>
+<map id="/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00095" name="/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00095"><Area shape="poly" alt=" Comparison = Democratic vs. Republican" title=" Comparison = Democratic vs. Republican" coords="177,156,206,184,208,182,179,154,"/>
+<Area shape="poly" alt=" Comparison = Democratic vs. Republican" title=" Comparison = Democratic vs. Republican" coords="149,127,177,156,179,154,151,125,"/>
+<Area shape="poly" alt=" Comparison = independen vs. Republican" title=" Comparison = independen vs. Republican" coords="177,230,259,312,261,310,179,228,"/>
+<Area shape="poly" alt=" Comparison = independen vs. Republican" title=" Comparison = independen vs. Republican" coords="95,147,177,230,179,228,97,145,"/>
+<Area shape="poly" alt=" Comparison = Democratic vs. independen" title=" Comparison = Democratic vs. independen" coords="240,156,323,238,325,236,242,154,"/>
+<Area shape="poly" alt=" Comparison = Democratic vs. independen" title=" Comparison = Democratic vs. independen" coords="158,73,240,156,242,154,160,71,"/>
+<Area shape="poly" alt=" Inclinação = 1 
+ Y = 0" title=" Inclinação = 1 
+ Y = 0" coords="59,410,436,34,438,35,60,412,"/>
+<Area shape="poly" alt=" Mean = 6.92453 (independen)" title=" Mean = 6.92453 (independen)" coords="247,228,398,228,398,230,247,230,"/>
+<Area shape="poly" alt=" Mean = 6.92453 (independen)" title=" Mean = 6.92453 (independen)" coords="96,228,247,228,247,230,96,230,"/>
+<Area shape="poly" alt=" Mean = 6.20088 (Republican)" title=" Mean = 6.20088 (Republican)" coords="247,291,398,291,398,293,247,293,"/>
+<Area shape="poly" alt=" Mean = 6.20088 (Republican)" title=" Mean = 6.20088 (Republican)" coords="96,291,247,291,247,293,96,293,"/>
+<Area shape="poly" alt=" Mean = 7.77351 (Democratic)" title=" Mean = 7.77351 (Democratic)" coords="247,154,398,154,398,156,247,156,"/>
+<Area shape="poly" alt=" Mean = 7.77351 (Democratic)" title=" Mean = 7.77351 (Democratic)" coords="96,154,247,154,247,156,96,156,"/>
+<Area shape="poly" alt=" Mean = 6.92453 (independen)" title=" Mean = 6.92453 (independen)" coords="240,223,240,72,242,72,242,223,"/>
+<Area shape="poly" alt=" Mean = 6.92453 (independen)" title=" Mean = 6.92453 (independen)" coords="240,374,240,223,242,223,242,374,"/>
+<Area shape="poly" alt=" Mean = 6.20088 (Republican)" title=" Mean = 6.20088 (Republican)" coords="177,223,177,72,179,72,179,223,"/>
+<Area shape="poly" alt=" Mean = 6.20088 (Republican)" title=" Mean = 6.20088 (Republican)" coords="177,374,177,223,179,223,179,374,"/>
+<Area shape="poly" alt=" Mean = 7.77351 (Democratic)" title=" Mean = 7.77351 (Democratic)" coords="315,223,315,72,317,72,317,223,"/>
+<Area shape="poly" alt=" Mean = 7.77351 (Democratic)" title=" Mean = 7.77351 (Democratic)" coords="315,374,315,223,317,223,317,374,"/>
+</map>
+<div class="c">
+<img style="height: 480px; width: 480px" alt="Plot of all pairwise Factor 2 least-squares means differences for Party with Tukey-Kramer adjustment at significance level 0.05." src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAHgCAIAAADytinCAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAgAElEQVR4nO3dd1wTdwMG8DsIe4OAgOAWFUFFVHCiImrrQu32rbZ1Vqx71YlatdYtzopW6qjjVdwIinvPYF3V1roIAdl73vvH9Y1pEkICIb+7y/P99NPPebn87sklPByXy4UWi8UUAABwj4iiKD8/P9IxAADgXxITE41IZwAAANVQ0AAAHIWCBgDgKBQ0AABHoaABADgKBQ0AwFEoaAAAjkJBAwBwFAoaAICjUNAAAByFggYA4CgUNAAAR6Gg+YFWhWCe69evf/HFFw0aNLCysvLx8Vm/fn15eXlFCx85cqRbt252dnaWlpbt2rWLjIwsLi7WZ1r1OnXq1LlzZ1Jrv3z5sq+vr0gkql+/fnXGkX9hWFlZ+fv7HzhwQFchgRixWMwA56l87qozVDXzNGjQQCHM0qVLVS45f/585eQhISHVDKBDgYGBnTp1IrX2Zs2asdtk+PDh1RlH5Svk9OnTVRunOklAV8RiMfag+UTh+SOYZPDgwbNnz3706FFeXt6GDRsoivr555+VFzt//nxERIRIJNqwYUN2dvbbt2+PHDnSuXPnUaNG6T1yha5du3bp0iVSa3/69ClFUS9fvtyxY0f1R2NfGNnZ2fPmzaMoavny5dUfE0jCHjQvsE+WypsuXboUFhbm4OBgb28/aNAgiUQiu+natWu9evWytbW1t7fv3r17XFycwrPPLrZ9+/bGjRubmJg0btx4586dCit98OBBgwYN6tWrV1G2rKwsiqJsbGyUbwoLC6Moatq0aWoemvq17969u3nz5p6enrt37541a5abm1vdunUvXrwov8yJEyc8PT2bNWu2d+/eSjeL8oOS3xR//PFH3759HR0dHR0dQ0NDz549q2HOPXv2tGjRwsrKKjg4+K+//qp0NPn7Kjy5VXs6FAbJzs6mKMrW1larraHw8qBp2s7Orri4mGGYnJwcS0tLY2NjqVSq5tkEHRKLxShoflD5y5W9qW7duvIzBw8ezM6/fPmyiYmJ/E1BQUHKIxw/flxhZmxsrPxKO3XqRKn9A3zjxo0URX3wwQfKN7m4uFAU9fTp04ruW+naVWrTpo38MqamprKb9u/fr36zKD8o+Y3p7+8vfy9ZD2qVMzQ0VP1oKp9WDVdU0dMhP0hOTg67B+3r66vV1lBYdfv27SmKiouLYxjm119/pTh2bErwUNC8odwCsp/GyZMnb9q0KTs7+/r16xRFOTo6svODg4Mpiho6dGhaWtqTJ0+Cg4PZ8pK/L8MwHTt2pChq7ty5WVlZM2bMoCiqc+fO8itt3Ljxq1evKgp29OhRU1NTc3NzlS8kkUhEUVR+fn5Fd6907UuXLr137x47/eOPP96+fZuiKHNzc4VlMjIyZs2aRVFUQECA+s2i/KDkN4idnR1FUcuXL3/9+vX27dunTp2qYc4xY8akp6cfPHiQoigrKyv1o8nT1dOh8hUSFRVVna2xdOlSiqLGjRvHMEzv3r3lBwQ9QEHzhsKPsby8vLy5c+f6+vpaWVnJL2ZpaUlRVEpKCvvPgoKC0tJS5aEcHBwoisrMzGQYJj09XfmnV80bTQcOHDAxMTEyMtq3b5/KBZycnCi1e9CVrp1hmLKyMpXTCo8lIyODkjvSUtFmUX5Q8reuXr3ayMiIoqjatWv/+uuvmucsLy9nGEZ2dor60eTp6umQ72VLS8vWrVv/8ssvslurtjWePHlCUZSnp6dUKhWJRKamphkZGSrXDjUBBc0bagr6o48+UthvYuezBS07YlhYWKimoNkfvLS0NIqinJycKl0pwzC7du0yNjY2NjauqHoYhvnggw8oipoyZUpFC2i4dk2m3717R1FUrVq11G8W5QelMOf+/fuffvqpsbExRVGzZs3SditpMpqatVf56VB/a5W3RtOmTSmK+uqrryiK6t+/f0XjQ01AQfOGmh8/CwsLiqJiYmJmz54tv5j8IY6nT5/26NGDPcTBlsX9+/fZxdjjj3PmzMnOzp46dSql9De1ypX+8ssvRkZGIpHot99+UxP7xIkTFEUZGxsvXbo0NTX17du3MTExnTt3lh0p1nDt6qfXrl2bmZnJ3r1Lly7qN4v6Spo2bdq+fftycnKOHTtGye2Pa76VNBmtorVrtSL14yjQfGsovDxmzpwp6/Q9e/ZUND7UBBQ0b6j58VN+85192/3ixYsKbxIGBgYyDCP7Enf2jaZK35VSuVL2L3cFKpecMGGC8pLBwcHsrRquXf002ykURdE0feLECfWbRTmq/ByFN9P8/f21yqnhaBWtvcpPR6W3ar41FF4e7DFriqIsLS1zc3MrGh9qAgqaN9T8+B06dMjFxaVevXrbtm1jG+H58+fsTZcvXw4JCbG2trazs+vSpQv7o37z5k1/f38TExPZSQXy53XJH7hUs1JKlYrC79q1KygoyNLS0tLS0t/f/6effpJ/21CTtauf3rFjh6ura7NmzQ4cOFDpZlGOKj8nPj6+e/fudnZ2Dg4OvXr1evTokVY5NR+tortrvqJKx5Gn+dZQeHmUl5e7u7tTFPXJJ59UNDjUELFYTIvFYtnvTAB+YT/vzhD9zI6wPX/+vHPnzsnJybGxsb169SIdx7AkJiaKSGcAAI5q1aqVWCymKKpdu3ahoaGk4xgifNQbAFQrKyuztLQMDQ09cOAA2YtzGSzsQQOP4eBGjXrw4AHpCIYOe9AAAByFggYA4CgUNAAAR6GgAQA4CgUNAMBR/DuLY/eBQ7m5uaRTAIBBcK/t2q8PsU/o8K+gc3NzR3/1JekUACBkkmTpqfiz7dr4X7lxk2AMHOIAAPgXSbI0/tyFPj17tGjelGwSFDQAwHup797Fn7vQs1tXt9qupLPw8BAHAEDNcbC379Ozu3OtWqSDUBT2oAEA5IlEIo60M4WCBgDgLBQ0AABHoaABwKDJvoudgzhR0Fu3bq1fv37btm1jYmJIZwEAAyJJlu4/fJSzHU3+LI74+Pjz58/funUrNTV1yJAhZWVlgwcPJh0KAISPPd+5Z7eupqampLOoRn4P+ocfflizZk2tWrWaNWu2du3aNWvWkE4EAMIna2cunO9cEfIFnZ2dLZsOCAhgvwMNAKDm8KKdKS4U9E8//TRlypTU1NQ3b96MGDGioKCAdCIAEDK+tDPFhWPQPXr0YBimR48e6enpo0aNunTpkvytt++J79zHPjUA6AaP2pniQkFTFBUSEpKYmEhR1PHjx4OCguRvCmjdMqB1S/k5W3ZE6zUcAAhIZlYWX9qZ4sIhjiFDhpw4cSInJ+fq1atTpkyZNm0a6UQAIFjNvJvwpZ0pLuxB/+c//5k1a9bTp0+bNGmyYsWKjh07kk4EAMAJ5At6wIABAwYMIJ0CAIBzyB/iAAAAlVDQACBYkmTp5es3SKeoOhQ0AAgTe0Zdw3r1SAepOhQ0AAgQv853rggKGgCERhjtTKGgAUBgBNPOFAoaAIRESO1MoaABQDDKy5krN24Kpp0pLnxQBQBAJ4yM6EH9+hoZ0aSD6Az2oAFAOITUzhQKGgCAs1DQAAAchYIGAL6SJEuz5L4zT3hQ0ADAS+wZdfn5Qv6SPBQ0APCPwM53rggKGgB4xkDamUJBAwC/GE47UyhoAOARg2pnCgUteKWFQn4LBQxKekaGQbUzhYIWNnHUplMjvijMzKjCfXNycnSeR294Hb5Swn50ajjY2/ft3dNw2plCQQtYaWHBq3PxmS/+jA//pgodnZubWxOp9IPX4Ssl7EenBk3Tjg4OpFPoFQpasETmFj0jo+zrN6xyRwMAWShoITO3d0BHA/AXClrg0NHAX/kFhv4WNwpa+NDRwEeSZOnBmGPC/iR3pVDQBgEdDfwiO9/Z0tKCdBaSUNCGAh0NfGFon0ZRAwVtQNDRwH1oZ3koaMOCjgYuQzsrQEEbHHQ0cBPaWRkK2hCho4GDCouK0M4KUNAGCh0NXFO/rhfaWQEK2nChowE4DgVt0NDRAFyGgjZ06GgAzkJBAzoaCGDP2SCdgutQ0EBR6GjQL7adWzRrSjoI16Gg4R8KHV2cnUU6EQgTznfWHAoa3pPv6Lvzp2M/GnQO7awVFDT8i6yjc1+/xLEO0C20s7ZQ0KCI7Whrz7o4Hg06hHauAhQ0qGBu7+AfsRzvGYIO3bp3H+2sLRQ0qGZqa4fzOkCH+vfphXbWFgoaKoRz7wDIQkGDOuhoAIJQ0FAJdDQAKShoqBw6GrQlSZZKU1NJp+A9FDRoBB0NmmPPqCsvKycdhPdQ0KApdDRoAuc76xAKGrSAjgb10M66hYIG7aCjoSJoZ51DQYPW0NGgDO1cE1DQUBXoaJCXlZ2Ndq4JKGioInQ0yNjZ2g74sDfaWedQ0FB16GiQsbO1JR1BgFDQUC3oaICag4KG6kJHA9QQFDToADra0GTn5JCOYBBQ0KAb6GjDIUmWxhw/hY7WAxQ06Aw62hDIzne2tbEhnUX4UNCgS+hoYcOnUfQMBQ06ho4WKrSz/qGgQffQ0cKDdiYCBQ01Ah0tJGhnUlDQUFPQ0YJB0zTamQgUNNQgdLQw1HZ1QTsTgYKGmoWOBqgyFDTUOHQ0QNWgoEEf0NEAVYCCBj1BR/OFJFl6LDaOdAqgKBQ06BM6mvvYM+oCWrUkHQQoCgUNeoaO5jKc78w1KGghKCoqJR1BC+hobkI7cxAKmveiD9wcP+dgVk4h6SBaQEdzDdqZm1DQ/FZYVHLx+p8vXqVNX3QkJxcdDVWBduYsFDS/mZuZ/DRvgKeHw18v381YfDQ3r4h0Ii2gozniwaPHaGduQkHznoOd5Yq5Az3c7J+9SJ35w9G8/GLSibSAjuaC0O7BaGduIl/QEonk448/dnJycnJy+vzzz1NSUkgn4h9HB8sV8wa6u9o9/TNl1pKj+QUlpBNpAR0NUBHyBT1s2LCGDRs+f/782bNnderUGT58OOlEvFTL0WrF/IGuzjaPn0m/X3qsoBAdDcB75Av66tWrs2fPdnBwcHR0nD179sWLF0kn4itnJ+uV88Ncatk8fCqZvew4zr0D4DvyBR0SErJ58+acnJz09PSIiIjQ0FDSiXjM1dlmxbyBzk7WDx4nzfnxeFExOhoUSZKlf796TToFaIR8QW/dunXjxo22trZOTk5HjhzZvHkz6UT85uZqu2LeQCcHq/sP385bfrK4pIx0Ii2go2sae0admakp6SCgEfIFPWLEiBEjRmRmZmZmZo4YMWLkyJHyt96+J96yI1r+P1I5ecS9tt1P8wY62lveffB6wYqTJehooCgK5zvzEC0Wi/38/AgmsLa2lkgkNjY2FEXl5ubWrl07NzdXzfJbdkSP/upLfaXjsVdvM6ZEHM7MKmjvX3fBlD4ikbFWd5dIJG5ubjWUrVKFmRnx4d9kvvjTvn7DnpFR5vYOWt2dbPiaVrVHh3auGoKFk5iYSH4PukuXLhEREenp6Tk5ORs3buzSpQvpRALh5eHw09yBdjbmN+6+XLT6dGlZOelEWsB+tG6hnXmKfEH/8ssvSUlJjRs3rlev3r1793755RfSiYSjnqfj8nkDbW3Mr95+8cOa02XoaIOEduYv8gXt4uKyZ8+etLS0tLS0vXv3uri4kE4kKA28nH6c09/ayuzyzb+Wro8vL2dIJ9ICOrr68vLz0c78Rb6goaY1quf845z+VpamF649XxaJjjYsVpaWgwf0RTvzFAraIDRp4LJsdn9LC9NzV579tOksw6CjDYiVpSXpCFBFKGhD0bSR65Lv+1mYm5y5+HTl5nO8qmh0NBgoFLQB8WlS+4dZfc3NTE6ff7zmZ3S0oaNpmqZpV1fX8PDwwkKSFxPv27cvwbVzGQrasPg2dV8880MzM9HJs4/Wb79AOo520NGaSM/I1PwQFsMwr1+/btOmzeLFi2s0lUo0TbMTx48f1//aeQEFbXBaNvdYNP1DUxPjY3G/b9hxiXQc7aCj1ZMkS4/HxmVkZml+F1NT0yFDhuzdu5f954ULF+rXr+/l5XX9+nV2Dk3TERERtWvXjo6O/vbbb728vG7fvs3elJCQ4OXl5eXldf78eXaOWCwOCAgQiUSenp6yu8+ePZuiqODgYJqmvby8Dh06RP2/neX/r/Luhk4sFjO8snn7Tj2vsaQgX89r1IPb4ld9vtgU8nHkpp2XVC6QlJSk50iaK8hIP/pFWHQHv6NfhBVkpCsvwOXw1VfRo0uSJO/csy9JkqzhOBRFsROlpaUWFhbstK+v76lTp+Li4gIDA2WLrVmzJjExkaKozZs3i8ViDw8P9iYfH5+TJ08ePXrUz8+PnRMQELBu3bqSkhL5tfz111+yfz558sTR0VEhgGxC+e7E6b9wZMRiMQq6Eve3bTz6RVhBepo+V6ofN+7+3fvzTSEfR27ddUX5Vo53nPqO5nj4alL56LRtZ0auFrOzsxs1asROm5ubs7tusspWrlHZhJmZWVFRUWFhobm5OTvHwsIiLy9P5Vqio6N9fX3Z8SsaUPnuxJEtaBziUKe0sPDV+TOZL/6MC/+mMD2NdBwda9e67vzJvUXGRvuP3tv+23XScbSDYx3yqvNZweLi4kOHDg0bNoz9p7e3d2xsbHl5eX5+fqX3bdSo0enTp2NjY5s0acLOadGiRVRUVGmpiuvcTpw4ce3atVlZ7w+/mJmZKaxFzd0NFPag1SvISD/6n8HRHfyOfD6wIO2dPletH5dv/Nnrs40hH0f+sv+G/Hxe7IRWtB/Ni/BVpvDoqrDvzGIbwNnZecKECcXFxezMy5cvN2nShKbp4OBg2WIVTcTHx9epU8fT0/PcuXPsnPv377dq1crIyMjLy0th4T179lhbW7MrlUgkDMNER0eHhITIL6N8d+LI7kGTv5qdtvR/camirMz470ZmPP/Drm79nuu3WTjV0ufa9eDi9T+XrIsrKysf/kn7LwYFsDP5ckE4lde940v4qpF/dLjORk0z9KvZcZ+ZnX3PdT87NPLOevkiLvybgrR3pBPpWJfAhjPCQ4yM6F/23fgt5i7pONox8GMd5ubmaGcBQ0FrxMzOvue6rY6NvbNf/R0X/k3Bu1TSiXSsW4fG07/tQdN01N5rB47dIx1HO4bc0Q72dmhnAUNBa8rMzj5k3c+OTZoKtaN7dPaeOqY7TVNbd109dFJMOo52FDq6OFuLE4EBOAsFrQUzW7uQtVsdvZtlv355Ovzr/NQU0ol0LDS46aRR3Wia2rTz8plLf5GOox35jr47f7pB7UeDUIlIB+C6nJwcha/g8vt+0d2IWdl/PTs5ZlhAxHIzYb1n2KqZw7CPWu88cO/XQ/eNjOnuHeqTTqQdv7lL7s6fnvv65akxw/wjlpva2pFOpGMMw9A0LZFISAchwMbGRnYeiIFAQVfCxsaG/b5Eea4bt5+ZOCbtycP7C2eFRkZZugjqIOAXg92srWwid1zceeCeo4N9n+7NSSfShpub6+adp8YMy339MnHR91X4PkMukyRLr926FRTg7+7uTjoL6AMOcVSFqY1tyNotTs18ct6+Pj3u67yUZNKJdGxAb98vwvwYhlq99Vzc+Sek42jH3N7BP2K58N4zZM+o69CurezKFSB4KOgqMrW26blma63mLXKT3sSN+yZPKrQ/OXt1bTRqaAeGoVZsTjh76SnpONoxtbUT2HkdON/ZMKGgq87E2jpk9ZZazX3/6ehkoXX0R/1af/NZEMMwyzeePXf1Gek42hHSuXdoZ4OFgq4WE2vrkDVbavn45UrexoV/LbyO/nSg/7CP25eXMz9Gnrl4/U/ScbQjjI5GOxsyFHR1mVhZhaze7NyiZa4k6fS4r3IlSaQT6djQwQFDh7QtKytfsi7uyk0en3vHx45GOxs4FLQOmFhZ9Vi9ydm3VV6yJG7c17mSt6QT6diwj9p9FtamrKx88ZrT1+/8TTqOdnjd0c9fvEA7GzIUtG6YWFr1WLXRxa9VnlQSN+6b3KQ3pBPp2NefBn7cv3VpWXnEqtib916SjqMd/nZ056BAtLMhQ0HrjImlVY9Vm1z8WrMdnfP2NelEOjbyiw6DP2xZWlq2YOWpO4k8e3T87WgwZChoXRJZWPZYtdGlpX9eSnJcuAA7esyXnQb29ispKZu3/MS933n2VwI6GngHBa1jbEe7tmqTnyKNG/d1zptXpBPp2LivOvcLbVFcUjZ3+QnxI54dbUdHA7+goHVPZG7RfeUG19YB+akpceHf5LwWWkeP/7rrBz2aFxWVzll24sETnp21wuWOliRLnzx7TjoFcAgKukaIzC26r/ino0+Hf539mmfvqqlH09TEkd16BTcrLCqZvfT4wz949kl3bnY0e0adndKFX8CQoaBrisjcvPuKDbX92xa8S40b93X2q79JJ9IlmqamjOkW0sW7oLDk+yXHnjyXkk6kHa51NM53BpVQ0DVIZG7e7afI2m3aFaS9iwv/JuvlC9KJdImm6Wlje3Tr2Di/oHjmD0f/+ItnV8fmTkejnaEiKOiaJTI37/5TZO2A9gVp7+LHj8j6m2efxFPPyIieGd6za1CjvPziGYuPPv+bZ98yw4WORjuDGijoGmdsZtZ9+Xq3tkEFae/ihNjRs8b37NSuQW5e0YzFR/96lUY6kXbIdjTaGdRDQeuDsZlZt+Vr3dsFFaanCa+jjY2NZk/s1SGgfnZO4fSFMX+/TiedSDukOrqoqOjMhYtoZ1ADBa0nxqZmwT+udW/foTA9LS78m8wXPLsynHoiY6O5k3q196+blVM4bVHMq7ecOC9Cc0Q62szM7OOB/dHOoAYKWn+MTc2Cl61xD+xYmJEeH/5N5l+COuNVJDKeP7lP21ZemVkF0xbGvE7KJJ1IO6Q6Wg9rAf5CQesV29EegZ0KMzPix4/I/JNnV8FXz8TEeMHUD/x9PdMz86ctjElKziKdSDtceM8QQB4KWt+MTUy7LlvtEdS5MDMjbvyIjOd/kE6kS6Ymxgunf9DKxyMtI2/qwhiJNJt0Iu2go4FTUNAEGJuYBi9dXadjl6KszPjvRmY859k3/qlnZipaPKOvbzP31LTcqQtjpKk5pBNpp+Y6OvVdWmlZma5GA0OAgibDyMSk6w+r6nTsWpSVGf/dqPRnwupoM9EPM/v6eLulvMuZEnE4NS2XdCLt1ERHS5Klp+LPZmTw7NA8kIWCJsbIxKTrDyvrdAouyso8893I9D+ekE6kSxbmJktm9WvW2FWamjM1IuZdeh7pRNrRbUfLznd2ruWkq4RgCFDQJLEd7dm5W1F21pkJo9KfPiadSJcsLUyWft/fu6FLkjRr6sKY9Ix80om0o6uOxqdRoMpQ0IQZiURdFq/w6tq9KDsrfsKotKePSCfSJStL02Wz+zeu7/xWkjl1UUxGlsF1NNoZqgMFTZ6RSNR54U9eXXsU52Sf+W5U2pOHpBPpkrWV2Y9z+jeoW+v124xpC48UFpWQTqSd6nQ02hmqCQXNCUYiUZdFP3kFhxTn5pyZMDrtsaA62sbafPncAfW9nLoGNTI3MyEdR2tV6+jklBS0M1QTCporaGPjLguX1+3Wszg3J37iqHePfiedSJfsbMzXLx7ynyFtSQepoip0tI21dWiPYLQzVAcKmkNoY+POET/W7R5akpt7ZtLod48ekE6kS2ZmItIRqkXbjraytKzt4qKfbCBUKGhuoY2NOy9YVq9Hr5Lc3DMTR797mEg6EbyHzxmCnqGgOYc2Nu60YFm9kN4leXlnJo1J/V1MOhG8h44GfUJBcxFtZNRp/tJ6PfuU5OWdnTQ29cF90ongvYo6ugwf4wZdQ0FzFG1k1GnekvqhH5bk552d/G1KIjqaQ5Q7WpIsPRBzDB0NuoWC5i7ayKjj3MUNerEdPTYl8R7pRPCefEefGjMs/uSprh2DjI2NSecCQUFBcxptZNRhzuIGvfuWFuSfnfxtivgu6UTwHtvR1p51c1+/tIk75GBuSjoRCA0KmutoI6MOsxc17NOf7Wjp/TukE8F7GYXFOaGD2I7Ge4agcyhoHqCNjIK+j2j4wYDSwoKEKeOk926TTgQUJfsk9wd9+mzeifM6oCagoPmBNjIKmrWg4YcDSwsLEqaio8mTv84Gzr2DGoKC5g3ayKjDrAWN+oaVFhYmTB2XfOcm6UQG7U2SRP46G+hoqAkoaF6h6aCZ8xv1G1RaWJgwLTz59g3SgQxXW/9WCtfZQEeDzqGg+Yamg2bMazxgSFlRUcL08ZJb10kHgvfQ0aBbKGgeounAaXOaDBxSVlR0bsZ3klvXSAeC99DRoEMoaH6i6fZT5zQZ+FFZUdG56ROSbqKjOQQdDbqCguYtmm4/dbb3oE/KiovOz5iQdOMq6UBCJkmW3k/U4grd6GjQCRQ0n9F0uynfew/+9J+Ovn6FdCBhYs+oc3Vx1upe6GioPhQ077WbPKvpkM/KSorPz5z49tol0nGEpjrfK4iOhmpCQQtB20kzm370eVlJ8YVZk99eRUfrTPW/9RUdDdWBghaIthNnNP34i7KS4vPfT3pz5SLpOEKgq+/kRkdDlaGghaPthOnNPvlPeUnJhdmT31y5QDoOv+mqnVnoaKgaFLSgBHw3tfmnbEdPeXP5POk4fFVaWnru0hVdtTMLHQ1VgIIWmjbjpzb/fBjb0a8vJpCOw0sikejjsP46bGcWOhq0hYIWoDbjJvt8Pry8tPTi3GmvLqCjq0IkEtXEsOho0AoKWpj8x03yGfp1eWnppXnTXl04SzoOvIeOBs2hoAXLf+yEFv/5+p/96PNnSMeB99DRoCEUtJC1HjOhxZcjmLKyi/Omv0yIIx2Hu6QpqYWFRfpcIzoaNIGCFrjWo8f7DhvJlJVdWjATHa2SJFl6+uy5rOxsPa8XHQ2VQkELX6tR4X5fjWLKyi7Nn/H32dOk43CL7HxnbS+1oRPoaFAPBW0QWo4Y5/f1GKa8/PKCmX+fiSUdhyt0+2mUqkFHgxooaEPR8puxLb8Zy5SXX46Y9SLuJOk45HGhnVn67+i+fftWukeBE4cAACAASURBVAxN0zW09pobWXhQ0AbE7+sxLUeMY8rLryya/SLuBOk4JHGnnVl67ujjx4/X6PigK+QLmv43IyPykQTM76tRrUayHT3nr9MG2tEpqe841c4sfXa0bB+WpunFixc7Ojq+ffuWnRMTE+Ps7Dxu3DjZwhcuXKhfv76Xl9f169dl95o4caKzs/OxY8fULFO1kRXuZejEYjHDGYcPHx40aJD6ZTZv36mfMAL2YOfP0R38fu3U6s+TRytaJikpSZ+RdEt9+KLiYmlKqt7CaKUgI/3oF2HRHfyOfhFWkJGucpnqPzUURckmIiMjr1y5EhwczM5p1KjRiRMnDh8+LFvG19f31KlTcXFxgYGBsnvt3bv32LFjTZo0UbNM1UZWuBdxBAtHLBZzq6ADAgLu3bunfhkUtE48iN7GdvTzk0dULiDggua4SjtatwWtMGFmZlZUVCQ/x9zcnN2Zs7CwkF+4sLDQ3Nxc/TJVG1l+gjiyBc2h4wnHjx93d3dv1aoV6SAGocV/vvEfO4EpL7+2ZP6fJ4+QjgPvkT2vo2HDhrGxsfv375fN8fb2jo2NLS8vz8/Pl808fPhwXFxc48aN1SxTtZHhX7izB92+ffvbt29Xuhj2oHXo913b2f3oZ8cOK9zE651QXodnqdmPrtE96CNHjtSqVWvs2LGyOZcvX27SpAlN07LDDhRFhYeHOzs7nzx5Us0yVRtZYYI4snvQtFgs9vPzI/XrQSY2Nnb9+vUnTii+bXX7nvjOfbHCzNFffamvXML3aM/OOxtWUTQdNHN+o75hsvkSicTNzY1gsOpQCF9cUmJqYkIwT9UUZmbEh3+T+eJP+/oNe0ZGmds7sPOJPzU0TTMMQzCAPm3ZEU2qcBITE2vkmopVsGjRolWrVinPD2jdMqB1S/k5W3ZE6yuUQWj++TCKpu9Erry2LIIpL2/cfzDpRDomSZYmXLz8UVh/3nU0e6yD7ej48G/kOxoMBCeOQZ85c8ba2rp9+/akgxio5p99GfDdVIphri9f9OzIQdJxdIk937l7l068a2cWNz9naDi7z8RxoqAXLVo0b9480ikMWrNP/hPw3TSKYa7/tPiPGIF0NNc+jVI13Oxo0A9OFPSFCxc6duxIOoWha/bJ0LYTZ1AMc2PF4j8O76/8DtwmjHZmKXR0cXYW6USgJ5woaOCIph993nbSTIphbqxc8jr2GOk4VZeWniGYdmbJd/Td+dOxH20guPImIWfl5OTk5uaSTqE/dh2Dm+ZkP9m28em2DTTF1Ondn3QiraWlZ9y+nxjQyo9iyiUSCek4uuQ3d8nd+dNzX788NWaYf8RyU1s70on0ysbGxtramnQKvUJBV8LGxsbGxoZ0Cr1y+2q0rZ39zVVLn2zbaGNj23TIZ6QTaSctMyuglV8Ln+akg9QANzfXzTtPjRmW+/pl4qLvcV6H4OEQB6jgPeiTpiPGUTR9a/WyJwf2kI6jnRbNmjo5Cra2zO0d/COW4z1DA4GCBtXq9OrbfuociqZvrfnx8b5dpOPAe6a2djivw0CgoKFCTQYOCZw2h6Lp2+t+erzvV9Jx4D2ce2cgUNCgTuMBQwKnz6Vo+va6FY/24jOcHIKONgQoaKhE4/6Dg2bOZz8O/mjPTtJxFEmSpddu3iadggx0tOChoKFyjfqGBc1cQBsZ3dmw6uHuHaTjvMd+GqWelyfpIMSgo4UNBQ0aadR3YNCsBbSR0d2Nax7u2k46DkUJ67OC1aHQ0aWFhaQTgc6goEFTDT8YEPR9BG1kdHfT2t9/jSIbBu0sT9bRdbuHiv7/NSUgAPigCmihYZ/+NEVfXTLv3uZ1FMO0+HIEkRhoZ2Xm9g59tu1BOwsM9qBBOw369OswZzFtZHRvy/oHv2zVfwC0c0XQzsKDPWjQWoNeH9I0dWXRnPs/b2AYyu+rUXpbdXl5+aVrN9DOYCBQ0FAV9UM/pCj6yqLZ4m0bKKbc7+sx+lmvkZHRkAF9jYzwlx8YBLzQoYrqh37Qaf5S2shIHLVJHLVJb+tFO4PhwGsdqq5eSO9OC5bRRkaJ2zeLt20gHQdAaFDQUC31evTqHPEjbWycuGPr/a2RpOMACAoKGqqrbvfQzguW0cbGD3b+fG/Let0OLpGm5OQY0BcmAMhDQYMO1O0e2mXhctrY+Pfobfc2r9XVsJJkaXzC+dz8fF0NCMAvKGjQDa/gkC6LfjISiX7/dfvdTTro6PfnO7u6VH80AD5CQYPOeHXt0XnhT0Yi0cNd2+9uWF2dofBpFAAKBQ265dW1O7sf/XDPL3c2rKraIGhnABYKGnTMs0v3rj+sNDIxebRn5531K7S9O9oZQAYFDbpXp1PwPx3926+312nR0Wnp6WhnABkUNNSIOh27dv1hlZGJyeN9v95au1zDeznY23/YKwTtDMBCQUNNqdOxS/CS1cYmpk/277615kdN7mJkZOTk6FjTwQD4AgUNNcijQ+euS1cZm5g+ObDn1uplpOMA8AwKGmqWR1Dn4GVrjE1Mnxzce3PVUtJxAPgEBQ01zj2wY/CPa41NzZ7+97ebK5dQDCO7qRBfoAdQMRQ06IN7+w7/dPShfTdW/MB2tCRZuj/maAE6GqACKGjQE/d2Qd2WrzU2M/sj5sCNFYslkuT4cxd6Bne1wBc1AVQABQ3649Y2qNuP64zNzP6IORg/f1bP4C44ow5ADRQ06JVb28BWMxdSIhH98O7fO7fIH48GAAUoaNArSbL0dlq2/5wlInPz58cOXVsWgY4GqAi+NBb0R/46G7VqOSVMHff8+GGGYYJmzqfxTYMASvBTAfqTl58vu86Ga+uA7is2iMwt/jwRc23pAqa8nHQ6AM5BQYP+NGpQX/5dQdfWAd1XbhCZW/x58si1JfPR0QAKUNBAkmurNj1WbRRZWP556ujVH+aiowHkoaCBMJeW/mxH/xV7/OriOehoABkUNJDn4te6x6pNJpZWf50+cWUROhrgHyhoqCmSZGnCxcsaLuzi16rHqo0mllYv4k5cXvg9OhqAQkFDDWHPqGvWpLHmd3H2bdVj9SYTK6u/409djpiFjgZAQYPuVfl7BZ1btAxZvdnEyurvM7GXF8xkyspqKCEAL6CgQceq+a2vtXz8QtZsMbG2/vvs6UvoaDBsKGjQJZ18J3et5r4hq7eYWFu/TIi7NH8GOhoMFgoadEYn7cyq1bxFzzVbTa1tXp6LvzhvOjoaDBMKGnTmxp27OmlnllMzn5C1W0ytbV6dP3Nx7rTy0lKdDAvAIyho0JmBH/bR7fWdnZr6hKzbampj++rC2Uvz0NFgcFDQwGlO3s17rt1qZmv36kLCxTlT0dFgUFDQwHWO3s1C1m41s7V7fenchdlTyktKSCcC0BMUNPCAY5OmIet+NrOzf3P5PDpaV2iapmna2NjY29v7xIkT1Ryqojl9+/atzsgGDgUNVSRJlr5LS9fb6hwbe/dct9XMzv7NlQsXZk9GR+sEwzDFxcWRkZEjR46soVUcP368hkY2BChoqAr2jLoS/bakQyPvnux+9JWL52dNKisp1ufahYqmaYZhZDu8Fy5cqF+/vpeX1/Xr12ULTJw40dnZ+dixY7I5ChMURSksIz8+OyEWiwMCAkQikaenJzsnODiYpmkvL69Dhw7JFl68eLGjo+Pbt291/1B5CAUNWtPh+c7acmjUJHT9NnN7h7fXLl2YiY6uLvYQx7Bhw7Zt28bOGT9+/KZNm6KioiZNmiRbLDAwcMeOHVOnTlUzVKXLjBgxYtiwYYWFha9fv2bnnD9/nmGY+Ph4+f13BweH48ePDx06tFoPTDDEYjHDK5u37yQdwSAkJSWpni9J3rlnX5IkWc955GX8+Wz/B12jO/idmTy2tKhQeYGKwguDrh4dRVEMw6SnpwcFBT158oSdaW5uzjaDhYWF/GKFhYXm5ubyc9i/n9QvIz9hYWGRl5cnHyA6OtrX15ddY0X3Io5g4YjFYuxBgxYI7jvLs2/QqGdklLmDY9L1K+dnTiwrLiIYhu8cHBx27do1fPjw1NRUiqK8vb1jY2PLy8vz8/Nlyxw+fDguLq5x43+uTejh4XHz5s3169fLj6OwjLIWLVpERUWVyp0oOXHixLVr12ZlZen4IQkICho0xZF2ZtnXbxgaGWXu6JR04+r5GRPQ0dXRoEGD1atXf/LJJwUFBRs2bPjuu++MjY27desmWyAhIeGbb7758ccf2X8eOnQoLCzM1NRUfhCFZZT9/PPP27dvNzMzq1u3LjsnMjKyf//+ZmZmFEUlJyfr/oHxHy0Wi/38/EjH0MKWHdGjv/qSdArhk0gkbm5usn9mZmUdPXmaI+0sk/X3X3HjRxSmp7m1Der241pjMzN2vkJ4gdHzo2PfRdTb6riGYOEkJiZiDxo0Ym9n1/+DXpxqZ4qi7Oo1CF2/zcKpluTWtYTp48uKsB8NgoKCBk3Z29mRjqCCXb0GPddvs3CqlXz7RsK08NLCQtKJhMaQd5+JQ0ED79nVrR8aGWXhVCv5zs1z6GgQEBQ0CIGtV73QDdstajkn372VMHUcjnWAMKCgQbX8ggLSEbRj61m3V+R2S2cX6b3b95fMLS3kWX4AZSLSAbguJycnNzeXdAp9S0vPuH0/kaIoSwsL0lm0ITJpPX/Z7XnTMh4mxo4f2Wr2ImMzc9KZaoREIiEdgQAbGxtra2vSKfQKBV0JGxsbGxsb0in0SpIsvZv4e0Arv4YNGpDOoj03N+fNO0+NHZ7x6MHD5Qt7rNwgsrAknUnHhH0SIcjDIQ74F9mnUZwcHUhnqSIbD882EcutXGqniO+enfxtaUF+5fcB4CQUNLzHqc8KVodlbffQDVFWrm4piffOTh5bkp9HOhFAVaCg4R+CaWeWtXud/3f0/bOTv0VHAx+hoIGiBNfOLGs3j9AN261qu6U+uH920tiSPHQ08AwKGiiKosqZcoG1M8vazb3Xhh3Wbu6pv4vPTBqDjgZ+QUEDRVGUh5ub8NqZZVXbLTRyu7Wbx7uHiWcmji4xvJMmgb9Q0CB8VrXdQjdEWbvXeffowZlJ6GjgDRQ0GAQrV1lH/x4/cVRxbg7pRACVQ0GDobByqd1rw3YbD8+0xw/PTBhdnJNNOhFAJVDQhkiSLD0Zd4Z0CgIsXVxDI6Ns6nilPUFHAw+goA0Oe0Zdaz9f0kHI+KejPb3Snj6KnzCqKBtfiAfcxYmCjo2N9ff3t7Cw8PX13b9/P+k4QibI8521Zens0ityu61n3fSnj8+go4HDyBf01atXw8PDV61alZKSsnLlyoMHD5JOJFhoZxmLWs6hG7bbetVL/+PJme9GFmVlkk4EoAL5gl6+fPnKlSuDg4NtbGxCQ0OxB11D0M4KLJxqhUZG2XrVS3/2NP67Ueho4CDyBX316tU7d+54eHj4+fklJCSQjiNMaGeV2I62q1s/4/nTeOxHA/eQL+j09PRHjx5dv3797NmzO3bsOHfuHOlEAnT/94doZ5X+6eh6DTKe/xE3fkRhZgbpRADvkb9gv4WFRVRUlJ2dHUVRK1eu7N279927d2W33r4nvnNfTC6dQPQJ6U46AneZOzqFrt8WN35E5p/P4seP6PPzbpG5ML+HBXiHfEH7+vomJiZ27tyZoiiaptmmlglo3TKgdUv5OVt2ROs1HxgAc0en0Mio+PEj6nbriXYG7iBf0OPHj58wYcK+ffucnJxmzJgxa9Ys0onAEJk7OPbZtltkzqvvYAShI1/Qn332mamp6WeffZaWljZ9+vTQ0FDSicBAoZ2Ba8gXNEVRgwcPHjx4MOkUwiFJlpaWlXl6uJMOAgDVQv4sDtAt9ow6kbEx6SAAUF0oaEHB+c4AQoKCFg60M4DAoKAFAu0MIDwoaCFAOwMIEgqa93Lz8tDOAILEidPsoDqsrawG9f/Q2sqKdBAA0DHsQQsB2hlAkFDQAAAchYIGAOAoFDT/ZGRmMQxDOgUA1DgUNM9IkqXHTp3OzMomHQQAahwKmk9k5zs72NtVvjQA8BwKmjfwaRQAQ4OC5ge0M4ABQkHzANoZwDChoLkO7QxgsFDQXGdqaop2BjBMuBYH1zk5OpCOAABkYA8aAICjUNAAAByFguYcfIwbAFgoaG6RJEtjTpxCRwMAhYLmFPaMusCANjRNk84CAOShoLkC5zsDgAIUNCegnQFAGQqaPLQzAKiEgiYM7QwAFUFBE/b0+XO0MwCohI96ExbcqSPpCADAUdiDBgDgKBQ0AABHoaABADgKBa1XkmTpsz//Ip0CAPgBBa0/7Bl11lZWpIMAAD+goPUE5zsDgLZQ0PqAdgaAKkBB1zi0MwBUDQq6ZqGdAaDKUNA1qLCw8Mz5i2hnAKgafNS7Bpmbm380sL+5uRnpIADAS9iDrlloZwCoMhQ0AABHoaABADgKBa1L79LSy8rKSKcAAIFAQeuMJFl6Mu5MRmYW6SAAIBAoaN2Qne9cy8mRdBYAEAgUtA5o+GkUmqZpmjY2Nvb29j5x4kR11kjTdEVz+vbtW52RhUeTDaK8PXWl5kYGQ4CCri6tPivIMExxcXFkZOTIkSNrKM/x48draGSeEvYGYX/ru7q6hoeHFxYWEkyCPYOagIKulip8kpumaYZhZDtWFy5cqF+/vpeX1/Xr12ULTJw40dnZ+dixY7I5ChMURSksIz8+OyEWiwMCAkQikaenJzsnODiYpmkvL69Dhw7JFl68eLGjo+Pbt2+1euA8Ir/1FB5sTEyMs7PzuHHjZAtr8nSoXKZqI+tk4zMM8/r16zZt2ixevLg641SNbPMK+xchMWKxmOGVzdt3ko7wD0mydOeefUmSZA2Xl23z2rVrnzx5kp3p6+t76tSpuLi4wMBA2WJ79+49duxYkyZNZHOUJypdJiAgYN26dSUlJQoxnjx54ujoKFs4MjLyypUrwcHBCoslJSVp+Lg4SD68/JZReLCNGjU6ceLE4cOHZcto8nSoXKZqI1e08avw6LKzsxs0aMBOnz9/vl69ep6enteuXZMttmDBAldX1507d44dO9bT0/PWrVvsTWfPnvX09PT09Dx37hw75/79+23atDE2Nq5Tp47s7t9//z3DMF27dqUoytPT87///S8j95KWT6J8d14jWDhisRgFXXXZObmSZKnmy7Ov4PT09KCgoCdPnrAzzc3N2Ze4hYWF/GKFhYXm5ubyc0pKShRaWHkZ+QkLC4u8vDz5ANHR0b6+vuwaK7qXjCALWmHCzMysqKhIfo4mT0dFy1RtZEbVxq/CoystLZWNrPKXwZo1axITEymK2rx5s1gs9vDwYG/y8fE5efLk0aNH/fz82DnKv9opivrrr79k/1T4Ha8wUdGeAU+hoLXDnYLWluwV/OeffwYGBqakpDAM07Jly9jY2PLycvnFDh06dPToUV9fX3aOh4fHjRs3Vq1aJf/DoLCM8s9J27ZtFX5OHB0dExISioqKUNDsRPPmzY8cObJv3z7ZHE2eDpXLVG1khYnqPLrs7OxGjRqx05r8MlD4XSL/G0j5V7tsYU1+xyvfnddQ0NoRQEEzDHPt2rVu3brl5+dfvny5SZMmNE3L/s6lKCo8PNzZ2Vl2GOTGjRvu7u6RkZHyPwwKyyj/nNy/f79Vq1ZGRkZeXl7snD179lhbW7M/uhKJROW9ZAyhoI8cOVKrVq2xY8fK5mjydKhcpmojK0xU+dEVFRX98ssvixYtYmdq8stANuHj43P06NGYmBjZHrTyr3bZwsq/483MzNg6VrNnwGsoaO3wt6A1pO2Paw0RTEFXE0eeDnkKBU1RlLOz84QJE4qLi9mZmvwykE3Ex8fXqVNH4Ri0wq922cLKv+Ojo6NDQkIYtXsGvEa2oGmxWOzn50fxx5Yd0aO/+pLIqsvLy42Mavy8F/Y0j5peS6UkEombmxvpFFWkw/AceTrk8fqp4R2ChZOYmIjT7DQlSZYePHKsvLy8plfEtTowcHg6gCAUtEbY8507BwXqYQ8aAICFuqkcvlcQAIhAQVcC7QwApKCg1THkdraxsSEdoep4Hb5Swn50IA8FXSFDbmeKomRnU/ERr8NXStiPDuShoCv08s0bg21nAOACEekA3BUY0IZ0BAAwaNiDBgDgKBQ0AABHoaABADgKBf0PSbI08eEj0ikAAN5DQVPU/8+oc3ZyIh0EAOA9FLShn+8MAJxl6AWNdgYAzjLogkY7AwCXGW5Bo50BgOMMtKBLSkoSLl5GOwMAlxnoR71NTEw+DutvYmJCOggAQIUMdA+aoii0MwBwnOEWNAAAx5E/xEHTtMIcfE0nAADFkT1o5t9qYhUpqe+Ki4trYmQAgBrCiYKuaZJkaeyZhIysLNJBAAC0QL6gnZ2dPTw8LC0tW7RosW/fPp2PLzvf2dXZWeeDAwDUHPLHoFNSUiiKKi0tffLkyaRJk5ydnbt3766rwfFpFADgL/IFzRKJRC1atNi5c2dYWNiNGzdk82/fE9+5L67amGhnAOA1rhQ0q6yszMLCQn5OQOuWAa1bys/ZsiNak6HQzgDAd+SPQffr1+/AgQNpaWkvX74cO3bskiVLqj+mNCUV7QwAfEe+oMPDwzdu3NioUaNBgwaNHj26Q4cO1R/T3t6uV0g3tDMA8Br5Qxy9evXq1auXbsc0MzXFORsAwHfk96ABAEAlFDQAAEcJpKBLS0tJRwAA0DEhFLQkWbr/8BF0NAAIDO8Lmj3fuVvnTiIR+Tc8AQB0iN8FjU+jAICA8big0c4AIGx8LWi0MwAIHi8LGu0MAIaAf2+smZmaHj11mqIo9v8AADXHxsaK5OrFYjEjXJu37yQdgTxsBAYb4f+wHRj+bASxWMzLQxwAAIYABQ0AwFEoaAAAjkJBAwBwlMALWuHrsgwTNgKFjfB/2A4UrzYCLRaL/fz8SMcAAIB/SUxMFPgeNAAAf6GgAQA4CgUNAMBRAixoWgnpRMTExsb6+/tbWFj4+vru37+fdBwCFF4JRkYCfMFXSiKRfPzxx05OTk5OTp9//nlKSgrpRMRs3bq1fv36bdu2jYmJIZ1FI8J8vSp8YpJ0HDKuXr0aHh6+atWqlJSUlStXHjx4kHQiAuRfBocPHw4LCyOdiIBhw4Y1bNjw+fPnz549q1OnzvDhw0knIiM+Pv78+fO3bt2Kjo6ePXv2f//7X9KJNCC8a3FQSgVtmAYMGBATE0M6BYcEBATcu3ePdAoCrKyscnJy2OnMzEwrKyuyeUjp2rWrVCplp+Pj4zt16kQ2T6WEeS0OZ2dnDw8PS0vLFi1a7Nu3j3QcYq5evXrnzh0PDw8/P7+EhATScQg7fvy4u7t7q1atSAchICQkZPPmzTk5Oenp6REREaGhoaQTkZGdnS2bDggIEIvFBMNoSnh70KySkpIHDx6EhIScPXuWdBYyjI2NBw8e/OrVq5SUlKFDhyYkJJBORFL79u1v375NOgUZUqm0fv367M97gwYNZHuRhubMmTNDhw5NSUl5/fr14MGDRSIR6USVEOYeNEskErVo0WLnzp2zZs0inYUMCwuLqKgoT09PZ2fnlStXTpkyhXQiYmJjY52cnNq0aUM6CBkjRowYMWJEZmZmZmbmiBEjRo4cSToRGT169Bg2bFiPHj0CAwP9/PwcHR1JJ6qcYAuaVVZWZmFhQToFGb6+vomJiew0TdN2dnZk8xC0aNGiefPmkU5BTEJCwvjx4+3s7Ozs7MaPH3/27FnSiYgJCQlJTEx88+aNv79/UFAQ6TiVE2BB9+vX78CBA2lpaS9fvhw7duySJUtIJyJj/PjxEyZMePbsWXp6+owZMwz2L4kzZ85YW1u3b9+edBBiunTpEhERkZ6enpOTs3Hjxi5dupBORMaQIUNOnDiRk5Nz9erVKVOmTJs2jXQiDQjvGHRsbGxwcLC9vb2/v//Ro0dJxyHp4MGDbdq0qVev3saNG0lnIaZLly6XL18mnYIkqVT62WefOTo6Ojo6fvrppwZ7DDomJsbX19fU1LRFixa8aAaxWIyLJQEAcBEulgQAwF0oaAAAjkJBAwBwFAoaAICjUNAAAByFggYA4CgR6QBak306DgBADwieiMy/gqaIbi8AMChk9whxiAMAgKNQ0NqRfXmSnZ1d37595X+79u3bl5349ddfe/bsKT/BNboKpv7rxKr5ZWM7duzw8fHx8fHZsWOHJrdq8lVneXl5kydPVl5STdTqf2Wa/AhZWVkffvjhxo0bqzlmFdy8eZOm6Yr2B2UhZS9jzdXEt8qxY06ePDkvL0/ng/MJ767FQTYw9f+va3nz5s3q1atr1ar16NEjhWUsLS0LCgrkJ7hGV8EotV9eo/5W9bZv3x4QEPDixYu///47MDBw+/btld6qyeqGDh36+PFjrRJW51EojPDs2bOgoKD4+PhqDlg148ePb9as2bRp01TeWp2HWf1NVNGYjx8//vLLL3U+uFYIFo5YLEZBa0fhtbho0aJPPvlE/iblX4EMw2RnZw8ZMsTOzm7gwIGyLx+iKOrAgQM9e/ZUs0BUVFTdunXd3d1PnTrFznz37l2vXr08PDy2bdvGzlF535cvX/bs2dPKyqp58+aHDh1SeAiyYBkZGf369bO1tR0wYEBmZqZyMJmuXbtSFGVsbNy8efMLFy4obA2Kog4ePOjg4NCjR493796pya9yHGXt2rU7ffo0O33mzJn27dtXemulNXH69Omvv/5aYVNU9E/5h8ZOrFu3LiIiglHa4ElJSZ6enuwy5eXlnp6eycnJysMmJCQEBgY+ffpUfr5sO1e0ebdu3erl5dWoUaNTp07Nnz/fzc2tdevWsn2CSl9XMqWlpe7u7mKxuG7dumVlZezM1NTUHj162NnZ/frrr8qPV+XWUH5dyb+cqhxY4XUiP+ZXX3115swZhhwUtHY4VdDPnz93cXFRuEl5YsKECevXr8/Lyztw4MCMGTNkt0ZGRqpfYMKECSkpKVu3bm3cuDE7c/To0ZGRkWlpabJdIZX35d7+PgAAC4NJREFU9ff3P3v2bF5e3pEjRz799NOKHsW4ceMWLlyYnZ09b9687777TjmYgpKSkqioKB8fH+VHOn78+MzMzMWLF48cOVJNfuVxVP5Ks7GxkRV9amqqjY2N/N1V3urs7Ozu7m5hYeHj4/Pbb78phx80aJCs1hXyK/9T4Ulcu3btokWL2DnKG7xDhw537txhGObChQvBwcEK66UoasuWLY0aNUpPT1eYr7CdlTdveHh4cnLyrl27KIqKjo4uKCjYsWNHmzZtKkqicliGYU6ePNmnTx+GYXr37i3ruxEjRuzbty8/P3/y5MkaFrTK15X8XaoWWPl1IhszNjZ2yJAhDDkoaO1wqqDz8/NlX5yj5iXu5eWVmprKMExeXl7Dhg1lt/7+++/qF2AnioqKjIyM2Ok6depkZ2fLZ1B5Xz8/v9mzZ798+VL9o/D09GRbIzk52cvLSzmYsoKCApUPOSMjg2GYlJQUDw8PNflVjqPMyMiopKSEnS4tLTU2NtbwVjVfdVa7du2UlBT5ORoW9Jo1a/r27Su7SXmDr1y5csGCBQzDjBs3TvnKrhRFjRs3bvjw4dHR0Qrzlbezys1bVFQkPy17vJW+rmS++OKL3bt3Mwyze/fu4cOHszPd3d1zc3MZhklLS9OwoFW+rpTvom1g2ZKy14lspvwriggUtHY4VdDPnz93c3NTuEl5wszMTLZ7aGpqqjxUpQvIpk1NTcvLy+UzqLxvVlbW3Llz69Wr165dO+WrIcuPVlpayjBMcXGxmZmZysfIevz48ZAhQ+rVq8d+Q01Fj7SkpETlOLJpleMos7W1ZX+S2cdiZ2en+a0Mw7x9+7Zdu3YKM01MTIqLi1VuBzWBKYqaM2dOs2bNXr16xc5R3uAvXrxo27ZtWVlZnTp1pFKp/J8CsqEKCwu7du1669YtlatTv3krmq70ZcPKzc21srKSLWljY5Ofn8/eXXa4Q8OCVvm60mFg5aGKi4tlSxJBtqBxFke17N27V5PTIdzc3GSFwu5caLuAjIuLS25ubqX3tbW1Xbhw4YsXL6ZNm/bRRx9VNJqrq2tqaipFUe/evXN1dVWz3rCwsFatWl24cCEjI0PlAunp6ew4bm5uWo2j8oSK5s2b37p1i13gwYMHzZo1kx9E/a1UBV91VqtWrczMTDXZaJouLi6mKIr9v8yiRYvmzJkzd+5c9p/KG7xevXrl5eX79u1r0qSJ7JAX8++jN2ZmZnv27Pn222/lG1zNZtGEhi+bmJiYwYMHy1INGDDgyJEjFEXVrl2bPUdC5UpVbg0NX1fVDCwvIyOjVq1a2q5IMFDQVZSUlLR27doNGzbMnz+/0oWHDBkSERGRnZ3Nfq9wFRaQ+fDDD3ft2pWWljZp0iQ19/30008PHz6cn5/v6Ogo+0ZnZf3791+zZk1OTs6aNWsGDBigZr0pKSkffPCBubn5d999R1FUWVmZwgKLFi3Kzs7evHnzwIEDtRpHeceBoqiRI0fOmTPnxYsXr169mj59+ogRI+QHUXlrpV91FhgYePfuXTXZ6tevv3PnzoyMjDFjxijc9Nlnnz169EgsFlMVbPCwsLCJEyd+/PHHasZ3d3dfu3btF198UVJSUulmUTOOjIYvm127dsnfOnToUPZdwQ8//DAmJiYvL0/la1jl1lD5uvL29s7JydFhYPkx792717FjR00GFyYc4tCKbLvZ2Nj069dP/hw7quI/EnNzc7/88kt7e/vmzZvv379f4VZNFpBNs++8e3h4yM48U3nfQ4cOtW7d2traunv37rK/zZVHk53F0a9fP/YgMqPqb2SGYXbv3u3o6Ojt7b1r1y5XV9e///5b4ZH+9ttv9vb2vXr1UjmObFrlOCpFRUU1a9asadOmP//8s2wm+06Xylsr/aqz2NjYr776SuV2YB09etTNza1OnTpHjx5VfhLPnj0bGhrKVLDBHz9+bGJiIts9VLOWbdu2jR49WmG++s1b0XSlLxuGYaRSqaenJ3sgi1VaWurp6SmVSt+9excSElLRWRwqt4bK11V8fDy7ZaofWDYtGxNncaCgobpUdjoHDR069OHDhzoftry8/MCBA5999pnOR9az1NRU5QP6BOE8aF5eiwOgajZv3jxnzpzVq1frdlgfHx+apo8fP67bYfWvY8eOW7ZsIZ3iva1btxL51CV3oKBBBxhVpzNzkJWVlc7bmaKoR48e6XxMIp4+fUo6wr+sWrWKdATC8CYhAABHoaABADgKBQ3v0TQdFRWlMEf98poMW4ULpClfGrAKgyirieuuEfHixYuwsDAnJycHB4cxY8a8e/eOnY9NLTC0WCzm1/XvExMT+RWYR2ia9vb2TkhIcHd3l81Rc3xZ/a06YWVllZaWZm5urpPR9BBYP9q2bdu7d+/w8HB7e/vbt2/v2bNnw4YN1RwTm1olgoWTmJiIPWj4l8WLFyt/TIOiqMzMzP79+7PXIcvKyqL+v4uksKP06tWr0NBQa2trHx+fw4cPszNly8hOvF2/fr1sJk3T27dvr1evnoeHR2xsrPxdaJrOz89nPxMoWz4tLa1379516tSR7ewHBwfTNC0SiXx8fC5evFjRsCoD81RSUtLYsWNdXV3NzMw6duwoa2dsaoFBQcO/DBkyxNTUdPfu3Qrz58yZ07Zt2zdv3rRs2XLevHnU/8/cUNhLCgsLmzlzZkpKytKlS/fv368wyKxZswYMGPD27dukpCT5+YmJibdu3VqwYAH7OToZlauYPXt2v379EhMTZaccnD9/nmGYwsLCKVOmfPvttxUNq3I0nlq2bFnXrl337t1b0WcOsamFAYc49EF673by3VukU/xLbf+2rq0DFGayf5ZKpdLOnTtfvnzZxcVF9oeql5eXWCx2cHCQSqXt2rV7+fIlperP2JYtW/br12/UqFFeXl4Kw1IU5eHh8fDhQ3t7+5KSEvYKOPK3FhcXW1hYsI0jm6k84enp+ejRIxsbG+UHVVhYaGNjw36QWv2wFRE/eit++FbLbVmzWvnU8Wvurjz/zp07S5YsefDgwbJlywYNGsTO5NGm5guyhzhwHrQ+JN+9lbh9M+kU/0LTtHJBs1xdXefMmTNu3LgDBw7IZkqlUltbW4qiHB0dVV7uh3Xp0qUVK1Z07drVxcVl1apVCldRSEtLY3/aTUxMlO/LXqiv0uQpKSnW1tbyc548eTJ37tzbt29LpdLS0tKqDcsSP3z760Fu/SqlaVplQbdp0+a///3v48ePp02blp2dPXz4cPlbub+pQRMoaH2o7d+Wa8fjKmpn1pdffvnbb78dOnTo/fKurqmpqbVr11Z/3Tv2amcLFy48ePDgRx99pPD3taura2ZmppOTU3W+aI69np/8bl1YWNjQoUNXrlzp6upazfe4WvnU4doz1bK5h5pbmzVrtmfPHm9vb4WC5v6mBo3w7tIWvAvMI5TcJTVevXrVpEkT2Zxx48bNmDEjOzt7+vTp48ePZ2d6e3srfHvAJ598cujQoby8vLNnz3bo0EFh2NGjRy9fvjwjI2PChAmU0tV55KfVTIwePXrjxo3v3r2bOHEiO8fR0fHu3btSqXTUqFEURbEXBlI5rHJgnho5cmR8fHxmZmZGRsbSpUs7d+7Mzsem1jlcLEk7vAvMI9S/r3m0adMm2RyV172TXXJMRuXVzmSDsJfis7W13bhxo+xbNrRtDeXr+Wl+KTjlwDyVnJw8bNgwe3t7e3v7wYMHv379mp2PTa1zZAsabxKCvpWWlu7YsWPjxo337t0jnUXgsKmrD+dBg6Fgz6K1tLTcsmXLtm3bSMcRMmxqYcCbhKA/58+fJx3BUGBTCwP2oAEAOIqXe9CJiYmkIwAA1Dj+FTTeIQQAA4FDHAAAHIWCBgDgKBQ0AABHoaABADgKBQ0AwFEoaAAAjkJBAwBwFAoaAICjUNAAABwlovDJaQAATvofWv2OazUMQQEAAAAASUVORK5CYII=" usemap="#/saswork/SAS_work0EAC00001817_odaws02-usw2.oda.sas.com/#LN00095"/>
+</div>
+</article>
+</section>
+</section>
+</section>
+</section>
+</div>
+</body>
+</html>
