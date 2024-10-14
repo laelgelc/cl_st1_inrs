@@ -15,7 +15,7 @@ proc import datafile="/home/&sasusername/&myfolder/debates_turns_parties_scores.
    getnames=yes;
 run;
 
-/* One-Way ANOVA Factor 1 */
+/* One-Way ANOVA Party Factor 1 */
 
 Title;
 ods noproctitle;
@@ -29,7 +29,7 @@ proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
 	run;
 quit;
 
-/* One-Way ANOVA Factor 2 */
+/* One-Way ANOVA Party Factor 2 */
 
 Title;
 ods noproctitle;
@@ -43,7 +43,7 @@ proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
 	run;
 quit;
 
-/* One-Way ANOVA Factor 3 */
+/* One-Way ANOVA Party Factor 3 */
 
 Title;
 ods noproctitle;
@@ -57,7 +57,7 @@ proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
 	run;
 quit;
 
-/* One-Way ANOVA Factor 4 */
+/* One-Way ANOVA Party Factor 4 */
 
 Title;
 ods noproctitle;
@@ -71,7 +71,7 @@ proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
 	run;
 quit;
 
-/* One-Way ANOVA Factor 5 */
+/* One-Way ANOVA Party Factor 5 */
 
 Title;
 ods noproctitle;
@@ -85,7 +85,7 @@ proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
 	run;
 quit;
 
-/* One-Way ANOVA Factor 6 */
+/* One-Way ANOVA Party Factor 6 */
 
 Title;
 ods noproctitle;
@@ -96,5 +96,90 @@ proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
 	model 'Factor 6'n=Party;
 	means Party / hovtest=bartlett welch plots=none;
 	lsmeans Party / adjust=tukey pdiff alpha=.05;
+	run;
+quit;
+
+
+/* One-Way ANOVA Election Factor 1 */
+
+Title;
+ods noproctitle;
+ods graphics / imagemap=on;
+
+proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
+	class Election;
+	model 'Factor 1'n=Election;
+	means Election / hovtest=bartlett welch plots=none;
+	lsmeans Election / adjust=tukey pdiff alpha=.05;
+	run;
+quit;
+
+/* One-Way ANOVA Election Factor 2 */
+
+Title;
+ods noproctitle;
+ods graphics / imagemap=on;
+
+proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
+	class Election;
+	model 'Factor 2'n=Election;
+	means Election / hovtest=bartlett welch plots=none;
+	lsmeans Election / adjust=tukey pdiff alpha=.05;
+	run;
+quit;
+
+/* One-Way ANOVA Election Factor 3 */
+
+Title;
+ods noproctitle;
+ods graphics / imagemap=on;
+
+proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
+	class Election;
+	model 'Factor 3'n=Election;
+	means Election / hovtest=bartlett welch plots=none;
+	lsmeans Election / adjust=tukey pdiff alpha=.05;
+	run;
+quit;
+
+/* One-Way ANOVA Election Factor 4 */
+
+Title;
+ods noproctitle;
+ods graphics / imagemap=on;
+
+proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
+	class Election;
+	model 'Factor 4'n=Election;
+	means Election / hovtest=bartlett welch plots=none;
+	lsmeans Election / adjust=tukey pdiff alpha=.05;
+	run;
+quit;
+
+/* One-Way ANOVA Election Factor 5 */
+
+Title;
+ods noproctitle;
+ods graphics / imagemap=on;
+
+proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
+	class Election;
+	model 'Factor 5'n=Election;
+	means Election / hovtest=bartlett welch plots=none;
+	lsmeans Election / adjust=tukey pdiff alpha=.05;
+	run;
+quit;
+
+/* One-Way ANOVA Election Factor 6 */
+
+Title;
+ods noproctitle;
+ods graphics / imagemap=on;
+
+proc glm data=WORK.CL_ST1_PH4_INRS_ANOVA;
+	class Election;
+	model 'Factor 6'n=Election;
+	means Election / hovtest=bartlett welch plots=none;
+	lsmeans Election / adjust=tukey pdiff alpha=.05;
 	run;
 quit;
