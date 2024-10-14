@@ -1,0 +1,46 @@
+file = t003474
+date = 1960-10-21
+user = MR._KENNEDY
+conversation = October_21,_1960_Debate_Transcript
+URL = The_Fourth_Kennedy-Nixon_Presidential_Debate
+
+word count = 356
+words loading = 4
+factor score = -15
+
+Well, Mr. Nixon, to go back to 1955 . The **resolution** commits the president 
+in the United States, which I supported, to defend uh – Formosa, the 
+Pescadores, and if it was his military judgment, these **islands** . Then the 
+President sent a mission, composed of Admiral Radford and Mr. Robertson, to 
+persuade Chiang Kai-shek in the spring of fifty-five to withdraw from the two 
+**islands** , because they were exposed. The President was unsuccessful; Chiang 
+Kai-shek would not withdraw. I refer to the fact that in 1958 , as a member of 
+the Senate Foreign Relations Committee, I ' m very familiar with the position 
+that the United States took in negotiating with the Chinese **Communists** on 
+these two **islands** . General Twining, in January, fifty-nine, described the 
+position of the United States. The position of the United States has been that 
+this build-up, in the words of the president, has been foolish. Mr. Herter has 
+said these **islands** are indefensible. Chiang Kai-shek will not withdraw. 
+Because he will not withdraw, because he ' s committed to these **islands** , 
+because we ' ve been unable to persuade him to withdraw, we are in a very 
+difficult position. And therefore, the President ' s judgment has been that we 
+should defend the **islands** if, in his military judgment and the judgment of 
+the commander in the field, the attack on these **islands** should be part of 
+an overall attack on Formosa. I support that. In view of the difficulties we ' 
+ve had with the **islands** , in view of the difficulties and disputes we ' ve 
+had with Chiang Kai-shek, that ' s the only position we can take. That ' s not 
+the position you took, however. The first position you took, when this matter 
+first came up, was that we should draw the line and commit ourselves, as a 
+matter of principle, to defend these **islands** . Not as part of the defense 
+of Formosa and the Pescadores. You showed no recognition of the Administration 
+program to try to persuade Chiang Kai-shek for the last five years to withdraw 
+from the **islands** . And I challenge you tonight to deny that the 
+Administration has sent at least several missions to persuade Chiang Kai-shek ' 
+s withdrawal from these **islands** . 
+
+Lemmas in this text that loaded on the factor:
+
+communists 
+fifty 
+island 
+resolution 

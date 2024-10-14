@@ -1,0 +1,47 @@
+file = t002005
+date = 2004-09-30
+user = KERRY
+conversation = September_30._2004_Debate_Transcript
+URL = The_First_Bush-Kerry_Presidential_Debate
+
+word count = 354
+words loading = 6
+factor score = 24
+
+**Nuclear** **proliferation** . **Nuclear** **proliferation** . There ' s some 
+600-plus tons of unsecured **material** still in the former Soviet Union and 
+Russia. At the rate that the president is currently securing it, it ' ll take 
+13 years to get it. I did a lot of work on this. I wrote a book about it 
+several years ago — six, seven years ago — called " The New War, " which 
+saw the difficulties of this international criminal network. And back then, we 
+intercepted a suitcase in a Middle Eastern country with **nuclear** 
+**materials** in it. And the black market sale price was about $250 million. 
+Now, there are **terrorists** trying to get their hands on that stuff today. 
+And this president, I regret to say, has secured less **nuclear** **material** 
+in the last two years since 9 / 11 than we did in the two years preceding 9 / 
+11 . We have to do this job. And to do the job, you can ' t cut the money for 
+it. The president actually cut the money for it. You have to put the money into 
+it and the funding and the leadership. And part of that leadership is sending 
+the right message to places like North Korea. Right now the president is 
+spending hundreds of millions of dollars to **research** bunker-busting 
+**nuclear** **weapons** . The United States is pursuing a new set of 
+**nuclear** **weapons** . It doesn ' t make sense. You talk about mixed 
+messages. We ' re telling other people, " You can ' t have **nuclear** 
+**weapons** , " but we ' re pursuing a new **nuclear** **weapon** that we might 
+even contemplate using. Not this president. I ' m going to shut that program 
+down, and we ' re going to make it clear to the world we ' re serious about 
+containing **nuclear** **proliferation** . And we ' re going to get the job of 
+containing all of that **nuclear** **material** in Russia done in four years. 
+And we ' re going to build the strongest international network to prevent 
+**nuclear** **proliferation** . This is the scale of what President Kennedy set 
+out to do with the **nuclear** test ban treaty. It ' s our generation ' s 
+equivalent. And I intend to get it done. 
+
+Lemmas in this text that loaded on the factor:
+
+material 
+nuclear 
+proliferation 
+research (secondary)
+terrorist 
+weapon 

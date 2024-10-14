@@ -1,0 +1,15 @@
+file = t000675
+date = 2016-10-04
+user = PENCE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 13
+words loading = 1
+factor score = -1
+
+Senator, do you take all the **deductions** that you ' re entitled to? 
+
+Lemmas in this text that loaded on the factor:
+
+deduction 

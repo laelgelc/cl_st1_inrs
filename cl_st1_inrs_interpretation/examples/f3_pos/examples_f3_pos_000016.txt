@@ -1,0 +1,54 @@
+file = t000722
+date = 2016-10-04
+user = KAINE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 409
+words loading = 11
+factor score = 14
+
+The **terrorist** **threat** has decreased in some ways, because **bin** Laden 
+is dead. The **terrorist** **threat** has decreased in some ways because an 
+**Iranian** **nuclear** **weapons** program has been stopped. The **terrorist** 
+**threat** to United States **troops** has been decreased in some ways because 
+there ' s not 175 , 000 in a dangerous part of the world. There ' s only 15 , 
+000 . But there are other parts of the world that are challenging. Let me tell 
+you this - To beat terrorism, there ' s only one candidate who can do it, and 
+it ' s Hillary Clinton. Remember, Hillary Clinton was the senator from New York 
+on 9 / 11 . She was there at the World Trade Center when they were still 
+searching for victims and survivors. That ' s seared onto her, the need to beat 
+terrorism. And she ' s got a plan to do it. She was part of the national 
+security team that wiped out **bin** Laden. Here ' s her plan to defeat ISIL. 
+First, we ' ve got to keep taking out their **leaders** on the battlefield. She 
+was part of the team that got **bin** Laden, and she ' ll lead the team that 
+will get Abu Bakr al-Baghdadi, the head of ISIS. Second, we ' ve got to disrupt 
+financing networks, third, disrupt their ability to recruit on the Internet, in 
+their safe havens. But, fourth, we also have to work with **allies** to share 
+and surge intelligence. That ' s the Hillary Clinton plan; she ' s got the 
+experience to do it. Donald Trump. Donald Trump can ' t start a Twitter **war** 
+with Miss Universe without shooting himself in the foot. Donald Trump doesn ' t 
+have a plan. He said, " I have a secret plan, " and then he said, " Um, I know 
+more than all the generals about ISIL. " And then he said, " I ' m going to 
+call the generals to help me figure out a plan. " And finally he said, " I ' m 
+going to fire all the generals. " He doesn ' t have a plan. But he does have 
+dangerous ideas. Here ' s four. He trash talks the **military** . The 
+**military** is a disaster, John McCain ' s no hero, the generals need all to 
+be fired, and I know more than them. He wants to tear up alliances. NATO is 
+obsolete, and we ' ll only work together with Israel if they pay " big league. 
+" Third, he loves dictators. He ' s got kind of a personal Mount Rushmore, 
+Vladimir Putin, Kim Jong-un, Moammar Gadhafi … 
+
+Lemmas in this text that loaded on the factor:
+
+ally 
+bin 
+iranian 
+leader (secondary)
+military (secondary)
+nuclear 
+terrorist 
+threat 
+troop 
+war (secondary)
+weapon 

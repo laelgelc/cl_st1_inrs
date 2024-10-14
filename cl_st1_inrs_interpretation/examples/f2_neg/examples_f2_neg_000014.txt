@@ -1,0 +1,16 @@
+file = t001252
+date = 2012-10-11
+user = BIDEN
+conversation = October_11,_2012_Debate_Transcript
+URL = REP._PAUL_D._RYAN,_R-WIS.,_VICE_PRESIDENTIAL_CANDIDATE,AND_VICE_PRESIDENT_JOSEPH_R._BIDEN_JR._PARTICIPATE_IN_ACANDIDATES_DEBATE,_DANVILLE,_KENTUCKY
+
+word count = 21
+words loading = 1
+factor score = -1
+
+Can you guarantee that no one making less than $100 , 000 will have a mortgage 
+— their mortgage **deduction** impacted? Guarantee? 
+
+Lemmas in this text that loaded on the factor:
+
+deduction 

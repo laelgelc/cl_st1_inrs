@@ -1,0 +1,43 @@
+file = t002365
+date = 1996-10-06
+user = CLINTON
+conversation = October_6,_1996_Debate_Transcript
+URL = The_First_Clinton-Dole_Presidential_Debate
+
+word count = 301
+words loading = 7
+factor score = 17
+
+I support **school** choice. I support **school** choice. I have advocated 
+expansions of **public** **school** choice alternatives and I said the creation 
+of 3 , 000 new **schools** that we are going to help the states to finance. But 
+if you ' re going to have a private voucher plan, that ought to be determined 
+by states in localities where they ' re raising and spending most of the money. 
+I simply think it ' s wrong to take money away from programs that are helping 
+build basic skills for **kids** , 90 percent of them are in the **public** 
+**schools** ; to take money away from programs that are helping fund the 
+**school** lunch program, that are helping to fund the other programs, that are 
+helping our **schools** to improve their standards. Our **schools** are getting 
+better, and our **schools** can be made to be even better still with the right 
+kind of **community** leadership and partnership at the **school** level. I 
+have been a strong force for reform. And, Senator, I remind you that a few 
+years ago when I supported **teacher** testing while in my home state I was 
+pretty well lambasted by the **teachers** association. I just don ' t believe 
+we ought to be out there running down **teachers** and attacking them the way 
+you did at the Republican convention. I think we ought to be lifting them up 
+and moving our children forward. And let me just say that budget that you 
+passed that I vetoed would have cut 50 , 000 **kids** out of Headstart. It 
+would have eliminated the AmeriCorps plan and it would have cut back on 
+**student** loans and scholarships. Now, it would have. That ' s a fact. That ' 
+s one of the big reasons I vetoed it. We need to be doing more in **education** 
+, not less. 
+
+Lemmas in this text that loaded on the factor:
+
+community (secondary)
+education 
+kid 
+public (secondary)
+school 
+student 
+teacher 

@@ -1,0 +1,40 @@
+file = t002120
+date = 2000-10-05
+user = CHENEY
+conversation = October_5,_2000_Debate_Transcript
+URL = The_Lieberman-Cheney_Vice_Presidential_Debate
+
+word count = 325
+words loading = 2
+factor score = -8
+
+The **abortion** issue is a very tough one, without question, and a very 
+important one. Governor Bush and I have emphasized while, while we are clearly 
+both pro-life, thatâ€ trade_mark_e s what we believe. We want to reduce the 
+incidence of **abortion** on our society. Many on the pro-choice side have said 
+the same thing. Even Bill Clinton has advocated reducing **abortion** to make 
+it as rare as possible. With respect to the question of RU-486 , we believe 
+that — of course, that it ' s recently been approved by the FDA. That really 
+was a question of whether or not it was safe to be used by women. They didn ' t 
+address the sort of the question of whether or not there should or should not 
+be **abortion** in the society so much as evaluate that particular drug. What 
+we would like to be able to do is to look for ways to reach across the divide 
+between the two points of view and find things that we can do together to 
+reduce the incidence of **abortion** . Such things as promoting adoption as an 
+alternative. Encouraging parental notification. And we also think banning the 
+horrific practice of partial **birth** **abortions** is an area where there 
+could be agreement. Congress has twice passed by overwhelming margins, a 
+significant number of votes from both parties, the ban on partial **birth** 
+**abortions** . Twice it ' s been vetoed by Bill Clinton and Al Gore. We would 
+hope eventually they would recognize that ' s not a good position for them to 
+be in. With respect to the RU-486 proposal, at this stage I haven ' t looked in 
+particular at that particular piece of legislation. Governor Bush made it clear 
+the other night he did not anticipate that he would be able to go in and direct 
+the FDA to reverse course on that particular issue, primarily because the 
+decision they made was on the drug, not the question of whether or not it would 
+support **abortion** . 
+
+Lemmas in this text that loaded on the factor:
+
+abortion 
+birth 

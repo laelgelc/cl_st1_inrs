@@ -1,0 +1,20 @@
+file = t000450
+date = 2020-10-22
+user = TRUMP
+conversation = Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee
+URL = Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee
+
+word count = 69
+words loading = 2
+factor score = -1
+
+It ' s so important. It just shows that he has no understanding of 
+**immigration** or the laws. Catch and release is a **disaster** . A murderer 
+would come in, a rapist would come in, a very bad person would come in — we 
+would take their name, we have to release them into our country. And then you 
+say they come back. Less than 1 % of the people come back. 
+
+Lemmas in this text that loaded on the factor:
+
+disaster 
+immigration 

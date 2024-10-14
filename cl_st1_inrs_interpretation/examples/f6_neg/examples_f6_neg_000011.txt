@@ -1,0 +1,30 @@
+file = t003389
+date = 1960-09-26
+user = MR._KENNEDY
+conversation = September_26,_1960_Debate_Transcript
+URL = The_First_Kennedy-Nixon_Presidential_Debate
+
+word count = 188
+words loading = 2
+factor score = -4
+
+Well, the Vice President and I came to the Congress together 1946 ; we both 
+served in the Labor Committee. I ' ve been there now for fourteen years, the 
+same period of time that he has, so that our experience in uh – government is 
+comparable. Secondly, I think the question is uh – what are the programs that 
+we advocate, what is the **party** record that we lead? I come out of the 
+Democratic **party** , which in this century has produced Woodrow Wilson and 
+Franklin Roosevelt and Harry Truman, and which supported and sustained these 
+programs which I ' ve discussed tonight. Mr. Nixon comes out of the Republican 
+**party** . He was nominated by it. And it is a fact that through most of these 
+last twenty-five years the Republican leadership has opposed federal **aid** 
+for education, medical care for the aged, development of the Tennessee Valley, 
+development of our natural resources. I think Mr. Nixon is an effective leader 
+of his **party** . I hope he would grant me the same. The question before us 
+is: which point of view and which **party** do we want to lead the United 
+States? 
+
+Lemmas in this text that loaded on the factor:
+
+aid (secondary)
+party 

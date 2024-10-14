@@ -1,0 +1,60 @@
+file = t003298
+date = 1976-09-23
+user = MR._CARTER
+conversation = September_23,_1976_Debate_Transcript
+URL = The_First_Carter-Ford_Presidential_Debate
+
+word count = 515
+words loading = 7
+factor score = 24
+
+Well among my other experiences in the past, I ' ve – I ' ve been a nuclear 
+engineer, and did graduate work in this field. I think I know the – the uh 
+capabilities and limitations of atomic power. But the **energy** – uh policy 
+of our nation is one that uh has not yet been established under this 
+administration. I think almost every other developed nation in the world has an 
+**energy** policy except us. We have seen uh – the Federal **Energy** Agency 
+established, for instance. Uh – in the crisis of 1973 it was supposed to be a 
+temporary agency, uh now it ' s permanent, it ' s enormous, it ' s growing 
+every day. I think the Wall Street Journal uh reported not too long ago they 
+have a hundred and twelve public relations experts working for the Federal 
+**Energy** Agency to try to justify to the American people its own existence. 
+We ' ve got to have a – a firm way to handle the **energy** question. The 
+reorganization proposal that I have put forward is one uh first step. In 
+addition to that, we need to have – uh a realization that we ' ve got uh 
+about thirty-five years worth of **oil** left in the whole world. We ' re gonna 
+run out of **oil** . When Mr. Nixon made his famous uh speech on Operation 
+Independence we were **importing** about 35 percent of our **oil** . Now we ' 
+ve increased that amount 25 percent. We now **import** about 44 percent of our 
+**oil** . We need to shift from **oil** to **coal** . We need to concentrate 
+our **research** and development effort on uh **coal** burning and extraction, 
+with safer mines, but also it ' s **clean** burning. We need to shift very 
+strongly toward **solar** **energy** and have strict conservation measures. And 
+then as a last resort only, continue to use atomic power. I would certainly uh 
+– not cut out atomic power altogether. We can ' t afford to give up that 
+opportunity until later. But to the extent that we continue to use atomic 
+power, I would be responsible as president to make sure that the safety 
+precautions were initiated and maintained. For instance, some that have been 
+forgotten; we need to have the reactor core – below ground level, the entire 
+power plant that uses atomic uh – power tightly sealed and a heavy – heavy 
+vacuum maintained. There ought to be a standardized design. There ought to be a 
+full-time uh – atomic **energy** specialist, independent of the power company 
+in the control room, full time, twenty-four hours a day, to shut down a plant 
+if an abnormality develops. These kinds of uh – procedures, along with 
+evacuation procedures, adequate insurance, ought to be initiated. So, shift 
+from **oil** to **coal** , emphasize **research** and development on **coal** 
+use and also on **solar** power, strict conservation measures, not yield every 
+time that the special interest groups uh – put pressure on the president like 
+uh this administration has done, and use atomic **energy** only as a last 
+resort with the strictest possible safety precautions. That ' s the best 
+overall **energy** policy in the brief time we have to discuss it. 
+
+Lemmas in this text that loaded on the factor:
+
+clean 
+coal 
+energy 
+import 
+oil 
+research 
+solar 

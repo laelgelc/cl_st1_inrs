@@ -1,0 +1,16 @@
+file = t001370
+date = 2012-10-16
+user = OBAMA
+conversation = October_16,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_HOFSTRA_UNIVERSITY,_HEMPSTEAD,_NEW_YORK
+
+word count = 14
+words loading = 1
+factor score = -1
+
+I thought we were talking about **immigration** . I do want to make sure that 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+immigration 

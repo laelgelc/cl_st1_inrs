@@ -1,0 +1,30 @@
+file = t002958
+date = 1988-10-05
+user = QUAYLE
+conversation = October_5,_1988_Debate_Transcripts
+URL = The_Bentsen-Quayle_Vice_Presidential_Debate
+
+word count = 206
+words loading = 1
+factor score = -8
+
+Senator Bentsen talks about recapturing the foreign markets. Well, I ' ll tell 
+you one way that we ' re not going to recapture the foreign markets and that is 
+if, in fact, we have another Jimmy Carter grain embargo. ( Equal amounts of 
+cheering and booing ) Jimmy Carter – Jimmy Carter grain embargo set the 
+American **farmer** back. You know what the **farmer** ' s interested in? Net 
+farm income. Every one percent in increase in interest rates, a billion dollars 
+out of the **farmer** ' s pocket. Net farm income, increased inflation, another 
+billion dollars. Another thing that a **farmer** is not interested in and that 
+' s supply management that the Democratic platform talks about. But the 
+Governor of Massachusetts, he has a farm program. He went to the **farmers** in 
+the Midwest and told them not to grow corn, not to grow soybeans, but to grow 
+Belgium endive. That ' s what his – that ' s what he and his Harvard buddies 
+think of the American **farmer** , grow Belgium endive. To come in and to tell 
+our **farmers** not to grow corn, not to grow soybeans, that ' s the kind of 
+farm policy you ' ll get under a Dukakis administration and one I think the 
+American **farmer** rightfully will reject. 
+
+Lemmas in this text that loaded on the factor:
+
+farmer 

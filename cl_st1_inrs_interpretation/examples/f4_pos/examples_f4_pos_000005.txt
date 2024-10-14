@@ -1,0 +1,47 @@
+file = t002335
+date = 1996-10-06
+user = CLINTON
+conversation = October_6,_1996_Debate_Transcript
+URL = The_First_Clinton-Dole_Presidential_Debate
+
+word count = 305
+words loading = 10
+factor score = 24
+
+Well, Jim, I think every American in any position of responsibility should be 
+concerned about what ' s happened. I am. But let ' s look at the overall 
+record. Overall in America cocaine use has dropped 30 percent in the last four 
+years, casual **drug** use down 13 percent. The tragedy is that our young 
+people are still increasing their use of **drugs** up to about 11 percent total 
+with marijuana, and I regret it. Let me tell you what I tried to do about it. I 
+appointed a four-star general who led our efforts south of the border to keep 
+**drugs** from coming into the country as our nation ' s **drug** czar. The 
+most heavily directed, decorated solder in uniform when he retired. We 
+submitted the biggest **drug** budget ever. We have dramatically increased 
+control and **enforcement** at the border. We supported a a **crime** bill that 
+had 60 **death** **penalties** including, including the **death** **penalty** 
+for **drug** kingpins. And I supported a big expansion in safe and drug-free 
+schools program to support things like the DARE program because I thought all 
+those things were very important. Do I think that I **bear** some 
+responsibility for the fact that too many of our **children** still don ' t 
+understand **drugs** are wrong, **drugs** can **kill** you. Even though I have 
+consistently opposed the legalization of **drugs** all my **public** **life** 
+and worked hard against them. I think we all do. And I hope we can do better. I 
+don ' t think this issue should be politicized because my record is clear and I 
+don ' t think Senator Dole supports using using **drugs** . I think we just 
+have to continue to work on this until those who think it isn ' t dangerous and 
+won ' t **kill** them and won ' t destroy their **lives** , get the message and 
+change. 
+
+Lemmas in this text that loaded on the factor:
+
+bear 
+child 
+crime 
+death 
+drug 
+enforcement 
+kill 
+life 
+penalty 
+public 

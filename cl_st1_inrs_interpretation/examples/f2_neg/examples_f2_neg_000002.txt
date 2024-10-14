@@ -1,0 +1,18 @@
+file = t002198
+date = 2000-10-11
+user = BUSH
+conversation = October_11,_2000_Debate_Transcript
+URL = The_Second_Gore-Bush_Presidential_Debate
+
+word count = 55
+words loading = 1
+factor score = -3
+
+In this case when you murder somebody it ' s **hate** , Jim. The crime is 
+**hate** . And they got the ultimate punishment. I ' m not exactly sure how you 
+enhance the penalty any more than the death penalty. We happen to have a 
+statute on the books that ' s a **hate** crimes statute in Texas. 
+
+Lemmas in this text that loaded on the factor:
+
+hate 

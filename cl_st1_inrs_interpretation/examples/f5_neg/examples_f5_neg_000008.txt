@@ -1,0 +1,59 @@
+file = t001659
+date = 2008-10-07
+user = OBAMA
+conversation = October_7,_2008_Debate_Transcript
+URL = The_Second_McCain-Obama_Presidential_Debate
+
+word count = 529
+words loading = 8
+factor score = -7
+
+Well, I think it should be a right for every American. In a country as wealthy 
+as ours, for us to have people who are going bankrupt because they can ' t pay 
+their **medical** bills — for my mother to die of cancer at the age of 53 and 
+have to spend the last months of her life in the hospital room arguing with 
+insurance companies because they ' re saying that this may be a pre-existing 
+**condition** and they don ' t have to pay her treatment, there ' s something 
+fundamentally **wrong** about that. So let me — let me just talk about this 
+fundamental difference. And, Tom, I know that we ' re under time constraints, 
+but Senator McCain through a lot of stuff out there. Number one, let me just 
+repeat, if you ' ve got a health care plan that you like, you can keep it. All 
+I ' m going to do is help you to lower the premiums on it. You ' ll still have 
+choice of **doctor** . There ' s no mandate involved. Small businesses are not 
+going to have a mandate. What we ' re going to give you is a 50 percent tax 
+credit to help provide health care for those that you need. Now, it ' s true 
+that I say that you are going to have to make sure that your child has health 
+care, because children are relatively cheap to insure and we don ' t want them 
+going to the **emergency** room for treatable illnesses like asthma. And when 
+Senator McCain says that he wants to provide children health care, what he 
+doesn ' t mention is he voted against the expansion of the Children ' s Health 
+Insurance Program that is responsible for making sure that so many children who 
+didn ' t have previously health insurance have it now. Now, the final point I ' 
+ll make on this whole issue of government intrusion and mandates — it is 
+absolutely true that I think it is important for government to crack down on 
+insurance companies that are cheating their customers, that don ' t give you 
+the fine print, so you end up thinking that you ' re paying for something and, 
+when you finally get sick and you need it, you ' re not getting it. And the 
+reason that it ' s a problem to go shopping state by state, you know what 
+insurance companies will do? They will find a state — maybe Arizona, maybe 
+another state — where there are no requirements for you to get cancer 
+screenings, where there are no requirements for you to have to get pre-existing 
+**conditions** , and they will all set up shop there. That ' s how in banking 
+it works. Everybody goes to Delaware, because they ' ve got very — pretty 
+loose laws when it comes to things like credit cards. And in that **situation** 
+, what happens is, is that the protections you have, the consumer protections 
+that you need, you ' re not going to have available to you. That is a 
+fundamental difference that I have with Senator McCain. He believes in 
+deregulation in every circumstance. That ' s what we ' ve been going through 
+for the last eight years. It hasn ' t worked, and we need fundamental change. 
+
+Lemmas in this text that loaded on the factor:
+
+condition 
+doctor 
+emergency (secondary)
+exist (secondary)
+medical (secondary)
+pre 
+situation 
+wrong 

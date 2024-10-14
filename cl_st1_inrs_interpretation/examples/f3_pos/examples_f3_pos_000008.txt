@@ -1,0 +1,43 @@
+file = t002006
+date = 2004-09-30
+user = BUSH
+conversation = September_30._2004_Debate_Transcript
+URL = The_First_Bush-Kerry_Presidential_Debate
+
+word count = 219
+words loading = 11
+factor score = 18
+
+Actually, we ' ve increased funding for dealing with **nuclear** 
+**proliferation** about 35 percent since I ' ve been the president. Secondly, 
+we ' ve set up what ' s called the — well, first of all, I agree with my 
+opponent that the biggest **threat** facing this country is **weapons** of 
+**mass** **destruction** in the hands of a **terrorist** network. And that ' s 
+why **proliferation** is one of the centerpieces of a multi-prong **strategy** 
+to make the country safer. My administration started what ' s called the 
+**Proliferation** Security Initiative. Over 60 nations involved with disrupting 
+the trans-shipment of information and / or **weapons** of **mass** 
+**destruction** **materials** . And we ' ve been effective. We busted the A. Q. 
+Khan network. This was a proliferator out of Pakistan that was selling secrets 
+to places like North Korea and Libya. We convinced Libya to disarm. It ' s a 
+central part of dealing with **weapons** of **mass** **destruction** and 
+**proliferation** . I ' ll tell you another way to help protect America in the 
+long run is to continue with **missile** defenses. And we ' ve got a robust 
+**research** and development program that has been ongoing during my 
+administration. We ' ll be implementing a missile-defense system relatively 
+quickly. And that is another way to help deal with the **threats** that we face 
+in the 21st century. My opponent opposed the **missile** defenses. 
+
+Lemmas in this text that loaded on the factor:
+
+destruction 
+mass 
+material 
+missile (secondary)
+nuclear 
+proliferation 
+research (secondary)
+strategy 
+terrorist 
+threat 
+weapon 

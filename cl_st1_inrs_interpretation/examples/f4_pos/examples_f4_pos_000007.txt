@@ -1,0 +1,45 @@
+file = t002209
+date = 2000-10-11
+user = BUSH
+conversation = October_11,_2000_Debate_Transcript
+URL = The_Second_Gore-Bush_Presidential_Debate
+
+word count = 348
+words loading = 7
+factor score = 23
+
+Well, it starts with enforcing **law** . When you say loud and clear to 
+somebody if you ' re going to carry a **gun** illegally, we ' re going to 
+arrest you. If you ' re going to sell a **gun** illegally, you need to be 
+arrested. If you commit a **crime** with a **gun** , there needs to be absolute 
+certainty in the **law** . And that means that the local **law** 
+**enforcement** officials need help at the federal level. Programs like Project 
+Exile where the federal government intensifies arresting people who illegally 
+use **guns** . And we haven ' t done a very good job of that at the federal 
+level recently. And I ' m going to make it a priority. Secondly, I don ' t 
+think we ought to be selling **guns** to people who shouldn ' t have them. That 
+' s why I support instant **background** **checks** at **gun** shows. One of 
+the reasons we have an instant **background** **check** is so that we instantly 
+know whether or not somebody should have a **gun** or not. In Texas I tried to 
+do something innovative. There ' s a lot of talk about trigger locks being on 
+**guns** sold in the future. I support that. But I said if you want a trigger 
+lock to make your **gun** safe, come and get one for free. So we ' re 
+distributing in our State of Texas for free. I think we ought to raise the age 
+at which a juvenile can carry a handgun from 18 to 21 . I disagree with the 
+vice president on this issue. He is for registration of **guns** . I think the 
+only people that are going to show up to register or get a license — I guess 
+licensing like a driver ' s license for a **gun** , the only people that are 
+going to show up are law-abiding citizens. The **criminal** is not going to 
+show up and say hey, give me my I. D. card. It ' s the law-abiding citizens who 
+will do that. An I don ' t think that is going to be an effective tool to make 
+the — keep our society safe. 
+
+Lemmas in this text that loaded on the factor:
+
+background 
+check 
+crime 
+criminal 
+enforcement 
+gun 
+law 

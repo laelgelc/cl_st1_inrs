@@ -1,0 +1,69 @@
+file = t003315
+date = 1976-09-23
+user = MR._CARTER
+conversation = September_23,_1976_Debate_Transcript
+URL = The_First_Carter-Ford_Presidential_Debate
+
+word count = 502
+words loading = 17
+factor score = 42
+
+Well, tonight we ' ve had a chance to talk a lot about the **past** . But I 
+think it ' s time to talk about the **future** . Our **nation** in the last 
+eight years has been divided as never before. It ' s a time for unity. It ' s a 
+time to draw ourselves together: to have a **president** and a Congress that 
+can **work** together with mutual respect for a change, cooperating for a 
+change, in the open for a change, so the **people** can understand their own 
+**government** . It ' s time for **government** , industry, labor, 
+manufacturing, agriculture, education, other entities in our **society** to 
+cooperate. And it ' s a time for **government** to understand and to cooperate 
+with our **people** . For a long time our **American** **citizens** have been 
+excluded, sometimes misled, sometimes have been lied to. This is uh – not 
+compatible with the purpose of our **nation** . I believe in our country. It 
+needs to be competent. The **government** needs to be well-managed, efficient, 
+economical, We need to have a **government** that ' s sensitive to our 
+**people** ' s needs – to those who are poor, who don ' t have adequate 
+health care, who have been cheated too long with our tax **programs** , who ' 
+ve been out of jobs, whose families have been torn apart. We need to restore 
+the faith and the trust of the **American** **people** in their own 
+**government** . In addition to that, we ' ve suffered because we haven ' t had 
+leadership in this administration. We ' ve got a **government** of stalemate. 
+We ' ve lost the vision of what our country can and ought to be. This is not 
+the America that we ' ve known in the **past** . It ' s not the America that we 
+have to have in the **future** . I don ' t claim to know all the answers. But I 
+' ve got confidence in my country. Our economic **strength** is still there. 
+Our system of **government** – in spite of Vietnam, Cambodia, CIA, Watergate 
+– is still the **best** system of **government** on earth. And the greatest 
+resource of all are the two hundred and fifteen million Americans who have 
+within us the **strength** , the character, the intelligence, the experience, 
+the patriotism, the idealism, the compassion, the sense of brotherhood on which 
+we can rely in the **future** to restore the greatness to our country We ought 
+not to be excluded from our **government** anymore. We need a **president** who 
+can go in – who derives his **strength** from the **people** . I owe the 
+special **interests** nothing. I owe everything to you, the **people** of this 
+country. And I believe that we can bind our wounds. I believe that we can 
+**work** together. And I believe that if we can tap the tremendous untapped 
+reservoir of innate **strength** in this country, that we can once again have a 
+**government** as **good** as our **people** , and let the **world** know what 
+we still know and **hope** for – that we still live in the greatest and the 
+**strongest** and the **best** country on earth. 
+
+Lemmas in this text that loaded on the factor:
+
+american 
+citizen 
+future 
+good 
+government 
+hope 
+interest (secondary)
+nation 
+past 
+people 
+president 
+program (secondary)
+society (secondary)
+strength 
+strong 
+work 
+world 
