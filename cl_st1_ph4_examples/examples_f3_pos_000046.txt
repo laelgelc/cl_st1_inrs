@@ -1,0 +1,40 @@
+file = t001975
+date = 2004-09-30
+user = KERRY
+conversation = September_30._2004_Debate_Transcript
+URL = The_First_Bush-Kerry_Presidential_Debate
+
+word count = 280
+words loading = 7
+factor score = 10
+
+What I think troubles a lot of people in our country is that the president has 
+just sort of described one kind of mistake. But what he has said is that, even 
+knowing there were no **weapons** of **mass** **destruction** , even knowing 
+there was no imminent **threat** , even knowing there was no connection with Al 
+Qaida, he would still have done everything the same way. Those are his words. 
+Now, I would not. So what I ' m trying to do is just talk the truth to the 
+American people and to the world. The truth is what good policy is based on. It 
+' s what leadership is based on. The president says that I ' m denigrating 
+these **troops** . I have nothing but respect for the British, Tony Blair, and 
+for what they ' ve been willing to do. But you can ' t tell me that when the 
+most **troops** any other country has on the ground is Great Britain, with 8 , 
+300 , and below that the four others are below 4 , 000 , and below that, there 
+isn ' t anybody out of the hundreds, that we have a genuine coalition to get 
+this job done. You can ' t tell me that on the day that we went into that 
+**war** and it started — it was principally the United States, the America 
+and Great Britain and one or two others. That ' s it. And today, we are 90 
+percent of the casualties and 90 percent of the costs. And meanwhile, North 
+Korea has got **nuclear** **weapons** . Talk about mixed messages. The 
+president is the one that said, " We can ' t allow countries to get **nuclear** 
+**weapons** . " They have. I ' ll change that. 
+
+Lemmas in this text that loaded on the factor:
+
+destruction 
+mass 
+nuclear 
+threat 
+troop 
+war (secondary)
+weapon 

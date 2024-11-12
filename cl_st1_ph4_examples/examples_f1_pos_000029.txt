@@ -1,0 +1,58 @@
+file = t003284
+date = 1976-09-23
+user = MR._CARTER
+conversation = September_23,_1976_Debate_Transcript
+URL = The_First_Carter-Ford_Presidential_Debate
+
+word count = 333
+words loading = 18
+factor score = 48
+
+Well, Mr. Ford is – is uh changing uh considerably his previous philosophy. 
+The present **tax** structure is a disgrace to this country; it ' s just a 
+welfare **program** for the rich. As a matter of fact, uh – 25 **percent** of 
+the total **tax** deductions, go for only 1 **percent** of the richest 
+**people** in this country, and over 50 **percent** of the **tax** uh credits 
+go for the 14 **percent** of the richest **people** in this country. When Mr. 
+Ford first became president in – in August of 1974 , the first thing he did 
+in – in October was to ask for a $4 . 7 **billion** **increase** in **taxes** 
+on our **people** in the midst of the heaviest recession, since uh – since 
+the great depression of nineteen uh – of the 1940s. In uh – January of 1975 
+he asked for a **tax** change: a $5 . 6 **billion** **increase** on 
+low-and-middle-income **private** individuals, a six and a half **billion** 
+**dollar** decrease on the corporations and the special **interests** . In uh 
+– December of uh – 1975 he **vetoed** the roughly 18 to 20 **billion** 
+**dollar** uh tax-reduction **bill** that had been passed by the Congress, and 
+then he came back later on in January of this year and he did advocate a $10 
+**billion** **tax** **reduction** , but it would be offset by a $6 **billion** 
+**increase** this coming January in deductions for Social Security **payments** 
+and for unemployment compensation. The whole philosophy of the Republican 
+party, including uh – my opponent, has been to pile on **taxes** on 
+low-income **people** to take ' em off on the corporations. As a matter fact, 
+in – sin- since the late sixties when Mr. Nixon took office, we ' ve had a 
+**reduction** in uh – in the percentage of **taxes** **paid** by corporations 
+from 30 **percent** down to about 20 **percent** . We ' ve had an **increase** 
+in **taxes** **paid** by individuals, payroll **taxes** , from14 **Percent** up 
+to 20 **percent** . And this is what the Republicans have done to us. And this 
+is why a **tax** **reform** is so important. 
+
+Lemmas in this text that loaded on the factor:
+
+bill 
+billion 
+dollar 
+income 
+increase 
+interest 
+low 
+middle 
+pay 
+payment 
+people (secondary)
+percent 
+private 
+program 
+reduction 
+reform 
+tax 
+veto 

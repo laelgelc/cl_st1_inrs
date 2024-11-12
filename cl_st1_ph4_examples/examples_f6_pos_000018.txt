@@ -1,0 +1,57 @@
+file = t002111
+date = 2000-10-05
+user = CHENEY
+conversation = October_5,_2000_Debate_Transcript
+URL = The_Lieberman-Cheney_Vice_Presidential_Debate
+
+word count = 367
+words loading = 15
+factor score = 17
+
+I think **public** **education** is a solution. Our desire is to find ways to 
+reform our educational system, to **return** it to its former glory. I ' m a 
+product of **public** **schools** , my family, wife and **daughters** all went 
+to **public** **schools** . We believe very much in the **public** **school** 
+system. But if you look at where we are from the standpoint of the nation, 
+recent exams. For example, the National Assessment of Educational Progress, an 
+independent **testing** service, shows there ' s been no progress on reading 
+scores in the last eight years. Almost no progress on math. The achievement gap 
+between **minority** and non-minority **students** is as big as itâ€ 
+trade_mark_e s ever been. We ' ve had a significant increase in spending for 
+**education** nationwide, but it has produced almost no positive results. That 
+' s unacceptable from our standpoint. If you look at it and think about it, we 
+now have in our most disadvantaged **communities** , 70 % of our fourth graders 
+can ' t read at the basic level of understanding. We ' ve **graduated** 15 
+million **kids** from high **school** in the last few years who can ' t read at 
+a significant level. They are permanently sentenced to a lifetime of 
+**failure** . What we want to do is to change that. We think we know how to do 
+it. Governor Bush has done it in Texas. We want to emphasize **local** control 
+so that people here in Danville, KY decide what is best for their **kids** . We 
+want to insist on high standards. One of the worst things we can do is fail to 
+establish high standards, in effect to say to a youngster because of their 
+ethnic **background** or income level, we don ' t have the same kind of 
+expectations from you that we have from everybody else. We want 
+**accountability** . We have to test every child every year to know whether or 
+not we ' re making progress with respect to achieving those goals and 
+objectives. We think it ' s extraordinarily important. Probably the single most 
+important issue in this campaign. Governor Bush has made it clear that when he 
+' s elected this will be his number one priority as a legislative measure to 
+submit to the Congress. 
+
+Lemmas in this text that loaded on the factor:
+
+accountability 
+background (secondary)
+community (secondary)
+daughter 
+education 
+failure (secondary)
+graduate 
+kid 
+local 
+minority 
+public (secondary)
+return 
+school 
+student 
+testing 

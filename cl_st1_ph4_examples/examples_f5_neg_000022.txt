@@ -1,0 +1,20 @@
+file = t000293
+date = 2020-10-07
+user = HARRIS
+conversation = October_07,_2020_Vice_Presidential_Debate_Transcript
+URL = Vice_Presidential_Debate_at_the_University_of_Utah_in_Salt_Lake_City,_Utah
+
+word count = 39
+words loading = 3
+factor score = -4
+
+– and it ' s just – He interrupted me and I ' d like to just finish, 
+please. If you have a pre-existing **condition** , heart disease, diabetes, 
+breast cancer, they ' re coming for you. If you love someone who has a 
+pre-existing **condition** – 
+
+Lemmas in this text that loaded on the factor:
+
+condition 
+exist (secondary)
+pre 

@@ -1,0 +1,53 @@
+file = t001113
+date = 2012-10-03
+user = ROMNEY
+conversation = October_3,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PRESIDENTIAL_CANDIDATE,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_UNIVERSITY_OF_DENVER,_COLORADO
+
+word count = 319
+words loading = 15
+factor score = 44
+
+But you ' ve been — but you ' ve been president four years … You ' ve been 
+president four years. You said you ' d **cut** the **deficit** in half. It ' s 
+now four years later. We still have trillion-dollar **deficits** . The CBO says 
+we ' ll have a trillion-dollar **deficit** each of the next four years. If you 
+' re re-elected, we ' ll get to a trillion-dollar debt. I mean, you have said 
+before you ' d **cut** the **deficit** in half. And this — I love this idea 
+of $4 trillion in **cuts** . You found $4 trillion of ways to reduce or to get 
+closer to a **balanced** **budget** , except we still show trillion-dollar 
+**deficits** every year. That doesn ' t get the **job** done. Let me come back 
+and say, why is it that I don ' t want to **raise** **taxes** ? Why don ' t I 
+want to **raise** **taxes** on **people** ? And actually, you said it back in 
+2010 . You said, " Look, I ' m going to extend the **tax** policies that we 
+have now; I ' m not going to **raise** **taxes** on anyone, because when the 
+**economy** is **growing** slow like this, when we ' re in recession, you 
+shouldn ' t **raise** **taxes** on anyone. " Well, the **economy** is still 
+**growing** slow. As a matter of fact, it ' s **growing** much more slowly now 
+than when you made that statement. And so if you believe the same thing, you 
+just don ' t want to **raise** **taxes** on **people** . And the reality is it 
+' s not just **wealthy** **people** — you mentioned Donald Trump. It ' s not 
+just Donald Trump you ' re **taxing** . It ' s all those **businesses** that 
+employ one-quarter of the workers in America; these **small** **businesses** 
+that are **taxed** as individuals. You **raise** **taxes** and you kill 
+**jobs** . That ' s why the National Federation of Independent **Businesses** 
+said your **plan** will kill 700 , 000 **jobs** . I don ' t want to kill 
+**jobs** in this environment. I ' ll make one more point. 
+
+Lemmas in this text that loaded on the factor:
+
+balanced 
+budget 
+business 
+cut 
+deficit 
+dollar 
+economy 
+grow 
+job 
+people (secondary)
+plan 
+raise 
+small 
+tax 
+wealthy 

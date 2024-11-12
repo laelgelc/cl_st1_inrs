@@ -1,0 +1,17 @@
+file = t000733
+date = 2016-10-04
+user = KAINE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 31
+words loading = 1
+factor score = -1
+
+We have different views on — on refugee issues and on immigration. Hillary 
+and I want to do enforcement based on, are people **dangerous** ? These guys 
+say all Mexicans are bad. 
+
+Lemmas in this text that loaded on the factor:
+
+dangerous 

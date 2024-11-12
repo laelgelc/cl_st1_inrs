@@ -1,0 +1,33 @@
+file = t000303
+date = 2020-10-07
+user = PENCE
+conversation = October_07,_2020_Vice_Presidential_Debate_Transcript
+URL = Vice_Presidential_Debate_at_the_University_of_Utah_in_Salt_Lake_City,_Utah
+
+word count = 235
+words loading = 2
+factor score = -3
+
+As I said, Susan, the climate is changing. We ' ll follow the science, but, 
+once again, Senator Harris is denying the fact that they ' re gonna raise taxes 
+on every American. Joe Biden said twice in the debate last week that on day one 
+he was going to repeal the Trump tax cuts. Those tax cuts delivered $2 , 000 in 
+tax relief to the average family of four across America. And with regard to 
+banning fracking, I just **recommend** that people look at the record. You 
+yourself said repeatedly that you would ban fracking. You were the first senate 
+co-sponsor of the Green New Deal. And while Joe Biden denied the Green New 
+Deal, Susan, thank you for pointing out, the Green New Deal is on their 
+campaign website. And as USA TODAY said, it ' s essentially the same plan as 
+you co-sponsored with AOC when she submitted it in the Senate. And you just 
+heard the senator say that she ' s going to resubmit America to the Paris 
+Climate Accord. Look, the American people have always cherished our 
+environment. We will continue to cherish it. We ' ve made great progress 
+reducing CO2 emissions through American innovation and the development of 
+natural gas through fracking. We don ' t need a massive, $2 trillion Green New 
+Deal that would impose all new mandates on American businesses and American 
+families, Joe Biden wants us to retrofit 4 million – 
+
+Lemmas in this text that loaded on the factor:
+
+recommend 
+sponsor 

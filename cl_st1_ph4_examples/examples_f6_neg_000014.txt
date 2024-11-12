@@ -1,0 +1,28 @@
+file = t000911
+date = 2016-10-09
+user = TRUMP
+conversation = October_9,_2016_Debate_Transcript
+URL = Presidential_Debate_at_Washington_University_in_St._Louis,_Missouri
+
+word count = 171
+words loading = 1
+factor score = -3
+
+A lot of my—excuse me, Anderson—a lot of my write- off was depreciation and 
+other things that Hillary as a senator allowed. And she ' ll always allow it, 
+because the people that give her all this money, they want it. That ' s why. 
+See, I understand the tax code better than anybody that ' s ever run for 
+president. Hillary Clinton—and it ' s extremely complex—Hillary Clinton has 
+friends that want all of these **provisions** , including they want the carried 
+interest **provision** , which is very important to Wall Street people. But 
+they really want the carried interest **provision** , which I believe Hillary ' 
+s leaving. Very interesting why she ' s leaving carried interest. But I will 
+tell you that, number one, I pay tremendous numbers of taxes. I absolutely used 
+it. And so did Warren Buffett and so did George Soros and so did many of the 
+other people that Hillary is getting money from. Now, I won ' t mention their 
+names, because they ' re rich, but they ' re not famous. So we won ' t make 
+them famous. 
+
+Lemmas in this text that loaded on the factor:
+
+provision 

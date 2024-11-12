@@ -1,0 +1,53 @@
+file = t001229
+date = 2012-10-11
+user = BIDEN
+conversation = October_11,_2012_Debate_Transcript
+URL = REP._PAUL_D._RYAN,_R-WIS.,_VICE_PRESIDENTIAL_CANDIDATE,AND_VICE_PRESIDENT_JOSEPH_R._BIDEN_JR._PARTICIPATE_IN_ACANDIDATES_DEBATE,_DANVILLE,_KENTUCKY
+
+word count = 326
+words loading = 14
+factor score = 54
+
+The **middle** **class** will **pay** less and **people** making $1 million or 
+more will begin to contribute slightly more. Let me give you one concrete 
+example. The continuation of the Bush **tax** **cuts** — we are arguing that 
+the Bush **tax** **cuts** for the **wealthy** should be allowed to expire. Of 
+the Bush **tax** **cuts** for the **wealthy** , $800 million — **billion** of 
+that goes to **people** making a minimum of $1 million. We see no justification 
+in these economic times for those, and they ' re patriotic Americans. They ' re 
+not asking for this continued **tax** **cut** . They ' re not suggesting it, 
+but my friends are insisting on it; 120 , 000 **families** by continuing that 
+**tax** **cut** will get an **additional** $500 **billion** in **tax** 
+**relief** in the next 10 years and their **income** is an average of $8 
+million. We want to extend permanently the middle-class **tax** **cut** for — 
+permanently, from the Bush middle-class **tax** **cut** . These **guys** won ' 
+t allow us to. You know what they ' re saying? We say " let ' s have a vote — 
+let ' s have a vote on the middle-class **tax** **cut** and let ' s have a vote 
+on the upper ( ph ) **tax** **cut** ; let ' s go ahead and vote on it. " They ' 
+re saying no. They ' re holding hostage the **middle** **class** **tax** 
+**cut** to the super **wealthy** . And on top of that, they ' ve got another 
+**tax** **cut** coming that ' s $5 trillion that all of the studies point out 
+will in fact give another $250 million — yeah, $250 , 000 a year to those 120 
+, 000 **families** and **raise** **taxes** for **people** who are **middle** 
+**income** with a child by $2 , 000 a year. This is unconscionable. There is no 
+need for this. The **middle** **class** got knocked on their heels. The great 
+recession crushed them. They need some help now. The last **people** who need 
+help are 120 , 000 **families** for another — another $500 **billion** 
+**tax** **cut** over the next 10 years. 
+
+Lemmas in this text that loaded on the factor:
+
+additional 
+billion 
+class 
+cut 
+family 
+guy (secondary)
+income 
+middle 
+pay 
+people (secondary)
+raise 
+relief 
+tax 
+wealthy 

@@ -1,0 +1,33 @@
+file = t001675
+date = 2008-10-07
+user = MCCAIN
+conversation = October_7,_2008_Debate_Transcript
+URL = The_Second_McCain-Obama_Presidential_Debate
+
+word count = 232
+words loading = 3
+factor score = -3
+
+General Petraeus has just taken over a position of responsibility, where he has 
+the command and will really set the tone for the strategy and tactics that are 
+used. And I ' ve had conversations with him. It is the same overall strategy. 
+Of course, we have to do some things tactically, some of which Senator Obama is 
+correct on. We have to double the size of the Afghan army. We have to have a 
+streamlined NATO command structure. We have to do a lot of things. We have to 
+work much more closely with the Pakistanis. But most importantly, we have to 
+have the same strategy, which Senator Obama said wouldn ' t work, couldn ' t 
+work, still fails to admit that he was **wrong** about Iraq. He still will not 
+admit that he was **wrong** about the strategy of the surge in Iraq, and that ' 
+s the same kind of strategy of go out and secure and hold and allow people to 
+live normal lives. And once they feel secure, then they lead normal, social, 
+economic, political lives, the same thing that ' s happening in Iraq today. So 
+I have confidence that General Petraeus, working with the Pakistanis, working 
+with the Afghans, doing the same job that he did in Iraq, will again. We will 
+succeed and we will bring our **troops** home with **honor** and victory and 
+not in defeat. 
+
+Lemmas in this text that loaded on the factor:
+
+honor 
+troop (secondary)
+wrong 

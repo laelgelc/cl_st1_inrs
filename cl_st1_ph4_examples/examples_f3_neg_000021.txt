@@ -1,0 +1,42 @@
+file = t002935
+date = 1988-09-25
+user = DUKAKIS
+conversation = September_25,_1988_Debate_Transcript
+URL = The_First_Bush-Dukakis_Presidential_Debate
+
+word count = 360
+words loading = 1
+factor score = -5
+
+Well, I think we have to go to work on the problem of Third World debt and we ' 
+ve got to assist those Third World countries in dealing with this massive debt 
+which they currently-which they have incurred and which is burdening them and 
+which if we don ' t do something about it and assist them along with other 
+nations around the world, we ' ll destroy their economies, destroy their 
+future. And at the same time will destroy markets that are important to our 
+**farmers** . But I also believe we need an agricultural policy which doesn ' t 
+cost us 15 to 20 to 25 billion dollars a year that it ' s been costing us over 
+the course of the past three or four years under this administration. I think 
+it ' s going to require good, solid credit policies. And thanks to the Congress 
+we now have an agricultural credit bill which is helping and improving the 
+situation with at least some of our **farmers** . I think it ' s going to 
+require a combination of supply management and reasonable price supports to 
+make sure that our **farmers** get a decent price and I think it also is going 
+to require an administration that understand that there are tremendous 
+opportunities out there for the development of new uses for agricultural 
+products, new uses which can help us to clean up our environment at the same 
+time. Bio-degradable plastics-plastic-gasohol, which the Vice President has 
+been involved in, road de-icers made from corn products. I mean, there are 
+enormous opportunities out there to expand markets and to build a strong future 
+for our **farmers** . But I don ' t think there ' s anything mutually exclusive 
+or contradictory about building a strong farm economy in this country and 
+assisting our family farms and providing a good strong future for rural 
+communities and for rural America and at the same time working on Third World 
+debt. As a matter of fact, Mexico, itself, is one of our biggest agricultural 
+customers, so in the sense that we can work to help Mexico rebuild and expand 
+and deal with these very serious economic problems we help our **farmers** at 
+the same time. 
+
+Lemmas in this text that loaded on the factor:
+
+farmer 

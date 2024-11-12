@@ -1,0 +1,28 @@
+file = t003078
+date = 1984-10-07
+user = THE_PRESIDENT
+conversation = October_7,_1984_Debate_Transcript
+URL = The_First_Reagan-Mondale_Presidential_Debate
+
+word count = 173
+words loading = 1
+factor score = -5
+
+Before I campaigned as a Democrat for a Republican candidate for President, I 
+had already voted for Dwight Eisenhower to be President of the United States. 
+And so, my change had come earlier than that. I hadn ' t gotten around to 
+reregistering as yet. I found that was rather difficult to do. But I finally 
+did it. There are some other things that have been said here — back, and you 
+said that I might be able to dredge them up. Mr. Mondale referred to the 
+**farmers** ' worst year. The **farmers** are not the victims of anything this 
+administration has done. The **farmers** were the victims of the double-digit 
+inflation and the 21\1 / 2\-percent interest rates of the Carter-Mondale 
+administration and the grain embargo, which destroyed our reliability 
+nationwide as a supplier. All of these things are presently being rectified, 
+and I think that we are going to salvage the **farmers** . As a matter of fact, 
+there has been less than one-quarter of 1 percent of foreclosures of the 270 , 
+000 loans from government that the **farmers** have. 
+
+Lemmas in this text that loaded on the factor:
+
+farmer 

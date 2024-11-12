@@ -1,0 +1,16 @@
+file = t000008
+date = 2020-09-29
+user = TRUMP
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 17
+words loading = 1
+factor score = -2
+
+Your **party** doesn ' t say it. Your **party** wants to go socialist medicine 
+and socialist healthcare. 
+
+Lemmas in this text that loaded on the factor:
+
+party 

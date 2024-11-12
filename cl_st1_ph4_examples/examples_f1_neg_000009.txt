@@ -1,0 +1,38 @@
+file = t000901
+date = 2016-10-09
+user = CLINTON
+conversation = October_9,_2016_Debate_Transcript
+URL = Presidential_Debate_at_Washington_University_in_St._Louis,_Missouri
+
+word count = 301
+words loading = 4
+factor score = -5
+
+Well, first of all, I will not let anyone into our country that I think poses a 
+risk to us. But there are a lot of refugees, women and children—think of that 
+picture we all saw of that 4-year-old boy with the blood on his forehead 
+because he ' d been bombed by the **Russian** and Syrian air forces. There are 
+children suffering in this catastrophic war, largely, I believe, because of 
+**Russian** aggression. And we need to do our part. We by no means are carrying 
+anywhere near the load that Europe and others are. But we will have vetting 
+that is as tough as it needs to be from our professionals, our intelligence 
+experts and others. But it is important for us as a policy, you know, not to 
+say, as Donald has said, we ' re going to ban people based on a **religion** . 
+How do you do that? We are a country founded on **religious** freedom and 
+liberty. How do we do what he has advocated without causing great distress 
+within our own county? Are we going to have **religious** tests when people fly 
+into our country? And how do we expect to be able to implement those? So I 
+thought that what he said was extremely unwise and even **dangerous** . And 
+indeed, you can look at the propaganda on a lot of the terrorist sites, and 
+what Donald Trump says about Muslims is used to recruit fighters, because they 
+want to create a war between us. And the final thing I would say, this is the 
+10th or 12th time that he ' s denied being for the war in Iraq. We have it on 
+tape. The entire press corps has looked at it. It ' s been debunked, but it 
+never stops him from saying whatever he wants to say. 
+
+Lemmas in this text that loaded on the factor:
+
+dangerous 
+religion 
+religious 
+russian 

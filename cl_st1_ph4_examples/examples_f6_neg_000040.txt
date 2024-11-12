@@ -1,0 +1,23 @@
+file = t001888
+date = 2004-10-05
+user = EDWARDS
+conversation = October_5,_2004_Transcript
+URL = The_Cheney-Edwards_Vice_Presidential_Debate
+
+word count = 99
+words loading = 2
+factor score = -2
+
+The vice president just said that we should focus on state **sponsors** of 
+terrorism. Iran has moved forward with its nuclear weapons program. They ' re 
+more dangerous today than they were four years ago. North Korea has moved 
+forward with their nuclear weapons program, gone from one to two nuclear 
+weapons to six to eight nuclear weapons. This vice president has been an 
+advocate for over a decade for lifting **sanctions** against Iran, the largest 
+state **sponsor** of terrorism on the planet. It ' s a mistake. We should not 
+only not lift them, we should strengthen those **sanctions** . 
+
+Lemmas in this text that loaded on the factor:
+
+sanction (secondary)
+sponsor 

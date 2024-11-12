@@ -1,0 +1,41 @@
+file = t002070
+date = 2000-10-03
+user = GORE
+conversation = October_3,_2000_Transcript
+URL = The_First_Gore-Bush_Presidential_Debate
+
+word count = 265
+words loading = 9
+factor score = 10
+
+No, I don ' t, and I ' m not going to go to calling names on his facts. I ' m 
+just gonna tell you what the real facts are. The analysis that he ' s talking 
+about leaves out more than half of the tax cuts that I have proposed. And if 
+you just add the numbers up, he still hasn ' t denied it, he spends more money 
+on a tax cut for the wealthiest 1 % than all his new proposals for prescription 
+drugs, healthcare, **education** , and national defense combined. Now those are 
+the wrong priorities. $665 billion over ten years for the wealthiest 1 % . As I 
+said, almost 30 % of it goes to Americans that make more than $1 million per 
+year. Every middle **class** family is eligible for a tax cut under my 
+proposal. Let me give you some specific examples. I believe **college** 
+**tuition** up to $10 , 000 per year ought to be tax deductible so middle-class 
+families can choose to send their children to **college** . I believe all 
+senior citizens should be able to choose their own doctors and get prescription 
+drugs from their own pharmacists with Medicare paying half the bill. I believe 
+**parents** ought to be able to make more choices need more **public** and 
+charter **school** choice to send their **kids** always to a safe **school** . 
+We need to make **education** the number one priority in our country and treat 
+**teachers** like the professionals that they are. And that ' s why I have made 
+it a number one priority in my budget, not a tax cut for the wealthy. 
+
+Lemmas in this text that loaded on the factor:
+
+class (secondary)
+college 
+education 
+kid 
+parent 
+public (secondary)
+school 
+teacher 
+tuition 

@@ -1,0 +1,55 @@
+file = t002261
+date = 2000-10-17
+user = GORE
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 362
+words loading = 13
+factor score = 38
+
+We have huge difference between us on this question. I ' d like to start by 
+telling you what my vision is. I see a day in the United States of America 
+where all of our **public** **schools** are considered excellent, world 
+**class** . Where there are no failing **schools** , where the **classrooms** 
+are small enough in size, number of **students** , so that the **teacher** can 
+spend enough one-on-one time with each **student** . Now that means recruiting 
+new **teachers** for the **public** **schools** . It means in my plan hiring 
+bonuses to get 100 , 000 new **teachers** in the **public** **schools** within 
+the next four years. It means also helping **local** **school** **districts** 
+that sometimes find the **parents** of **school** age children outvoted on bond 
+issues, to give them some help with interest-free bonding authority so that we 
+can build new **schools** and modernize the **classrooms** . We need to give 
+**teachers** the training and professional development that they need, 
+including a paid time off to go visit the **classroom** of a master **teacher** 
+to pick up some new skills. I want to give every middle-class family a $10 , 
+000 a year tax deduction for **college** **tuition** so that middle-class 
+families will always be able to send their **kids** on to **college** . I want 
+to work for universal free **school** because we know from all the studies that 
+the youngsters **learn** , **kids** **learn** more in the first few years of 
+life than any where else. Now, I said there was a contrast. Governor Bush is 
+for vouchers, and in his plan he proposes to drain more money, more taxpayer 
+money out of the **public** **schools** for private **school** vouchers than 
+all of the money that he proposes in his entire budget for **public** 
+**schools** themselves. And only one in 20 **students** would be eligible for 
+these vouchers, and they wouldn ' t even pay the full **tuition** to private 
+**school** . I think that ' s a mistake. I don ' t think we should give up on 
+the private **schools** and leave **kids** trapped in failing **schools** . I 
+think we — I think we should make it the number one priority to make our 
+**schools** the best in the world, all of them. 
+
+Lemmas in this text that loaded on the factor:
+
+class (secondary)
+classroom 
+college 
+district 
+kid 
+learn 
+local 
+parent 
+public (secondary)
+school 
+student 
+teacher 
+tuition 

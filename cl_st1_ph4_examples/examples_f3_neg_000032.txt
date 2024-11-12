@@ -1,0 +1,32 @@
+file = t003273
+date = 1980-10-28
+user = MR._CARTER
+conversation = October_28,_1980_Debate_Transcript
+URL = The_Carter-Reagan_Presidential_Debate
+
+word count = 202
+words loading = 3
+factor score = -4
+
+I mentioned the radical departure of Governor Reagan from the principles or 
+ideals of historical perspective of his own party. I don ' t think that can be 
+better illustrated than in the case of guaranteeing women equal rights under 
+the Constitution of our nation. For 40 years, the Republican Party platforms 
+called for guaranteeing women equal rights with a **constitutional** 
+**amendment** . Six predecessors of mine who served in the Oval Office called 
+for this guarantee of women ' s rights. Governor Reagan and his new Republican 
+Party have departed from this commitment – a very severe blow to the 
+opportunity for women to finally correct discrimination under which they have 
+suffered. When a man and a women do the same amount of work, a man gets paid $1 
+. 00 , a women only gets paid 59 **cents** . And the equal rights **amendment** 
+only says that equality of rights shall not be abridged for omen b the Federal 
+Government or by he state governments. That is all it says a simple guarantee 
+of equality of opportunity which typifies the Democratic arty, and which is a 
+very important commitment of mine, as contrasted with Governor Reagan ' s 
+radical departure from the long-standing policy of his own party. 
+
+Lemmas in this text that loaded on the factor:
+
+amendment 
+cent 
+constitutional 

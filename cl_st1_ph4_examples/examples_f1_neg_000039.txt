@@ -1,0 +1,29 @@
+file = t003072
+date = 1984-10-07
+user = MR._MONDALE
+conversation = October_7,_1984_Debate_Transcript
+URL = The_First_Reagan-Mondale_Presidential_Debate
+
+word count = 172
+words loading = 3
+factor score = -2
+
+The platform to which the President refers, in fact, calls for a **religious** 
+test in the selection of judges. And Jerry Falwell says that means we get two 
+or three judges. And it would involve a **religious** test for the first time 
+in American life. Let ' s take the example that the President cites. I believe 
+in **prayer** . My family prays. We ' ve never had any difficulty finding time 
+to pray. But do we want a **constitutional** amendment adopted of the kind 
+proposed by the President that gets the local politicians into the business of 
+selecting **prayers** that our children must either recite in school or be 
+embarrassed and asked to excuse themselves? Who would write the **prayer** ? 
+What would it say? How would it be resolved when those disputes occur? It seems 
+to me that a moment ' s reflection tells you why the United States Senate 
+turned that amendment down, because it will undermine the practice of honest 
+faith in our country by politicizing it. We don ' t want that. 
+
+Lemmas in this text that loaded on the factor:
+
+constitutional (secondary)
+prayer 
+religious 

@@ -1,0 +1,38 @@
+file = t002262
+date = 2000-10-17
+user = BUSH
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 241
+words loading = 7
+factor score = 16
+
+Yeah, I appreciate that. I think any time we end with one of these attacks, it 
+' s appropriate to respond. Here ' s what I think. First of all, vouchers are 
+up to states. If you want to do a voucher program in Missouri, fine. I strongly 
+believe in **local** control of **schools** . I ' m a governor of state and I 
+don ' t like it when the federal government tells us what to do. I believe in 
+**local** control of **schools** . But here ' s what I said. I ' ve said to the 
+extent we spend federal money on disadvantaged children, we want the 
+**schools** to show us whether or not the children are **learning** . What ' s 
+unreasonable about that? We expect there to be standards met and we expect 
+there to be measurement. And if we find success we ' ll praise it. But when we 
+find children trapped in **schools** that will not change and will not teach, 
+instead of saying oh, this is okay in America just to shuffle poor **kids** 
+through **schools** , there has to be a **consequence** . And the 
+**consequence** is that federal portion or federal money will go to the 
+**parent** , so the **parent** can go to a tutoring program or another 
+**public** **school** or another private **school** . You see, there has to be 
+a **consequence** . We ' ve got a society that says hey, the status quo is 
+fine, just move them through. And guess who suffers. 
+
+Lemmas in this text that loaded on the factor:
+
+consequence 
+kid 
+learn 
+local 
+parent 
+public (secondary)
+school 

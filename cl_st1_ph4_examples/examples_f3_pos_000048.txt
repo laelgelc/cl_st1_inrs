@@ -1,0 +1,44 @@
+file = t001955
+date = 2004-09-30
+user = KERRY
+conversation = September_30._2004_Debate_Transcript
+URL = The_First_Bush-Kerry_Presidential_Debate
+
+word count = 248
+words loading = 12
+factor score = 10
+
+I believe in being strong and resolute and determined. And I will hunt down and 
+kill the **terrorists** , wherever they are. But we also have to be smart, Jim. 
+And smart means not diverting your attention from the real **war** on terror in 
+Afghanistan against Osama **bin** Laden and taking if off to Iraq where the 9 / 
+11 Commission confirms there was no connection to 9 / 11 itself and Saddam 
+Hussein, and where the reason for going to **war** was **weapons** of **mass** 
+**destruction** , not the removal of Saddam Hussein. This president has made, I 
+regret to say, a colossal error of judgment. And judgment is what we look for 
+in the president of the United States of America. I ' m proud that important 
+**military** figures who are supporting me in this race: former Chairman of the 
+Joint Chiefs of Staff John Shalikashvili; just yesterday, General Eisenhower ' 
+s son, General John Eisenhower, endorsed me; General Admiral William Crown; 
+General Tony McBeak, who ran the Air **Force** **war** so effectively for his 
+**father** — all believe I would make a stronger **commander** in **chief** . 
+And they believe it because they know I would not take my eye off of the goal: 
+Osama **bin** Laden. Unfortunately, he escaped in the mountains of Tora Bora. 
+We had him surrounded. But we didn ' t use American **forces** , the best 
+**trained** in the world, to go kill him. The president relied on Afghan 
+warlords and he outsourced that job too. That ' s wrong. 
+
+Lemmas in this text that loaded on the factor:
+
+bin 
+chief 
+commander 
+destruction 
+father 
+force (secondary)
+mass 
+military (secondary)
+terrorist 
+train 
+war (secondary)
+weapon 

@@ -1,0 +1,49 @@
+file = t001144
+date = 2012-10-03
+user = OBAMA
+conversation = October_3,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PRESIDENTIAL_CANDIDATE,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_UNIVERSITY_OF_DENVER,_COLORADO
+
+word count = 438
+words loading = 4
+factor score = -5
+
+Let me just point out first of all this board that we ' re talking about can ' 
+t make decisions about what treatments are given. That ' s explicitly 
+prohibited in the law. But let ' s go back to what Governor Romney indicated, 
+that under his plan, he would be able to **cover** people with preexisting 
+**conditions** . Well, actually Governor, that isn ' t what your plan does. 
+What your plan does is to duplicate what ' s already the law, which says if you 
+are out of health insurance for three months, then you can end up getting 
+continuous coverage and an insurance company can ' t deny you if you ' ve — 
+if it ' s been under 90 days. But that ' s already the law and that doesn ' t 
+help the millions of people out there with preexisting **conditions** . There ' 
+s a reason why Governor Romney set up the plan that he did in Massachusetts. It 
+wasn ' t a government takeover of health care. It was the largest expansion of 
+private insurance. But what it does say is that " insurers, you ' ve got to 
+take everybody. " Now, that also means that you ' ve got more customers. But 
+when — when Governor Romney says that he ' ll replace it with something, but 
+can ' t detail how it will be in fact replaced and the reason he set up the 
+system he did in Massachusetts was because there isn ' t a better way of 
+dealing with the preexisting **conditions** problem. It just reminds me of, you 
+know, he says that he ' s going to close deductions and loopholes for his tax 
+plan. That ' s how it ' s going to be paid for, but we don ' t know the 
+details. He says that he ' s going to replace Dodd-Frank, Wall Street reform, 
+but we don ' t know exactly which ones. He won ' t tell us. He now says he ' s 
+going to replace Obamacare and ensure that all the good things that are in it 
+are going to be in there and you don ' t have to worry. And at some point, I 
+think the American people have to ask themselves, is the reason that Governor 
+Romney is keeping all these plans to replace secret because they ' re too good? 
+Is it — is it because that somehow middle-class families are going to benefit 
+too much from them? No. The reason is, is because, when we reform Wall Street, 
+when we tackle the problem of pre-existing **conditions** , then, you know, 
+these are tough problems and we ' ve got to make choices. And the choices we ' 
+ve made have been ones that ultimately are benefiting middle-class families all 
+across the country. 
+
+Lemmas in this text that loaded on the factor:
+
+condition 
+cover (secondary)
+exist (secondary)
+pre 

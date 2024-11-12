@@ -1,0 +1,31 @@
+file = t000701
+date = 2016-10-04
+user = PENCE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 133
+words loading = 7
+factor score = 12
+
+Well, I have the deepest **respect** for Senator Scott, and he ' s a close 
+friend. And what I would say is that we — we need to adopt **criminal** 
+**justice** **reform** nationally. I — I signed **criminal** **justice** 
+**reform** in the state of Indiana, Senator, and we ' re very **proud** of it. 
+I worked when I was in Congress on the second chance act. We have got to do a 
+better job recognizing and correcting the errors in the system that do reflect 
+on institutional bias in **criminal** **justice** . But what — what — what 
+Donald Trump and I are saying is let ' s not have the reflex of assuming the 
+worst of men and women in **law** **enforcement** . We truly do believe that 
+**law** **enforcement** is not a force for racism or division in our country 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+criminal 
+enforcement 
+justice 
+law 
+proud 
+reform (secondary)
+respect 

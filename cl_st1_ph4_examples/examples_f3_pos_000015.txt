@@ -1,0 +1,51 @@
+file = t001455
+date = 2012-10-22
+user = ROMNEY
+conversation = October_22,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_LYNN_UNIVERSITY,_BOCA_RATON,_FLORIDA
+
+word count = 400
+words loading = 9
+factor score = 14
+
+No, it ' s not time to divorce a nation on Earth that has 100 **nuclear** 
+**weapons** and is on the way to double that at some point, a nation that has 
+serious **threats** from **terrorist** groups within its nation, as I indicated 
+before, the Taliban, Haqqani Network. It ' s a nation that ' s not like — 
+like others and it does not have a civilian leadership that is calling the 
+shots there. You have the ISI, their intelligence organization, is probably the 
+most powerful of the — of three branches there. Then you have the 
+**military** and then you have the civilian government. This is a nation, 
+which, if it falls apart, if it — if it becomes a failed state, there are 
+**nuclear** **weapons** there and you ' ve got — you ' ve got **terrorists** 
+there who could grab their — their hands onto those **nuclear** **weapons** . 
+This is — this is an important part of the world for us. Pakistan is — is 
+technically an **ally** , and they ' re not **acting** very much like an 
+**ally** right now. But we have some work to do. And I — I don ' t blame the 
+administration for the fact that the relationship with Pakistan is strained. We 
+— we had to go into Pakistan. We had to go in there to get Osama **bin** 
+Laden. That was the right thing to do. And — and that upset them, but 
+obviously there was a great deal of anger even before that. But we ' re going 
+to have to work with the — with the people in Pakistan to try and help them 
+move to a more responsible course than the one that they ' re on. And it ' s 
+important for them. It ' s important for the **nuclear** **weapons** . It ' s 
+important for the success of Afghanistan. Because inside Pakistan, you have a 
+— a large group of Pashtun that are — that are Taliban. They ' re going to 
+come rushing back in to Afghanistan when we go. And that ' s one of the reasons 
+the Afghan Security **Forces** have so much work to do to be able to fight 
+against that. But it ' s important for us to recognize that we can ' t just 
+walk away from Pakistan. But we do need to make sure that as we — as we send 
+support for them, that this is tied to them making progress on — on matters 
+that would lead them to becoming a civil society. 
+
+Lemmas in this text that loaded on the factor:
+
+act 
+ally 
+bin 
+force (secondary)
+military (secondary)
+nuclear 
+terrorist 
+threat 
+weapon 

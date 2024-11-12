@@ -1,0 +1,26 @@
+file = t001942
+date = 2004-10-05
+user = EDWARDS
+conversation = October_5,_2004_Transcript
+URL = The_Cheney-Edwards_Vice_Presidential_Debate
+
+word count = 111
+words loading = 3
+factor score = 9
+
+Yes, but they didn ' t fund the mandates that they put on the **schools** all 
+over this country. That ' s the reason 800 **teachers** — one of the reasons 
+— 800 **teachers** have been laid off, right here in Cleveland. One-third of 
+our **public** **schools** are failing under this administration. Half of 
+African-Americans are dropping out of high **school** . Half of 
+Hispanic-American are dropping out of high **school** . John and I have — and 
+I don ' t have the time now — but we have a clear plan to improve our 
+**public** **schools** that starts with getting our best **teachers** into the 
+**schools** where we need them the most by creating incentives for them to go 
+there. 
+
+Lemmas in this text that loaded on the factor:
+
+public (secondary)
+school 
+teacher 

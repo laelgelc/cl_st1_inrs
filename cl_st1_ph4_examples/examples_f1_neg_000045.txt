@@ -1,0 +1,21 @@
+file = t000069
+date = 2020-09-29
+user = BIDEN
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 104
+words loading = 1
+factor score = -1
+
+Do you believe for a moment what he ' s telling you in light of all the lies he 
+' s told you about the whole issue relating to COVID? He still hasn ' t even 
+acknowledged that he knew this was happening, knew how **dangerous** it was 
+going to be back in February, and he didn ' t even tell you. He ' s on record 
+as saying it. He panicked or he just looked at the stock market. One of the 
+two. Because guess what? A lot of people died and a lot more are going to die 
+unless he gets a lot smarter, a lot quicker- 
+
+Lemmas in this text that loaded on the factor:
+
+dangerous 

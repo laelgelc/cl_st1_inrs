@@ -1,0 +1,23 @@
+file = t000364
+date = 2020-10-22
+user = BIDEN
+conversation = Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee
+URL = Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee
+
+word count = 122
+words loading = 1
+factor score = -4
+
+Number one. He says that we ' re, you know, we ' re learning to live with it. 
+People are learning to die with it. You folks home will have an empty chair at 
+the kitchen table this morning. That man or wife going to bed tonight and 
+reaching over to try to touch their, out of habit, where their wife or husband 
+was, is gone. Learning to live with it? Come on. We ' re dying with it, because 
+he ' s never said — he said it ' s **dangerous** . When ' s the last time? Is 
+it really **dangerous** , still? Are we **dangerous** ? You tell the people it 
+' s **dangerous** now? What should they do about the danger? And you say, I 
+take no responsibility. 
+
+Lemmas in this text that loaded on the factor:
+
+dangerous 

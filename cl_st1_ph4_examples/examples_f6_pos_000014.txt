@@ -1,0 +1,48 @@
+file = t002266
+date = 2000-10-17
+user = BUSH
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 364
+words loading = 8
+factor score = 19
+
+When you total up all the federal spending he wants to do, it ' s the largest 
+increase in federal spending in years. And there ' s just not going to be 
+enough money. I have been a governor of a big state, I have made **education** 
+my number one priority. That ' s what governors ought to do. They ought to say 
+this is the most important thing we do as a state. The federal government puts 
+about 6 % of the money up. They put about, you know, 60 % of the strings where 
+you have to fill out the paperwork. I don ' t know if you have to be a 
+paperwork filler-outer, but most of it ' s because of the federal government. 
+What I want to do is to send flexibility and authority to the **local** folks 
+so you can choose what to do with the money. One size does not fit all. I worry 
+about federalizing **education** if I were you. I believe strongly that the 
+federal government can help, we need to fund Headstart. We need to have 
+**accountability** . The Vice President ' s plan does not have annual 
+**accountability** , third grade, fourth grade, fifth grade. We need to demand 
+on results. I believe strongly in a **teacher** protection act like I 
+mentioned. I hear from **teachers** all the time about the lawsuits and the 
+threats, respect in the **classroom** . Part of it ' s because you can ' t — 
+you can ' t control the **classroom** . You can ' t have a **consequence** for 
+somebody without fear of getting sued under federal law. So I ' m going to ask 
+the Congress to pass a **teacher** protection act. So I believe in flexibility, 
+I believe in a national reading initiative for **local** **districts** to 
+access with K through 2 diagnostic **testing** , curriculum that works, phonics 
+works, by the way, it needs to be a part of our curriculum. There needs to be 
+flexibility for **teacher** training and **teacher** hiring with federal money. 
+The federal government can be a part, but don ' t fall prey to all this stuff 
+about money here and money there because **education** is really funded at the 
+**local** level. 94 % comes from the **local** level. 
+
+Lemmas in this text that loaded on the factor:
+
+accountability 
+classroom 
+consequence 
+district 
+education 
+local 
+teacher 
+testing 

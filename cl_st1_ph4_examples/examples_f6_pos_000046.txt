@@ -1,0 +1,51 @@
+file = t003113
+date = 1984-10-11
+user = FERRARO
+conversation = October_11,_1984_Debate_Transcript
+URL = The_Bush-Ferraro_Vice-Presidential_Debate
+
+word count = 402
+words loading = 7
+factor score = 9
+
+With reference to the busing vote that I cast in 1979 , both Fritz Mondale and 
+I agree on the same goal and that is nondiscrimination. I just don ' t agree on 
+the same direction he does on how to achieve it. But I don ' t find any problem 
+with that. I think that ' s been something that ' s been handled by the courts, 
+and not being handled by Congress and will not be handled by the White House. 
+But we both support nondiscrimination in housing and integration of 
+neighborhoods. The goals we both set forth. With reference to **tuition** tax 
+credits, I have represented a **district** in Queens which is 70 percent 
+Catholic. I represented my **district** . Let me say as well that I have also 
+been a great supporter of **public** **school** **education** and that is 
+something that Fritz and I feel very, very strongly about for the future of 
+this country. And this administration over the past several years has gutted 
+the educational programs available to our young people. It has attempted to 
+knock out Pell Grants, which are monies to young individuals who are poor and 
+who cannot afford to go to **college** . It has reduced by 25 percent the 
+amount of monies going into **college** **education** and by a third those 
+going into secondary and primary **schools** . But Fritz Mondale and I feel 
+very strongly that if you educate your children that that ' s an effort and the 
+way that you build up and make a stronger America. With reference to civil 
+rights I think you ' ve got to go beyond that and if you take a look, also, at 
+my record in the Congress and Fritz Mondale ' s record, both in the Senate and 
+as vice president, we both have extremely strong civil rights records. This 
+administration does not. It has come in in the Bob Jones on the side of 
+segregated academies. It came in in the Grove City case on the side of 
+discrimination against women, the handicapped, and the elderly. As a matter of 
+fact, in the Congress we just passed overwhelmingly the Civil Rights Bill of 
+1984 and this administration, the Republican-controlled Senate, just killed it 
+in the last week or two in Congress. So there is a real difference between how 
+the Mondale-Ferraro administration will address the problems of civil rights 
+and the **failure** of this administration specifically in that particular 
+area. 
+
+Lemmas in this text that loaded on the factor:
+
+college 
+district 
+education 
+failure (secondary)
+public (secondary)
+school 
+tuition 

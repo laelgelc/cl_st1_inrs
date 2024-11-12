@@ -1,0 +1,24 @@
+file = t002461
+date = 1996-10-09
+user = KEMP
+conversation = October_9,_1996_Debate_Transcript
+URL = The_Gore-Kemp_Vice_Presidential_Debate
+
+word count = 115
+words loading = 2
+factor score = -1
+
+Well, it was here before Bill Clinton and it will be here after Bill Clinton. 
+Senator Tsongas a good friend of Senator Gore, Vice President Gore suggested 
+that he was afraid his party was falling into the trap of loving the employee, 
+but **hating** the employer. You cannot love labor and **hate** employers. You 
+cannot drive this wedge between workers and management. And businesses were 
+providing family leave. They will continue. They should. They ' ve got to make 
+a profit and the tax on business, **capital** , labor and families is too high 
+and it will — we want to reduce that regulatory burden and that tax burden in 
+a new Dole / Kemp Administration. 
+
+Lemmas in this text that loaded on the factor:
+
+capital (secondary)
+hate 

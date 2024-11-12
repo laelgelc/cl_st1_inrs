@@ -1,0 +1,72 @@
+file = t003396
+date = 1960-09-26
+user = MR._KENNEDY
+conversation = September_26,_1960_Debate_Transcript
+URL = The_First_Kennedy-Nixon_Presidential_Debate
+
+word count = 387
+words loading = 26
+factor score = 43
+
+– reducing the **interest** **rate** . In my judgment, the hard **money** , 
+tight **money** policy, fiscal policy of this Administration has contributed to 
+the slow-down in our **economy** , which helped bring the recession of 
+fifty-four; which made the recession of fifty-eight rather intense, and which 
+has slowed, somewhat, our economic activity in 1960 . What I have talked about, 
+however, the kind of **programs** that I ' ve talked about, in my judgment, are 
+uh – fiscally sound. **Medical** **care** for the aged, I would **put** under 
+social security. The Vice President and I disagree on this. The **program** – 
+the Javits-Nixon or the Nixon-Javits **program** – would have **cost** , if 
+fully used uh – six hundred million **dollars** by the **government** per 
+year, and six hundred million **dollars** by the state. The **program** which I 
+advocated, which failed by five votes in the United States Senate, would have 
+**put** **medical** **care** for the aged in Social Security, and would have 
+been **paid** for through the Social Security System and the Social Security 
+**tax** . Secondly, I support **federal** aid to **education** and **federal** 
+aid for teachers ' salaries. I think that ' s a good **investment** . I think 
+we ' re going to have to do it. And I think to heap the burden further on the 
+property **tax** , which is already strained in many of our communities, will 
+provide, will make sh- insure, in my opinion, that many of our children will 
+not be adequately educated, and many of our teachers not adequately 
+compensated. There is no greater return to an **economy** or to a society than 
+an educational system second to none. On the question of the **development** of 
+natural resources, I would **pay** as you go in the sense that they would be 
+**balanced** and the power revenues would bring back sufficient **money** to 
+finance the projects, in the same way as the Tennessee Valley. I believe in the 
+**balanced** **budget** . And the only **conditions** under which I would 
+unbalance the **budget** would be if there was a grave **national** 
+**emergency** or a serious recession. Otherwise, with a steady **rate** of 
+economic **growth** – and Mr. Nixon and Mr. Rockefeller, in their meeting, 
+said a five per cent economic **growth** would bring by 1962 ten **billion** 
+**dollars** extra in **tax** revenues. Whatever is brought in, I think that we 
+can finance essential **programs** within a **balanced** **budget** , if 
+**business** remains orderly. 
+
+Lemmas in this text that loaded on the factor:
+
+balance 
+balanced 
+billion 
+budget 
+business 
+care 
+condition (secondary)
+cost 
+development 
+dollar 
+economy 
+education (secondary)
+emergency 
+federal 
+government (secondary)
+growth 
+interest 
+investment 
+medical 
+money 
+national (secondary)
+pay 
+program 
+put 
+rate 
+tax 

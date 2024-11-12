@@ -1,0 +1,74 @@
+file = t001101
+date = 2012-10-03
+user = OBAMA
+conversation = October_3,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PRESIDENTIAL_CANDIDATE,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_UNIVERSITY_OF_DENVER,_COLORADO
+
+word count = 414
+words loading = 26
+factor score = 69
+
+Well, for 18 months he ' s been running on this **tax** **plan** . And now, 
+five weeks before the election, he ' s saying that his **big** , bold idea is, 
+" Never mind. " And the fact is that if you are lowering the **rates** the way 
+you described, Governor, then it is not possible to come up with enough 
+deductions and loopholes that only affect high-income individuals to avoid 
+either **raising** the **deficit** or burdening the **middle** **class** . It ' 
+s — it ' s math. It ' s arithmetic. Now, Governor Romney and I do share a 
+deep **interest** in encouraging small-business **growth** . So at the same 
+time that my **tax** **plan** has already lowered **taxes** for 98 **percent** 
+of **families** , I also lowered **taxes** for **small** **businesses** 18 
+times. And what I want to do is continue the **tax** **rates** — the **tax** 
+**cuts** that we **put** into place for **small** **businesses** and 
+**families** . But I have said that for **incomes** over $250 , 000 a year, 
+that we should go back to the **rates** that we had when Bill Clinton was 
+president, when we **created** 23 million new **jobs** , went from **deficit** 
+to surplus, and **created** a whole lot of millionaires to boot. And the reason 
+this is important is because by doing that, we cannot only reduce the 
+**deficit** , we cannot only encourage **job** **growth** through **small** 
+**businesses** , but we ' re also able to make the **investments** that are 
+necessary in **education** or in **energy** . And we do have a difference, 
+though, when it comes to definitions of **small** **business** . Under — 
+under my **plan** , 97 **percent** of **small** **businesses** would not see 
+their **income** **taxes** go up. Governor Romney says, well, those top 3 
+**percent** , they ' re the **job** creators, they ' d be burdened. But under 
+Governor Romney ' s definition, there are a whole bunch of millionaires and 
+billionaires who are **small** **businesses** . Donald Trump is a **small** 
+**business** . Now, I know Donald Trump doesn ' t like to think of himself as 
+**small** anything, but — but that ' s how you define **small** 
+**businesses** if you ' re getting **business** **income** . And that kind of 
+approach, I believe, will not **grow** our **economy** , because the only way 
+to **pay** for it without either burdening the **middle** **class** or blowing 
+up our **deficit** is to make drastic **cuts** in things like **education** , 
+making sure that we are continuing to invest in basic science and research, all 
+the things that are helping America **grow** . And I think that would be a 
+mistake. 
+
+Lemmas in this text that loaded on the factor:
+
+big 
+business 
+class 
+create 
+cut 
+deficit 
+economy 
+education (secondary)
+energy (secondary)
+family 
+grow 
+growth 
+high 
+income 
+interest 
+investment 
+job 
+middle 
+pay 
+percent 
+plan 
+put 
+raise 
+rate 
+small 
+tax 

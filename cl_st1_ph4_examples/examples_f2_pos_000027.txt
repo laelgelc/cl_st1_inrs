@@ -1,0 +1,68 @@
+file = t001423
+date = 2012-10-22
+user = ROMNEY
+conversation = October_22,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_LYNN_UNIVERSITY,_BOCA_RATON,_FLORIDA
+
+word count = 400
+words loading = 23
+factor score = 36
+
+Well I — I absolutely believe that America has a — a **responsibility** , 
+and the privilege of helping **defend** **freedom** and promote the principles 
+that — that make the **world** more peaceful. And those principles include 
+**human** rights, **human** dignity, **free** enterprise, **freedom** of 
+expression, elections. Because when there are elections, **people** tend to 
+vote for **peace** . They don ' t vote for **war** . So we want to promote 
+those principles around the **world** . We recognize that there are **places** 
+of conflict in the **world** . We want to end those conflicts to the extent 
+humanly possible. But in **order** to be able to fulfill our role in the 
+**world** , America must be **strong** . America must **lead** . And for that 
+to happen, we have to strengthen our economy here at home. You can ' t have 23 
+million **people** **struggling** to get a job. You can ' t have an economy 
+that over the last three years keeps slowing down its growth rate. You can ' t 
+have kids coming out of college, half of them can ' t find a job **today** , or 
+a job that ' s commensurate with their college degree. We have to get our 
+economy going. And our **military** , we ' ve got to strengthen our 
+**military** long-term. We don ' t know what the **world** is going to throw at 
+us down the road. We — we make decisions **today** in the **military** that 
+— that will confront challenges we can ' t imagine. In the 2000 debates, 
+there was no mention of terrorism, for instance. And a year later, 9 / 11 
+happened. So, we have to make decisions based upon uncertainty, and that means 
+a **strong** **military** . I will not cut our **military** budget. We have to 
+also stand by our **allies** . I — I think the tension that existed between 
+Israel and the United **States** was very unfortunate. I think also that 
+pulling our **missile** defense **program** out of Poland in the way we did was 
+also unfortunate in terms of, if you will, disrupting the relationship in some 
+ways that existed between us. And then, of course, with **regards** to standing 
+for our principles, when — when the **students** took to the streets in 
+Tehran and the **people** there protested, the Green Revolution occurred, for 
+the **president** to be silent I thought was an enormous mistake. We have to 
+stand for our principles, stand for our **allies** , stand for a **strong** 
+**military** and stand for a **stronger** economy. 
+
+Lemmas in this text that loaded on the factor:
+
+ally (secondary)
+defend 
+free 
+freedom 
+human 
+lead 
+military 
+missile 
+order 
+peace (secondary)
+people 
+place 
+president 
+program (secondary)
+regard 
+responsibility 
+states 
+strong 
+struggle 
+student (secondary)
+today 
+war 
+world 

@@ -1,0 +1,24 @@
+file = t000998
+date = 2016-10-19
+user = TRUMP
+conversation = October_19,_2016_Debate_Transcript
+URL = Presidential_Debate_at_the_University_of_Nevada_in_Las_Vegas
+
+word count = 142
+words loading = 1
+factor score = -2
+
+I never met Putin. This is not my best friend. But if the United States got 
+along with Russia, wouldn ' t be so bad. Let me tell you, Putin has outsmarted 
+her and Obama at every single step of the way. Whether it ' s Syria, you name 
+it. Missiles. Take a look at the " startup " that they signed. The **Russians** 
+have said, according to many, many reports, I can ' t believe they allowed us 
+to do this. They create warheads, and we can ' t. The **Russians** can ' t 
+believe it. She has been outsmarted by Putin. And all you have to do is look at 
+the Middle East. They ' ve taken over. We ' ve spent $6 trillion. They ' ve 
+taken over the Middle East. She has been outsmarted and outplayed worse than 
+anybody I ' ve ever seen in any government whatsoever. 
+
+Lemmas in this text that loaded on the factor:
+
+russians 

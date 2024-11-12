@@ -1,0 +1,38 @@
+file = t003237
+date = 1980-10-28
+user = MR._CARTER
+conversation = October_28,_1980_Debate_Transcript
+URL = The_Carter-Reagan_Presidential_Debate
+
+word count = 215
+words loading = 8
+factor score = 9
+
+Yes. We have demanded that the American people sacrifice, and they have done 
+very well. As a matter of fact, we ' re **importing** today about one-third 
+less **oil** from overseas than we did just a year ago. We ' ve had a 25 % 
+reduction since the first year I was in office. At the same time, as I have 
+said earlier, we have added about nine million net new jobs in that period of 
+time – a record never before achieved. Also, the new **energy** policy has 
+been predicated on two factors: One is conservation, which requires sacrifice, 
+and the other one, increase in **production** of American **energy** , which is 
+going along very well – more **coal** this year than ever before in American 
+history, more **oil** and **gas** wells **drilled** this year than ever before 
+in history. The new economic revitalization program that we have in mind, which 
+will be implemented next year, would result in tax credits which would let 
+business invest in new tools and new factories to **create** even more new jobs 
+– about one million in the next two years. And we also have planned a youth 
+employment program which would encompass 600 , 000 jobs for young people. This 
+has already passed the House, and it has an excellent prospect to pass the 
+Senate. 
+
+Lemmas in this text that loaded on the factor:
+
+coal 
+create (secondary)
+drill 
+energy 
+gas 
+import 
+oil 
+production 

@@ -1,0 +1,29 @@
+file = t002819
+date = 1992-10-19
+user = BUSH
+conversation = October_19,_1992_Debate_Transcript
+URL = The_Third_Clinton-Bush-Perot_Presidential_Debate
+
+word count = 223
+words loading = 1
+factor score = -2
+
+Well, I wondered, when Governor Clinton was talking to the auto workers, 
+whether he talked about his and Senator Gore ' s favoring CAFE standards, fuel 
+efficiency standards, of 40 **miles** per gallon. That would break the auto 
+industry and throw a lot of people out of work. As regarding Mr. Perot, I take 
+back something I said about him. I once said, in a frivolous moment, when he 
+got out of the race - If you can ' t stand the heat, buy an air conditioning 
+company. And I take it back, because I think — he said he made a mistake. And 
+the thing I find is if I make a mistake, I admit it. I ' ve never heard 
+Governor Clinton make a mistake. But one mistake he ' s made is fuel efficiency 
+standards at 40 to 45 **miles** a gallon will throw many auto workers out of 
+work, and you can ' t have it both ways. There ' s a pattern here of appealing 
+to the auto workers and then trying to appeal to the spotted owl crowds or the 
+extremes in the environmental movement. You can ' t do it as president: you can 
+' t have a pattern of one side of the issue one day and another the next. So my 
+argument is not with Ross Perot; it is more with Governor Clinton. 
+
+Lemmas in this text that loaded on the factor:
+
+mile 

@@ -1,0 +1,44 @@
+file = t003452
+date = 1960-10-13
+user = MR._KENNEDY
+conversation = October_13,_1960_Debate_Transcript
+URL = The_Third_Kennedy-Nixon_Presidential_Debate
+
+word count = 303
+words loading = 7
+factor score = -13
+
+Well first may I correct a statement which was made before, that under my 
+agricultural program food prices would go up twenty-five percent. That ' s 
+untrue. The fa- the **farmer** who grows wheat gets about two and a half 
+**cents** out of a twenty-five-cent loaf of bread. Even if you put his income 
+up ten percent, that would be two and three-quarters percent three pers- or 
+three **cents** out of that twenty-five **cents** . The t- man who grows 
+tomatoes – it costs less for those tomatoes than it does for the label on the 
+can. And I believe when the average hour for many **farmers** ' wage is about 
+fifty **cents** an hour, he should do better. But anybody who suggests that 
+that program would c- come to any figure indicated by the Vice President is in 
+error. The Vice President suggested a number of things. He suggested that we 
+aid distressed areas. The Administration has vetoed that bill passed by the 
+Congress twice. He suggested we pass an aid to education bill. But the 
+Administration and the Republican majority in the Congress has opposed any 
+realistic aid to education. And the Vice President cast the deciding vote 
+against **federal** aid for teachers ' **salaries** in the Senate, which 
+prevented that being added. This Administration and this country last year had 
+the lowest rate of economic **growth** – which means jobs – of any major 
+industrialized **society** in the world in 1959 . And when we have to find 
+twenty-five thousand new jobs a week for the next ten years, we ' re going to 
+have to grow more. Governor Rockefeller says five per **cent** . The Democratic 
+platform and others say five per **cent** . Many say four and a half per 
+**cent** . The last eight years the average **growth** has been about two and a 
+half per **cent** . That ' s why we don ' t have full employment today. 
+
+Lemmas in this text that loaded on the factor:
+
+cent 
+farmer 
+federal (secondary)
+growth (secondary)
+salary 
+society 
+twenty (secondary)

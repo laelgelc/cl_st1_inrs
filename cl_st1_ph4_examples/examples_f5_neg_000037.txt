@@ -1,0 +1,15 @@
+file = t000033
+date = 2020-09-29
+user = BIDEN
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 11
+words loading = 1
+factor score = -3
+
+The **wrong** guy, the **wrong** night, at the **wrong** time. 
+
+Lemmas in this text that loaded on the factor:
+
+wrong 

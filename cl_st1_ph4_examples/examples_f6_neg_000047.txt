@@ -1,0 +1,24 @@
+file = t002255
+date = 2000-10-17
+user = BUSH
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 111
+words loading = 3
+factor score = -2
+
+I ' m not quite through. Let me finish. I talked about the principles and the 
+issues that I think are important in a patient ' s bill of rights. It ' s kind 
+of Washington, D. C. focus. Well, it ' s in this **committee** or it ' s got 
+this **sponsor** . If I ' m the president, we ' re going to have emergency room 
+care, we ' re going have gag orders, we ' re going to have direct access to OB 
+/ GYN. People will be able to take their HMO insurance **company** to court. 
+That ' s what I ' ve done in Texas and that ' s the kind of leadership style I 
+' ll bring to Washington. 
+
+Lemmas in this text that loaded on the factor:
+
+committee 
+company (secondary)
+sponsor 

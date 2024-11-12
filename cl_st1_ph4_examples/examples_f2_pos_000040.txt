@@ -1,0 +1,71 @@
+file = t003156
+date = 1984-10-11
+user = BUSH
+conversation = October_11,_1984_Debate_Transcript
+URL = The_Bush-Ferraro_Vice-Presidential_Debate
+
+word count = 455
+words loading = 23
+factor score = 33
+
+Well, in a couple of weeks, you, the **American** **people** , will be 
+**faced** , three weeks, with a choice. It ' s the clearest choice in some 
+fifty years. And the choice is, do we **move** forward with **strength** and 
+with prosperity or do we go back to weakness, despair, disrespect. Ronald 
+Reagan and I have put our trust in the **American** **people** . We ' ve 
+**moved** some of the **power** away from Washington, D. C. , and put it back 
+with the **people** . We ' re pulling together. The neighborhoods are safer ' 
+cause crime is going down. Your sons and daughters are doing better in 
+**school** . Test scores are going up. There ' s a new opportunity lying out 
+there in the **future** . Science, technology and space offering opportunity 
+that, to everybody, all the young ones coming up. And abroad there ' s new 
+leadership and respect. And Ronald Reagan is clearly the **strong** **leader** 
+of the **free** **world** . And I ' ll be honest with you. It ' s a joy to 
+**serve** with a **president** who does not apologize for the United **States** 
+of America. Mr. Mondale, on the other hand, has one idea. Go out and tax the 
+**American** **people** . And then he wants to repeal indexing, to wipe out the 
+one protection that those at the lowest end of the economic scale have 
+protecting them against being rammed into **higher** and **higher** tax 
+brackets. We just owe our country too much to go back to that kind of an 
+approach. I ' d like to say something to the young **people** . I started a 
+business. I know what it is to have a dream and have a job and **work** hard to 
+employ others and really to participate in the **American** dream. Some of you 
+out there are finishing **high** **school** or college and some of you are 
+starting out in the **working** **place** . And we want for you America ' s 
+greatest gift. And that is opportunity. And then, **peace** . Yes, I did 
+**serve** in combat. I was shot down when I was a young kid, scared to death. 
+And all that did, saw friends die, but that heightened my convictions about 
+**peace** . It is absolutely essential that we guarantee the young **people** 
+that they will not know the agony of **war** . America ' s gift, opportunity 
+and **peace** . Now we do have some unfinished business. We must continue to go 
+ahead. The **world** is too complex to go back to vacillation and weakness. We 
+' ve too much going on to go back to the failed **policies** of the **past** . 
+The **future** is too bright not to give it our **best** shot. Together we can 
+go forward and lift America up to meet her greatest dreams. Thank you very 
+much. 
+
+Lemmas in this text that loaded on the factor:
+
+american 
+face 
+free 
+future 
+good 
+high (secondary)
+leader 
+move 
+past 
+peace (secondary)
+people 
+place 
+policy 
+power 
+president 
+school (secondary)
+serve 
+states 
+strength 
+strong 
+war 
+work 
+world 

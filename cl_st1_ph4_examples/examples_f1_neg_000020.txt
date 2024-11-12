@@ -1,0 +1,27 @@
+file = t003022
+date = 1988-10-13
+user = DUKAKIS
+conversation = October_13,_1988_Debate_Transcript
+URL = The_Second_Bush-Dukakis_Presidential_Debate
+
+word count = 166
+words loading = 1
+factor score = -3
+
+Margaret, Kitty and I had very much the same kind of experience that the Bushes 
+had: we lost a baby, lived about twenty minutes after it was born. But isn ' t 
+the real question that we have to answer not how many exceptions we make, 
+because the vice president himself is prepared to make exceptions. It ' s who 
+makes the decision, who makes this very difficult, very wrenching decision? ( 
+Applause ) And I think it has to be the woman, in the exercise of her own 
+conscience and **religious** beliefs, that makes that decision. Who are we to 
+say, well, under certain circumstances, it ' s all right, but under other 
+circumstances it isn ' t? That ' s a decision that only a woman can make, after 
+consulting her conscience and consulting her **religious** principles. And I 
+would hope that we would give to women in this country the right to make that 
+decision, and to make it in the exercise of their conscience and **religious** 
+beliefs. ( Applause ) 
+
+Lemmas in this text that loaded on the factor:
+
+religious 

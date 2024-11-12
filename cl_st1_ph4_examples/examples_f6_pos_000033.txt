@@ -1,0 +1,54 @@
+file = t001351
+date = 2012-10-16
+user = OBAMA
+conversation = October_16,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_HOFSTRA_UNIVERSITY,_HEMPSTEAD,_NEW_YORK
+
+word count = 467
+words loading = 8
+factor score = 12
+
+Well, Katherine, that ' s a great question. And, you know, I was raised by a 
+single mom who had to put herself through **school** while looking after two 
+**kids** . And she worked hard every day and made a lot of sacrifices to make 
+sure we got everything we needed. My grandmother, she started off as a 
+secretary in a bank. She never got a **college** **education** , even though 
+she was smart as a whip. And she worked her way up to become a vice president 
+of a **local** bank, but she hit the glass ceiling. She trained people who 
+would end up becoming her bosses during the course of her career. She didn ' t 
+complain. That ' s not what you did in that generation. And this is one of the 
+reasons why one of the first — the first bill I signed was something called 
+the Lily Ledbetter bill. And it ' s named after this amazing woman who had been 
+doing the same job as a man for years, found out that she was getting paid 
+less, and the Supreme Court said that she couldn ' t bring suit because she 
+should have found about it earlier, whereas she had no way of finding out about 
+it. So we fixed that. And that ' s an example of the kind of advocacy that we 
+need, because women are increasingly the breadwinners in the family. This is 
+not just a women ' s issue, this is a family issue, this is a middle-class 
+issue, and that ' s why we ' ve got to fight for it. It also means that we ' ve 
+got to make sure that young people like yourself are able to afford a 
+**college** **education** . Earlier, Governor Romney talked about he wants to 
+make Pell Grants and other **education** accessible for young people. Well, the 
+truth of the matter is, is that that ' s exactly what we ' ve done. We ' ve 
+expanded Pell Grants for millions of people, including millions of young women, 
+all across the country. We did it by taking $60 billion that was going to banks 
+and lenders as middlemen for the **student** loan program, and we said, let ' s 
+just cut out the middleman. Let ' s give the money directly to **students** . 
+And as a **consequence** , we ' ve seen millions of young people be able to 
+afford **college** , and that ' s going to make sure that young women are going 
+to be able to compete in that marketplace. But we ' ve got to enforce the laws, 
+which is what we are doing, and we ' ve also got to make sure that in every 
+walk of life we do not tolerate discrimination. That ' s been one of the 
+hallmarks of my administration. I ' m going to continue to push on this issue 
+for the next four years. 
+
+Lemmas in this text that loaded on the factor:
+
+class (secondary)
+college 
+consequence 
+education 
+kid 
+local 
+school 
+student 

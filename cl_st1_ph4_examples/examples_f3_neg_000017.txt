@@ -1,0 +1,24 @@
+file = t001386
+date = 2012-10-16
+user = ROMNEY
+conversation = October_16,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_HOFSTRA_UNIVERSITY,_HEMPSTEAD,_NEW_YORK
+
+word count = 101
+words loading = 3
+factor score = -5
+
+Well, Candy, actually, in my state, the pro-gun folks and the anti-gun folks 
+came together and put together a **piece** of **legislation** . And it ' s 
+referred to as an assault weapon ban, but it had, at the signing of the bill, 
+both the pro-gun and the anti-gun people came together, because it provided 
+opportunities for both that both wanted. There were hunting opportunities, for 
+instance, that haven ' t previously been available and so forth, so it was a 
+mutually agreed- upon **piece** of **legislation** . That ' s what we need more 
+of, Candy. What we have right now in Washington is a place that ' s gridlocked. 
+
+Lemmas in this text that loaded on the factor:
+
+legislation 
+piece 
+pro 

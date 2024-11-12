@@ -1,0 +1,41 @@
+file = t000297
+date = 2020-10-07
+user = PENCE
+conversation = October_07,_2020_Vice_Presidential_Debate_Transcript
+URL = Vice_Presidential_Debate_at_the_University_of_Utah_in_Salt_Lake_City,_Utah
+
+word count = 276
+words loading = 7
+factor score = 9
+
+Thank you Susan. Well first, I ' m very proud of our record on the environment 
+and on conservation. According to all of the best estimates, our, our air and 
+land are **cleaner** than any time ever recorded. And our **water** is among 
+the **cleanest** in the world. And just a little while ago, the president 
+signed the Outdoors Act, the largest **investment** in our public lands and 
+public parks in 100 years. So, President Trump has made a commitment to 
+conservation and to the environment. Now with regard to climate change, the 
+climate is changing. But the issue is, what ' s the cause and what do we do 
+about it. President Trump has made it clear that we ' re going to continue to 
+listen to the science. Now Joe Biden and Kamala Harris, would put us back in 
+the Paris Climate Accord. They ' d impose the Green New Deal, which would crush 
+American **energy** , would increase the **energy** cost of American families 
+in their homes and literally would crush American jobs. President Trump and I 
+believe that the progress that we have made in a **cleaner** environment has 
+been happening precisely because we have a strong free **market** economy. You 
+know what ' s remarkable is the United States has reduced CO2 more than the 
+countries that are still in the Paris Climate Accord, but we ' ve done it 
+through innovation. And we ' ve done it through **natural** **gas** and 
+fracking, which, Senator, the American people can go look at the record. I know 
+Joe Biden says otherwise now, as you do, but the both of you repeatedly 
+committed to abolishing fossil fuel and banning fracking. 
+
+Lemmas in this text that loaded on the factor:
+
+clean 
+energy 
+gas 
+investment (secondary)
+market 
+natural 
+water 

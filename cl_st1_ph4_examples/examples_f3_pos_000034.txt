@@ -1,0 +1,38 @@
+file = t003256
+date = 1980-10-28
+user = MR._CARTER
+conversation = October_28,_1980_Debate_Transcript
+URL = The_Carter-Reagan_Presidential_Debate
+
+word count = 252
+words loading = 4
+factor score = 11
+
+Yes. Governor Reagan is making some very misleading and disturbing statements. 
+He not only advocates the scrapping of this treaty – and I don ' t know that 
+these men that he quotes are against the treaty in its final form – but he 
+also advocates the possibility, he said it ' s been a missing element, of 
+playing a trump card against the Soviet Union of a **nuclear** arms race, and 
+is insisting upon **nuclear** superiority by our own nation, as a predication 
+for **negotiation** in the future with the Soviet Union. If President Brezhnev 
+said, we will scrap this treaty, **negotiated** under three American Presidents 
+over a seven-year period of time, we insist upon **nuclear** superiority as a 
+basis for future **negotiations** , and we believe that the launching of a 
+**nuclear** arms race is a good basis for future **negotiations** , it ' s 
+obvious that I, as President, and all Americans, would reject such a 
+proposition. This would mean the resumption of a very dangerous **nuclear** 
+arms race. It would be very disturbing to American people. It would change the 
+basic tone and commitment that our nation has experienced ever since the Second 
+World War, with al Presidents, Democratic and Republican. And it would also be 
+very disturbing to our **allies** , all of whom support this **nuclear** arms 
+treaty. In addition to that, the adversarial relationship between ourselves and 
+the Soviet Union would undoubtedly deteriorate very rapidly. This attitude is 
+extremely dangerous and belligerent in its tone, although it ' s said with a 
+quiet voice. 
+
+Lemmas in this text that loaded on the factor:
+
+ally 
+negotiate 
+negotiation 
+nuclear 

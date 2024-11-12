@@ -1,0 +1,17 @@
+file = t000013
+date = 2020-09-29
+user = TRUMP
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 45
+words loading = 1
+factor score = -1
+
+And if you were here, it wouldn ' t be 200 , it would be two million people 
+because you were very late on the **draw** . You didn ' t want me to ban China, 
+which was heavily infected. You didn ' t want me to ban Europe. 
+
+Lemmas in this text that loaded on the factor:
+
+draw 

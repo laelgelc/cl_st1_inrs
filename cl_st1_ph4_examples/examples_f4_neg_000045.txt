@@ -1,0 +1,20 @@
+file = t000536
+date = 2016-09-26
+user = CLINTON
+conversation = September_26,_2016_Debate_Transcript
+URL = Presidential_Debate_at_Hofstra_University_in_Hempstead,_New_York
+
+word count = 75
+words loading = 1
+factor score = -1
+
+… would not add a penny to the debt, and your plans would add $5 trillion to 
+the debt. What I have proposed would cut regulations and streamline them for 
+small businesses. What I have proposed would be paid for by raising taxes on 
+the wealthy, because they have made all the **gains** in the economy. And I 
+think it ' s time that the wealthy and corporations paid their fair share to 
+support this country. 
+
+Lemmas in this text that loaded on the factor:
+
+gain 

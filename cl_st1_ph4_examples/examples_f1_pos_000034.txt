@@ -1,0 +1,60 @@
+file = t002542
+date = 1992-10-11
+user = CLINTON
+conversation = October_11,_1992_First_Half_Debate_Transcript
+URL = The_First_Clinton-Bush-Perot_Presidential_Debate(First_Half_of_Debate)
+
+word count = 236
+words loading = 26
+factor score = 45
+
+– notwithstanding my opponent ' s ad, my **plan** triggers in at gross 
+**incomes** , **family** **incomes** of $200 , 000 and above. Then we want to 
+give modest middle-class **tax** **relief** to restore some fairness, 
+especially to middle- **class** **people** with **families** with **incomes** 
+of under $60 , 000 . In addition to that, the **money** that I **raise** from 
+upper-income **people** and from asking foreign corporations just to **pay** 
+the same **income** on their **income** earned in America that American 
+corporations do will be used to give incentives back to upper-income **people** 
+. I want to give **people** permanent incentives on **investment** **tax** 
+credit, like President Kennedy and the Congress inaugurated in the early ' 60s 
+to get industry moving again; a research and **development** **tax** credit; a 
+low-income housing **tax** credit; a long-term **capital** **gains** 
+**proposal** for new **business** and **business** expansions. We ' ve got to 
+have no more trickle down. We don ' t need across-the-board **tax** **cuts** 
+for the **wealthy** for nothing. We need to say here ' s your **tax** 
+incentive: if you **create** American **jobs** , the old-fashioned way. I ' d 
+like to **create** more millionaires than were **created** under Mr. Bush and 
+Mr. Reagan, but I don ' t want to have 4 years where we have no **growth** in 
+the **private** **sector** , and that ' s what ' s happened in the last 4 
+years. We ' re down 35 , 000 **jobs** in the **private** **sector** . We need 
+to invest and **grow** , and that ' s what I want to do. 
+
+Lemmas in this text that loaded on the factor:
+
+business 
+capital 
+class 
+create 
+cut 
+development 
+family 
+gain (secondary)
+grow 
+growth 
+income 
+investment 
+job 
+low 
+middle 
+money 
+pay 
+people (secondary)
+plan 
+private 
+proposal 
+raise 
+relief 
+sector 
+tax 
+wealthy 

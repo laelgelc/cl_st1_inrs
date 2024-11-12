@@ -1,0 +1,76 @@
+file = t000658
+date = 2016-10-04
+user = PENCE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 479
+words loading = 25
+factor score = 46
+
+I think the fact that — that under this past administration of which Hillary 
+Clinton was a part, we ' ve almost doubled the **national** debt is atrocious. 
+I mean, I ' m very proud of the fact that — I come from a state that 
+**works** . The state of Indiana has **balanced** **budgets** . We **cut** 
+**taxes** , we ' ve made record **investments** in **education** and in 
+infrastructure, and I still finish my term with $2 **billion** in the bank. 
+That ' s a little bit different than when Senator Kaine was governor here in 
+Virginia. He actually — he actually tried to **raise** **taxes** by about $4 
+**billion** . He left his state about $2 **billion** in the hole. In the state 
+of Indiana, we ' ve **cut** unemployment in half; unemployment doubled when he 
+was governor. But I think he ' s a very fitting running mate for Hillary 
+Clinton, because in the wake of a season where American **families** are 
+struggling in this **economy** under the weight of **higher** **taxes** and 
+Obamacare and the war on coal and the stifling avalanche of regulation coming 
+out of this administration, Hillary Clinton and Tim Kaine want more of the 
+same. It really is remarkable that they actually are advocating a trillion 
+**dollars** in **tax** **increases** , which I get that. You tried to **raise** 
+**taxes** here in Virginia and were unsuccessful. But a trillion **dollars** in 
+**tax** **increases** , more regulation, more of the same war on coal, and more 
+of Obamacare that now even former President Bill Clinton calls Obamacare a 
+crazy **plan** . But Hillary Clinton and Tim Kaine want to build on Obamacare. 
+They want to expand it into a single-payer **program** . And for all the world, 
+Hillary Clinton just thinks Obamacare is a good start. Look, Donald Trump and I 
+have a **plan** to get this **economy** moving again just the way that it 
+**worked** in the 1980s, just the way it **worked** in the 1960s, and that is 
+by lowering **taxes** across the board for **working** **families** , **small** 
+**businesses** and **family** farms, ending the war on coal that is hurting 
+**jobs** and hurting this **economy** even here in Virginia, repealing 
+Obamacare lock, stock, and barrel, and repealing all of the executive orders 
+that Barack Obama has **signed** that are stifling economic **growth** in this 
+**economy** . We can get America moving again. **Put** on top of that the kind 
+of trade deals that ' ll **put** the American worker first, and you ' ve got a 
+**prescription** for real **growth** . And when you get the **economy** 
+growing, Elaine, that ' s when you can deal with the **national** debt. When we 
+get back to 3 . 5 **percent** to 4 **percent** **growth** with Donald Trump ' s 
+**plan** will do, then we ' re going to have the resources to meet our nation ' 
+s needs at home and abroad, and we ' re going to have the ability to bring down 
+the **national** debt. 
+
+Lemmas in this text that loaded on the factor:
+
+balance 
+billion 
+budget 
+business 
+cut 
+dollar 
+economy 
+education (secondary)
+family 
+growth 
+high 
+increase 
+investment 
+job 
+national (secondary)
+percent 
+plan 
+prescription 
+program 
+put 
+raise 
+sign 
+small 
+tax 
+work (secondary)

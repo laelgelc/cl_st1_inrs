@@ -1,0 +1,30 @@
+file = t002716
+date = 1992-10-13
+user = STOCKDALE
+conversation = October_13,_1992_Debate_Transcript
+URL = The_Gore-Quayle-Stockdale_Vice_Presidential_Debate
+
+word count = 193
+words loading = 2
+factor score = 10
+
+I — I come down on the side of freedom of **school** choice. The — and 
+there ' s a lot of misunderstandings that I ' ve heard here tonight, that I may 
+have the answer to. The — starting at, you know, for the last, almost a 
+decade, we ' ve worried about our **schools** officially through Washington, 
+and the president had a meeting of all the governors, and then they tried the 
+conventional fixes for **schools** , that is, to increase the certification of 
+— requirements for the **teachers** , to lengthen the **school** day, to 
+lengthen the **school** year and nothing — this is a very brief overview of 
+the thing — but nothing happened. And it ' s time to change the **school** ' 
+s structure. In **schools** , bureaucracy is bad and autonomy is good. The only 
+good **schools** — — we have are those run by talented principals and 
+devoted **teachers** , and they ' re running their own show. How many times 
+have I thrived? You know, the best thing I had when I ran that civilization, it 
+succeeded, and it ' s a landmark. The best thing I had going for me was I had 
+no contact with Washington for all those years. 
+
+Lemmas in this text that loaded on the factor:
+
+school 
+teacher 

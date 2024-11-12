@@ -1,0 +1,43 @@
+file = t000002
+date = 2020-09-29
+user = BIDEN
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 361
+words loading = 4
+factor score = -7
+
+The American people have a right to have a say in who the Supreme Court nominee 
+is and that say occurs when they vote for United States Senators and when they 
+vote for the President of United States. They ' re not going to get that chance 
+now because we ' re in the middle of an election already. The election has 
+already started. Tens of thousands of people already voted and so the thing 
+that should happen is we should wait. We should wait and see what the outcome 
+of this election is because that ' s the only way the American people get to 
+express their view is by who they elect as President and who they elect as Vice 
+President. Now, what ' s at stake here is the President ' s made it clear, he 
+wants to get rid of the Affordable Care Act. He ' s been running on that, he 
+ran on that and he ' s been governing on that. He ' s in the Supreme Court 
+right now trying to get rid of the Affordable Care Act, which will strip 20 
+million people from having health insurance now, if it goes into court. And the 
+justice, I ' m not opposed to the justice, she seems like a very fine person. 
+But she ' s written, before she went in the bench, which is her right, that she 
+thinks that the Affordable Care Act is not Constitutional. The other thing that 
+' s on the court, and if it ' s **struck** down, what happens? Women ' s rights 
+are fundamentally changed. Once again, a woman could pay more money because she 
+has a pre-existing **condition** of pregnancy. They ' re able to charge women 
+more for the same exact procedure a man gets. And that ended when we, in fact, 
+passed the Affordable Care Act, and there ' s a hundred million people who have 
+pre-existing **conditions** and they ' ll be taken away as well. Those 
+pre-existing **conditions** , insurance companies are going to love this. And 
+so it ' s just not appropriate to do this before this election. If he wins the 
+election and the Senate is Republican, then he goes forward. If not, we should 
+wait until February. 
+
+Lemmas in this text that loaded on the factor:
+
+condition 
+exist (secondary)
+pre 
+strike 

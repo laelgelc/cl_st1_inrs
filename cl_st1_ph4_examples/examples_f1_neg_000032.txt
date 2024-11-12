@@ -1,0 +1,20 @@
+file = t001872
+date = 2004-10-08
+user = BUSH
+conversation = October_8,_2004_Debate_Transcript
+URL = The_Second_Bush-Kerry_Presidential_Debate
+
+word count = 70
+words loading = 2
+factor score = -2
+
+Well, it ' s pretty simple when they say: Are you for a ban on partial 
+**birth** **abortion** ? Yes or no? And he was given a chance to vote, and he 
+voted no. And that ' s just the way it is. That ' s a vote. It came right up. 
+It ' s clear for everybody to see. And as I said: You can run but you can ' t 
+hide the reality. 
+
+Lemmas in this text that loaded on the factor:
+
+abortion 
+birth 

@@ -1,0 +1,74 @@
+file = t001655
+date = 2008-10-07
+user = OBAMA
+conversation = October_7,_2008_Debate_Transcript
+URL = The_Second_McCain-Obama_Presidential_Debate
+
+word count = 486
+words loading = 23
+factor score = 45
+
+Well, you know, as I travel around the country, this is one of the single most 
+frequently asked issues that I get, is the issue of **health** **care** . It is 
+breaking **family** **budgets** . I can ' t tell you how many **people** I meet 
+who don ' t have **health** **insurance** . If you ' ve got **health** 
+**insurance** , most of you have seen your **premiums** double over the last 
+eight years. And your co-payments and deductibles have gone up 30 **percent** 
+just in the last year alone. If you ' re a **small** **business** , it ' s a 
+crushing burden. So one of the things that I have said from the start of this 
+campaign is that we have a moral commitment as well as an economic imperative 
+to do something about the **health** **care** crisis that so many **families** 
+are facing. So here ' s what I would do. If you ' ve got **health** **care** 
+already, and probably the majority of you do, then you can keep your **plan** 
+if you are satisfied with it. You can keep your choice of **doctor** . We ' re 
+going to **work** with your employer to lower the **cost** of your **premiums** 
+by up to $2 , 500 a year. And we ' re going to do it by investing in 
+prevention. We ' re going to do it by making sure that we use information 
+technology so that **medical** records are actually on computers instead of you 
+filling forms out in triplicate when you go to the hospital. That will reduce 
+**medical** errors and reduce **costs** . If you don ' t have **health** 
+**insurance** , you ' re going to be able to buy the same kind of **insurance** 
+that Senator McCain and I enjoy as **federal** employees. Because there ' s a 
+huge pool, we can drop the **costs** . And nobody will be excluded for 
+pre-existing **conditions** , which is a huge problem. Now, Senator McCain has 
+a different kind of approach. He says that he ' s going to give you a $5 , 000 
+**tax** credit. What he doesn ' t tell you is that he is going to **tax** your 
+employer-based **health** **care** **benefits** for the first time ever. So 
+what one hand giveth, the other hand taketh away. He would also strip away the 
+ability of states to provide some of the regulations on **insurance** 
+**companies** to make sure you ' re not excluded for pre-existing 
+**conditions** or your mammograms are **covered** or your maternity is 
+**covered** . And that is fundamentally the wrong way to go. In fact, just 
+today **business** organizations like the United States Chamber of Commerce, 
+which generally are pretty supportive of Republicans, said that this would lead 
+to the unraveling of the employer-based **health** **care** system. That, I don 
+' t think, is the kind of change that we need. We ' ve got to have somebody who 
+is fighting for patients and making sure that you get decent, affordable 
+**health** **care** . And that ' s something that I ' m committed to doing as 
+president. 
+
+Lemmas in this text that loaded on the factor:
+
+benefit 
+budget 
+business 
+care 
+company 
+condition (secondary)
+cost 
+cover 
+doctor (secondary)
+exist 
+family 
+federal 
+health 
+insurance 
+medical 
+payment 
+people (secondary)
+percent 
+plan 
+premium 
+small 
+tax 
+work (secondary)

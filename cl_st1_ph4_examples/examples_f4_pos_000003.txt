@@ -1,0 +1,46 @@
+file = t002338
+date = 1996-10-06
+user = DOLE
+conversation = October_6,_1996_Debate_Transcript
+URL = The_First_Clinton-Dole_Presidential_Debate
+
+word count = 352
+words loading = 7
+factor score = 25
+
+Not if I didn ' t have a better idea. But I ' ve got a better idea. It ' s 
+something I ' ve worked on for 15 years. It ' s called the automated **check** 
+or the instant **check** . It ' s being used in 17 states right now. States 
+like Florida, Colorado, Virginia, and other states. You don ' t buy any **gun** 
+. You don ' t get any **gun** . We ' ve got 20 million names on a computer in 
+Washington, D. C. of people who should not have **guns** . We ought to keep 
+**guns** out of the hands of **criminals** . And, there are eight other 
+categories that should not have **guns** . I ' ve been working on this for a 
+long, long time. You walk in, you put your little card in there. If it says 
+tilt, you don ' t get any **gun** . You don ' t get a hand **gun** , you don ' 
+t get a rifle, you don ' t get a shot **gun** , you get zippo. If we ' re going 
+to protect American **children** and American families and people who live as 
+prisoners in their own home, we ' ve got to stop **guns** from being dumped on 
+the **street** . The administration says they support the instant **check** . 
+They ' ve appropriated about $200 million, but only spent about $3 million to 
+get it underway. In our administration, in my administration, we will expedite. 
+This keeps up with technology. It keeps **guns** out of the hands of people who 
+should not have **guns** . That is the bottom line. And I believe it ' s a good 
+idea, has strong bipartisan support. And perhaps that ' s another thing we can 
+depoliticize. You talk about the Brady Bill. There has only been one 
+prosecution under the Brady — only one under the **assault** weapon **ban** 
+and only seven under the Brady Bill that you talk about all the time. And on 
+the **assault** weapon **ban** , out of 17 weapons that were **banned** , only 
+six **banned** now because eleven have been modified and are back on the 
+**street** . Let ' s get together on this instant **check** because that will 
+really make a difference. 
+
+Lemmas in this text that loaded on the factor:
+
+assault 
+ban 
+check 
+child 
+criminal 
+gun 
+street 

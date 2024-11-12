@@ -1,0 +1,26 @@
+file = t002715
+date = 1992-10-13
+user = QUAYLE
+conversation = October_13,_1992_Debate_Transcript
+URL = The_Gore-Quayle-Stockdale_Vice_Presidential_Debate
+
+word count = 91
+words loading = 6
+factor score = 10
+
+And he said that he was not for choosing — giving the **parents** the right 
+to choose to send their children to **public** **schools** . But it ' s okay 
+for the wealthy to choose to send their **kids** to private **schools** , but 
+it ' s not okay for the middle **class** and the working poor to choose where 
+they want to send their **kids** to **school** . I think that it ' s time that 
+all **parents** in America have a right to choose where they send their 
+**kids** to **school** to get an **education** . 
+
+Lemmas in this text that loaded on the factor:
+
+class (secondary)
+education 
+kid 
+parent 
+public (secondary)
+school 

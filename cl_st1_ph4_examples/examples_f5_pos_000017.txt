@@ -1,0 +1,45 @@
+file = t002037
+date = 2000-10-03
+user = GORE
+conversation = October_3,_2000_Transcript
+URL = The_First_Gore-Bush_Presidential_Debate
+
+word count = 324
+words loading = 7
+factor score = 14
+
+Excellent question. And here is the simple difference. My plan has not only a 
+short-term component, but also a long-term component. And it focuses not only 
+on increasing the supply, which I think we have to do, but also on working on 
+the consumption side. Now, in the short-term we have to free ourselves from the 
+domination of the big **oil** companies that have the ability to manipulate the 
+price from OPEC when they want to raise the price. And in the long-term we have 
+to give new incentives for the development of domestic resources like deep 
+**gas** in the western Gulf, like stripper wells for **oil** , but also 
+renewable **sources** of **energy** . And domestic **sources** that are 
+**cleaner** and better. And I ' m proposing a plan that will give tax credits 
+and tax incentives for the rapid development of new kinds of cars and trucks 
+and buses and factories and boilers and furnaces that don ' t have as much 
+pollution, that don ' t burn as much **energy** , and that help us get out on 
+the cutting edge of the new technologies that will **create** millions of new 
+jobs. Because, when we sell these new products here, we ' ll then be able to 
+sell them overseas. There is a ravenous demand for them overseas. Now, another 
+big difference is Governor Bush is proposing to open up some of our most 
+precious **environmental** treasures, like the Arctic National Wildlife Refuge 
+for the big **oil** companies to go in and start producing **oil** there. I 
+think that is the wrong choice. It would only give us a few months ' worth of 
+**oil** and the **oil** wouldn ' t start flowing for many years into the 
+future. I don ' t think it ' s a fair price to pay to destroy precious parts of 
+America ' s environment. We have to bet on the future and move beyond the 
+current technologies to have a whole new generation of more efficient, 
+**cleaner** , **energy** technology. 
+
+Lemmas in this text that loaded on the factor:
+
+clean 
+create (secondary)
+energy 
+environmental 
+gas 
+oil 
+source 

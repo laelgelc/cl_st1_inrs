@@ -1,0 +1,76 @@
+file = t001007
+date = 2016-10-19
+user = CLINTON
+conversation = October_19,_2016_Debate_Transcript
+URL = Presidential_Debate_at_the_University_of_Nevada_in_Las_Vegas
+
+word count = 409
+words loading = 30
+factor score = 45
+
+Well, I think when the **middle** **class** thrives, America thrives. And so my 
+**plan** is based on **growing** the **economy** , giving middle-class 
+**families** many more opportunities. I want us to have the **biggest** 
+**jobs** **program** since World War II, **jobs** in infrastructure and 
+advanced manufacturing. I think we can compete with high-wage countries, and I 
+believe we should. New **jobs** and clean **energy** , not only to fight 
+climate change, which is a serious problem, but to **create** new opportunities 
+and new **businesses** . I want us to do more to help **small** **business** . 
+That ' s where two-thirds of the new **jobs** are going to come from. I want us 
+to **raise** the **national** minimum wage, because **people** who live in 
+poverty should not—who **work** full-time should not still be in poverty. And 
+I sure do want to make sure women get equal **pay** for the **work** we do. I 
+feel strongly that we have to have an **education** system that starts with 
+preschool and goes through **college** . That ' s why I want more technical 
+**education** in **high** schools and in community **colleges** , real 
+apprenticeships to prepare young **people** for the **jobs** of the future. I 
+want to make **college** debt-free and for **families** making less than $125 , 
+000 , you will not get a tuition **bill** from a public **college** or 
+university if the **plan** that I **worked** on with Bernie Sanders is enacted. 
+And we ' re going to **work** hard to make sure that it is, because we are 
+going to go where the **money** is. Most of the **gains** in the last years 
+since the Great Recession have gone to the very top. So we are going to have 
+the **wealthy** **pay** their **fair** share. We ' re going to have 
+corporations make a contribution greater than they are now to our country. That 
+is a **plan** that has been analyzed by independent experts which said that it 
+could produce 10 million new **jobs** . By contrast, Donald ' s **plan** has 
+been analyzed to conclude it might lose 3 . 5 million **jobs** . Why? Because 
+his whole **plan** is to **cut** **taxes** , to give the **biggest** **tax** 
+breaks ever to the **wealthy** and to corporations, adding $20 trillion to our 
+debt, and causing the kind of dislocation that we have seen before, because it 
+truly will be trickle-down **economics** on steroids. So the **plan** I have I 
+think will actually produce greater opportunities. The **plan** he has will 
+**cost** us **jobs** and possibly lead to another Great Recession. 
+
+Lemmas in this text that loaded on the factor:
+
+big 
+bill 
+business 
+class 
+college (secondary)
+cost 
+create 
+cut 
+economics 
+economy 
+education (secondary)
+energy (secondary)
+fair 
+family 
+gain (secondary)
+grow 
+high 
+job 
+middle 
+money 
+national (secondary)
+pay 
+people (secondary)
+plan 
+program 
+raise 
+small 
+tax 
+wealthy 
+work (secondary)

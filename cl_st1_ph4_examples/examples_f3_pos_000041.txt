@@ -1,0 +1,55 @@
+file = t003352
+date = 1976-10-06
+user = MR._CARTER
+conversation = October_6,_1976_Debate_Transcript
+URL = The_Second_Carter-Ford_Presidential_Debate
+
+word count = 477
+words loading = 6
+factor score = 10
+
+The purpose of this debate and the outcome of the election will determine three 
+basic things: Leadership, upholding the principles of our country, and proper 
+priorities and commitments for the future. This election will also determine 
+what kind of world we leave our children. Will it be a nightmare world 
+threatened with the **proliferation** of atomic bombs, not just in five major 
+countries but dozens of smaller countries that have been permitted to develop 
+atomic **weapons** because of a failure of our top leadership to stop 
+**proliferation** ? Will we have a world of hunger and – and hatred, and will 
+we be living in an armed camp stripped of our friendship and **allies** hiding 
+behind a tight defense that ' s been drawn in around us because we are fearful 
+of the outside world? Will we have a government of secrecy that excludes the 
+American people from participation in making basic decisions and therefore 
+covers up mistakes and makes it possible for our government – our government 
+– to depart from the principles of our Constitution and Bill of Rights? Or 
+will we have a world of **peace** with the **threat** of atomic **weapons** 
+eliminated, with full **trade** , with our people at work, inflation 
+controlled, openness in government, our people proud once again, Congress, 
+citizens, president, secretary of state working in harmony and unity toward a 
+common future? Or world where people have enough to eat and a world where we 
+care about those who don ' t? Can we become a breadbasket of the world instead 
+of the arms merchant of the world? I believe we can and we ought to. Now we ' 
+ve been hurt in recent years in this country. In the aftermath of Vietnam, 
+Cambodia, Chile, Pakistan, Angola, Watergate, CIA, we ' ve been hurt. Our 
+people feel that we ' ve lost something precious. That ' s not necessary. I 
+wanna see our nation – return to a posture and an image and a standard to 
+make us proud once again. I remember the world with NATO, and the world of 
+Point Four, and the world of the Marshall Plan, and the world of the **Peace** 
+Corps. Why can ' t we have that once again? We ought to be a beacon for nations 
+who search for **peace** and who search for freedom, who search for individual 
+liberty, who search for basic human rights. We haven ' t been lately. We can be 
+once again. We ' ll never have that world leadership until we are strong at 
+home, and we can have that strength if we return to the basic principles. It 
+ought not to be a strength of bombast and **threats** . It ought to be a quiet 
+strength based on the integrity of our people, the vision of the Constitution, 
+an in- innate strong will and purpose that God ' s given us in the greatest 
+nation on earth – the United States. 
+
+Lemmas in this text that loaded on the factor:
+
+ally 
+peace 
+proliferation 
+threat 
+trade 
+weapon 

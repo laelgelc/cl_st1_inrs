@@ -1,0 +1,15 @@
+file = t000953
+date = 2016-10-09
+user = TRUMP
+conversation = October_9,_2016_Debate_Transcript
+URL = Presidential_Debate_at_Washington_University_in_St._Louis,_Missouri
+
+word count = 12
+words loading = 1
+factor score = -1
+
+It is—our country has the slowest growth and jobs are a **disaster** . 
+
+Lemmas in this text that loaded on the factor:
+
+disaster 

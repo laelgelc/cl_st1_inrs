@@ -1,0 +1,38 @@
+file = t002038
+date = 2000-10-03
+user = BUSH
+conversation = October_3,_2000_Transcript
+URL = The_First_Gore-Bush_Presidential_Debate
+
+word count = 222
+words loading = 8
+factor score = 11
+
+It ' s an issue I know a lot about. I was a small **oil** person for a while in 
+west Texas. This is an administration that ' s had no plan. And all of a sudden 
+the results of having no plan have caught up with America. First and foremost 
+we have to fully fund LIHEAP which is a way to help low income folks, 
+particularly here in the east to pay for high fuel bills. Secondly, we need an 
+active exploration program in America. The only way to become less dependent on 
+foreign **sources** of crude **oil** is to explore at home. You bet I want to 
+open up a small part of Alaska. When that field is online it will produce one 
+million barrels a day. Today we **import** one million barrels from Saddam 
+Hussein. I would rather that a million come from our own hemisphere, our own 
+country as opposed to Saddam Hussein. I want to build more pipelines to move 
+**natural** **gas** throughout this hemisphere. I want to develop the **coal** 
+resources in America. Have **clean** **coal** technologies. Weâ€ 
+trade_mark_e ve got abundant supplies of **energy** here in America and weâ€ 
+trade_mark_e d better get after it, we better start exploring it or otherwise 
+we ' ll be in deep trouble in the future because of our dependency upon foreign 
+**sources** of crude. 
+
+Lemmas in this text that loaded on the factor:
+
+clean 
+coal 
+energy 
+gas 
+import 
+natural 
+oil 
+source 

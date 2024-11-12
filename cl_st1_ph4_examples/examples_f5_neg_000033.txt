@@ -1,0 +1,55 @@
+file = t003413
+date = 1960-10-07
+user = MR._NIXON
+conversation = October_7,_1960_Debate_Transcript
+URL = The_Second_Kennedy-Nixon_Presidential_Debate
+
+word count = 522
+words loading = 4
+factor score = -4
+
+My intentions in the field of civil rights have been spelled out in the 
+Republican platform. I think we have to make progress first in the field of 
+employment. And there we would give statutory authority to the Committee on 
+Government Contracts, which is an effective way of getting real progress made 
+in this area, since about one out of every four jobs is held by and is allotted 
+by people who have government contracts. Certainly I think all of us agree that 
+when anybody has a government contract, certainly the money that is spent under 
+that contract ought to be disbursed equally without regard to the race or creed 
+or color of the individual who is to be employed. Second, in the field of 
+schools, we believe that there should be provisions whereby the federal 
+government would give assistance to those districts who do want to integrate 
+their schools. That of course was rejected as was the government contracts 
+provision by the special session of the Congress to – in which Mr. Kennedy 
+was quite active. And then as far as other areas are concerned, I think that we 
+have to look to presidential leadership. And when I speak of presidential 
+leadership, I refer for example to our attitude on the sit-in **strikes** . 
+Here we have a **situation** which causes all of us concern – causes us 
+concern because of the denial of the rights of people to the equality which we 
+think belongs to everybody. I have talked to Negro mothers. I ' ve heard them 
+explain – try to explain – how they tell their children how they can go 
+into a store and buy a loaf of bread but then can ' t go into that store and 
+sit at the counter and get a Coca Cola. This is **wrong** , and we have to do 
+something about it. So, under the circumstances, what do we do? Well what we do 
+is what the Attorney-General of the United States did under the direction of 
+the President: call in the owners of chain stores and get them to take action. 
+Now there are other places where the executive can lead, but let me just sum up 
+by saying this: why do I talk every time I ' m in the South on civil rights? 
+Not because I am preaching to the people of the South because this isn ' t just 
+a Southern problem; it ' s a Northern problem and a Western problem; it ' s a 
+problem for all of us. I do it because it ' s the responsibility of leadership, 
+I do it because we have to solve this problem together. I do it right at this 
+time particularly because when we have Khrushchev in this country – a man who 
+has enslaved millions, a man who has slaughtered thousands – we cannot 
+continue to have a **situation** where he can point the finger at the United 
+States of America and say that we are denying rights to our citizens. And so I 
+say both the candidates and both the vice presidential candidates, I would hope 
+as well – including Senator Johnson – should talk on this issue at every 
+opportunity. 
+
+Lemmas in this text that loaded on the factor:
+
+general (secondary)
+situation 
+strike 
+wrong 

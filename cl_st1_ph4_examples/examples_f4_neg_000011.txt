@@ -1,0 +1,44 @@
+file = t003444
+date = 1960-10-13
+user = MR._KENNEDY
+conversation = October_13,_1960_Debate_Transcript
+URL = The_Third_Kennedy-Nixon_Presidential_Debate
+
+word count = 332
+words loading = 5
+factor score = -5
+
+Well number one on Indochina, Mr. Nixon talked in – before the newspaper 
+editors in the spring of 1954 about putting, and I quote him, " American boys 
+into Indochina. " The reason Indochina was preserved was the result of the 
+Geneva **Conference** which Indochina. Number two, on the question of the U-2 
+flights. I thought the. U-2 flight in May just before the **conference** was a 
+mistake in timing because of the hazards involved, if the summit **conference** 
+had any hope for success. I never criticized the U-2 flights in general, 
+however. I never suggested espionage should stop. It still goes on, I would 
+assume, on both sides. Number three, the Vice President – on May fifteenth 
+after the U-2 flight – indicated that the flights were going on, even though 
+the Administration and the President had canceled the flights on May twelfth. 
+Number three, the **pre** – Vice President suggests that we should keep the 
+**Communists** in doubt about whether we would fight on Quemoy and Matsu. That 
+' s not the position he ' s taking. He ' s indicating that we should fight for 
+these **islands** come what may because they are, in his words, in the area of 
+freedom. He didn ' t take that position on Tibet. He didn ' t take that 
+position on Budapest. He doesn ' t take that position that I ' ve seen so far 
+in Laos. Guinea and Ghana have both moved within the **Soviet** sphere of 
+influence in foreign policy; so has Cuba. I merely say that the United States 
+should meet its commitments to Que- to uh – Formosa and the Pescadores. But 
+as Admiral Yarnell has said, and he ' s been supported by most military 
+authority, these **islands** that we ' re now talking about are not worth the 
+bones of a single American soldier; and I know how difficult it is to sustain 
+troops close to the shore under artillery bombardment. And therefore, I think, 
+we should make it very clear the disagreement between Mr. Nixon and myself. He 
+' s extending the Administration ' s commitment. 
+
+Lemmas in this text that loaded on the factor:
+
+communists 
+conference 
+island 
+pre (secondary)
+soviet (secondary)

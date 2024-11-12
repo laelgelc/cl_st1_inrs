@@ -1,0 +1,15 @@
+file = t000921
+date = 2016-10-09
+user = TRUMP
+conversation = October_9,_2016_Debate_Transcript
+URL = Presidential_Debate_at_Washington_University_in_St._Louis,_Missouri
+
+word count = 14
+words loading = 1
+factor score = -2
+
+Excuse me. Because she has been a **disaster** as a senator. A **disaster** . 
+
+Lemmas in this text that loaded on the factor:
+
+disaster 

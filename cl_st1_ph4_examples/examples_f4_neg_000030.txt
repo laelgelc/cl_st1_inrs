@@ -1,0 +1,23 @@
+file = t001167
+date = 2012-10-11
+user = BIDEN
+conversation = October_11,_2012_Debate_Transcript
+URL = REP._PAUL_D._RYAN,_R-WIS.,_VICE_PRESIDENTIAL_CANDIDATE,AND_VICE_PRESIDENT_JOSEPH_R._BIDEN_JR._PARTICIPATE_IN_ACANDIDATES_DEBATE,_DANVILLE,_KENTUCKY
+
+word count = 123
+words loading = 1
+factor score = -2
+
+Well, we weren ' t told they wanted more security there. We did not know they 
+wanted more security again. And by the way, at the time we were told exactly 
+— we said exactly what the intelligence community told us that they knew. 
+That was the assessment. And as the intelligence community changed their view, 
+we made it clear they changed their view. That ' s why I said we will get to 
+the bottom of this. You know, usually when there ' s a crisis, we pull 
+together. We pull together as a nation. But as I said, even before we knew what 
+happened to the ambassador, the governor was holding a press **conference** — 
+was holding a press **conference** . That ' s not presidential leadership. 
+
+Lemmas in this text that loaded on the factor:
+
+conference 

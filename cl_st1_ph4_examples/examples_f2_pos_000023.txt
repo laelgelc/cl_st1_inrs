@@ -1,0 +1,70 @@
+file = t001459
+date = 2012-10-22
+user = ROMNEY
+conversation = October_22,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_LYNN_UNIVERSITY,_BOCA_RATON,_FLORIDA
+
+word count = 516
+words loading = 18
+factor score = 38
+
+Well, first of all, it ' s not **government** that makes business successful. 
+It ' s not **government** investments that makes businesses grow and hire 
+**people** . Let me also note that the greatest **threat** that the **world** 
+**faces** , the greatest **national** **security** **threat** is a **nuclear** 
+Iran. Let ' s talk about China. China has an **interest** that ' s very much 
+like ours in one respect, and that is they want a stable **world** . They don ' 
+t want **war** . They don ' t want to see protectionism. They don ' t want to 
+see the **world** break out into — into various forms of chaos, because they 
+have to — they have to manufacture **goods** and put **people** to **work** 
+and they have about 20 , 000 — 20 million, rather, **people** coming out of 
+the farms every year coming into the cities, needing jobs. So they want the 
+economy to **work** and the **world** to be **free** and open. And so we can be 
+a partner with China. We don ' t have to be an adversary in any way, shape or 
+form. We can **work** with them, we can collaborate with them, if they ' re 
+willing to be responsible. Now, they look at us and say, Is it a **good** idea 
+to be with America? How **strong** are we going to be? How **strong** is our 
+economy? They look at the fact that we owe ' em a trillion **dollars** and owe 
+other **people** $16 trillion in total, including that. They look at our — 
+our decision to — to cut back on our **military** capabilities. A trillion 
+**dollars** . The secretary of defense called these trillion **dollars** of 
+cuts to our **military** devastating. It ' s not my term, it ' s the 
+**president** ' s own secretary of defense called these trillion **dollars** of 
+cuts to our **military** devastating. It ' s not my term, it ' s the 
+**president** ' s own Secretary of Defense, called them devastating. They look 
+at America ' s commitments around the **world** and they see what ' s 
+happening, and they say, well, OK. Is America going to be **strong** ? And the 
+answer is, yes, if I ' m **president** , America will be very **strong** . We ' 
+ll also make sure that we have trade relations with China that **work** for us. 
+I ' ve watched year in and year out as companies have shut down and **people** 
+have lost their jobs because China has not played by the same rules, in part by 
+holding down artificially the value of their currency. It holds down the prices 
+of their **goods** . It means our **goods** aren ' t as competitive and we lose 
+jobs. That ' s got to end. They ' re making some progress; they need to make 
+more. That ' s why on **day** one, i will label them a currency manipulator, 
+which allows us to apply tariffs where they ' re taking jobs. They ' re 
+stealing our intellectual property, our patents, our designs, our technology, 
+hacking into our computers, counterfeiting our **goods** . They have to 
+understand we want to trade with them. We want a **world** that ' s stable. We 
+like **free** enterprise, but you got to play by the rules. 
+
+Lemmas in this text that loaded on the factor:
+
+day 
+dollar (secondary)
+face 
+free 
+good 
+government 
+interest (secondary)
+military 
+national 
+nuclear (secondary)
+people 
+president 
+security 
+strong 
+threat (secondary)
+war 
+work 
+world 

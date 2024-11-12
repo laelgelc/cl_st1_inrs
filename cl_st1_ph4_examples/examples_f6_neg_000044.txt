@@ -1,0 +1,22 @@
+file = t002167
+date = 2000-10-11
+user = BUSH
+conversation = October_11,_2000_Debate_Transcript
+URL = The_Second_Gore-Bush_Presidential_Debate
+
+word count = 115
+words loading = 1
+factor score = -2
+
+I do. I do think this, though. When it comes to timetables it can ' t be the 
+United States timetable as to how discussions take place. It ' s got to be a 
+timetable that all **parties** can agree to, like the Palestinians and 
+Israelis. Secondly, any lasting peace is going to have to be a peace that ' s 
+good for both sides. And therefore, the term honest broker makes sense. This 
+current administration ' s worked hard to keep the **parties** at the table. I 
+will try to do the same thing. But it won ' t be on my timetable, it will be on 
+the timetable that people are comfortable with in the Middle East. 
+
+Lemmas in this text that loaded on the factor:
+
+party 

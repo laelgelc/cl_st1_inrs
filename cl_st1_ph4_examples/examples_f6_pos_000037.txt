@@ -1,0 +1,56 @@
+file = t003369
+date = 1976-10-22
+user = MR._CARTER
+conversation = October_22,_1976_Debate_Transcript
+URL = The_Third_Carter-Ford_Presidential_Debate
+
+word count = 519
+words loading = 3
+factor score = 10
+
+Yes, I ' d be glad to. In the first place, uh – as is the case with the 
+environmental policy and the energy policy that I just described, and the 
+policy for nonproliferation of uh – of nuclear waste, this administration has 
+no urban policy. It ' s impossible for mayors or governors to cooperate with 
+the resident, because they can ' t anticipate what ' s gonna happen next. A 
+mayor of a city like New York, for instance, needs to know uh – eighteen 
+months or two years ahead of time what responsibility the city will have in 
+administration and in financing – in things like housing, uh – pollution 
+control, uh – crime control, **education** , welfare and health. This has not 
+been done, unfortunately. I remember the headline in the Daily News that said, 
+" Ford to New York: Drop Dead. " I think it ' s very important that our cities 
+know that they have a partner in the federal government. Quite often Congress 
+has passed laws in the past designed to help people with uh – the ownership 
+of homes and with the control of crime and with adequate health care and 
+**education** programs and so forth. Uh – those uh programs were designed to 
+help those who need it most. And quite often this has been in the very poor 
+people and neighborhoods in the downtown urban centers. Because of the uh – 
+great -ly- greatly uh – advantaged uh – tho- per – persons who live in 
+the suburbs, better **education** , better organization, more articulate, more 
+aware of what the laws are, quite often this money has been channeled out of 
+the downtown centers where it ' s needed. Also I favor all revenue sharing 
+money being used for **local** governments, and also to remove prohibitions in 
+the use of revenue sharing money so that it can be used to improve 
+**education** , and health care. We have now uh – for instance only 7 percent 
+of the total **education** cost being financed by the federal government. When 
+uh – the Nixon-Ford Administration started, this was 10 percent. That ' s a 
+30 percent reduction in the portion that the federal government contributes to 
+**education** in just eight years. And as you know, the **education** cost has 
+gone up uh – tremendously. The last point is that the major – uh thrust has 
+gotta be to put people back to work. We ' ve got an extraordinarily high 
+unemployment rate among downtown urban ghetto areas, uh – particularly among 
+the very poor and particularly among **minority** groups, sometimes 50 or 60 
+percent. And the concentration of employment opportunities in those areas would 
+help greatly not only to reestablish the tax base, but also to help reduce the 
+extraordinary welfare cost. One of the major responsibilities on the shoulders 
+of uh – New York City is to – is to finance welfare. And I favor a shifting 
+of the welfare cost away from the **local** governments altogether. And over a 
+longer period of time, let the federal government begin to absorb part of it 
+that ' s now paid by the state governments. Those things would help a great 
+deal with the cities, but we still have a – a very serious problem there. 
+
+Lemmas in this text that loaded on the factor:
+
+education 
+local 
+minority 

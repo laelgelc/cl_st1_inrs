@@ -1,0 +1,24 @@
+file = t000771
+date = 2016-10-04
+user = PENCE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 125
+words loading = 1
+factor score = -2
+
+The — the safe **zones** would have to be — as the senator said, there ' s 
+already a framework for this that ' s been recognized by the international 
+community. The United States of America needs to be prepared to work with our 
+allies in the region to create a route for safe passage and then to protect 
+people in those areas, including with a no-fly **zone** . But, look, this is 
+very tough stuff. I served on the Foreign Affairs Committee for a decade. I 
+traveled in and out of that region for 10 years. I saw what the American 
+soldier won in Operation Iraqi Freedom. And to see the weak and feckless 
+leadership that Hillary Clinton was the architect of and the foreign policy of 
+the Obama administration … 
+
+Lemmas in this text that loaded on the factor:
+
+zone 

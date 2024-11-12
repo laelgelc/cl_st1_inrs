@@ -1,0 +1,38 @@
+file = t002287
+date = 2000-10-17
+user = BUSH
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 323
+words loading = 1
+factor score = -8
+
+I would like our **farmers** feeding the world. We ' re the best producers in 
+the world, and I want — I want the **farmers** feeding the world. We need to 
+open up markets. Exports are down, and every time an export number goes down, 
+it hurts the **farmer** . I want the next president to have fast track 
+negotiating authority to open up markets around the world. Weâ€ trade_mark_e 
+re the best and the most efficient **farmers** . I don ' t want to use food as 
+a diplomatic weapon from this point forward. We shouldn ' t be using food. It 
+hurts the **farmers** . It ' s not the right thing to do. I ' m for value-added 
+processing. We need more work on value-added processing. You take the raw 
+product you produce, I presume you ' re a **farmer** , off your farm, and you 
+convert it. Value-added processing is important. I ' m for research and 
+development. Spending research and development money so that we can use our 
+technological base to figure out new uses for farm products. I ' m for getting 
+rid of the death tax, completely getting rid of the death tax. One reason 
+family **farmers** are forced to sell early is because of the death tax. This 
+is a bad tax. The President shouldn ' t have vetoed that bill. It ' s a tax 
+that taxes people twice. It penalizes the family **farmer** . So should I be 
+fortunate enough to earn your vote, I also understand — I want to open up 
+markets, but I also understand that farming is a part of our national security. 
+I ' m from a big farm state. We ' re the second biggest state — farming state 
+in the country. And I hear from my **farmers** and friends all the time. The 
+Vice President is right, by the way. Every day is earth day if you own the 
+land. I like the policies that will encourage **farmers** to put — set aside 
+land as well for conservation purposes. Thank you. 
+
+Lemmas in this text that loaded on the factor:
+
+farmer 

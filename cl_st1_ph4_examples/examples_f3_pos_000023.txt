@@ -1,0 +1,49 @@
+file = t003008
+date = 1988-10-13
+user = BUSH
+conversation = October_13,_1988_Debate_Transcript
+URL = The_Second_Bush-Dukakis_Presidential_Debate
+
+word count = 375
+words loading = 8
+factor score = 12
+
+If I knew of three new **weapons** systems that I thought were purely waste and 
+weren ' t protected by the Congress, they wouldn ' t be in the budget. They 
+would not be in the budget, but you want one now? I ' ll give you one, that 
+HMET, that heavy truck, that ' s cost what is it $850 million and the Pentagon 
+didn ' t request it and, yet, a member of Congress, a very powerful one, put it 
+in the budget. I think we can save money through this whole very sophisticated 
+concept, Andrea, that I know you do understand of competitive **strategies** . 
+It is new and it is very very different than what ' s happened, but it ' s not 
+quite ready to be totally implemented. But it ' s very important. I think we 
+can say, through the Packard Commission Report and I ' m very proud that David 
+Packard, the originator of that report, is strongly supporting me. So, it ' s 
+not a question of saying our budget is full of a lot of waste. I don ' t 
+believe that. I do think this. We ' re in the serious stages of **negotiation** 
+with the Soviet Union on the **strategic** arms control talks. And we ' re 
+protecting a couple of options in terms of modernizing our **strategic** 
+**forces** . My Secretary of Defense is going to have to make a very difficult 
+decision in which system to go forward with. But we are protecting both of 
+them. We are moving forward with **negotiations** and, you see, I just think it 
+would be dumb **negotiating** policy with the **Soviets** to cut out one or the 
+other of the two options right now. The **Soviets** are modernizing. They 
+continue to modernize and we can ' t simply we ' ve got enough **nuclear** 
+**weapons** , let ' s freeze. We can ' t do that. We have to have 
+modernization, especially if we achieve the 50 percent reduction in 
+**strategic** **weapons** that our President is taking the leadership to 
+attain. And, so, that ' s the way I ' d reply to it and I believe we can have 
+the strongest and best defense possible if we modernize, if we go forward with 
+competitive **strategies** and if we do follow through on the Packard 
+Commission report. 
+
+Lemmas in this text that loaded on the factor:
+
+force (secondary)
+negotiate 
+negotiation 
+nuclear 
+soviets (secondary)
+strategic 
+strategy 
+weapon 

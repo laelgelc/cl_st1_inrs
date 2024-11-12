@@ -1,0 +1,28 @@
+file = t002424
+date = 1996-10-09
+user = GORE
+conversation = October_9,_1996_Debate_Transcript
+URL = The_Gore-Kemp_Vice_Presidential_Debate
+
+word count = 159
+words loading = 3
+factor score = -4
+
+President Clinton has made it clear that he will sign **legislation** outlawing 
+procedures such as this if there is a — an exception to protect the health of 
+the mother where serious health consequences, such as the inability to have any 
+further children, are involved and her doctor advises her so. What is really at 
+stake here is whether or not women will have the right to choose. The platform 
+on which Mr. Kemp and Senator Dole are running pledges a **constitutional** 
+**amendment** to take away a woman ' s right to choose and to have the 
+government come in and order that woman to do what the government says, no 
+matter what the circumstances. Mr. Kemp has voted 47 out of 47 times to have 
+such an **amendment** and to restrict this completely, no matter what the 
+circumstances, even where rape and incest is involved. We will never allow a 
+woman ' s right to choose to be taken away. 
+
+Lemmas in this text that loaded on the factor:
+
+amendment 
+constitutional 
+legislation 

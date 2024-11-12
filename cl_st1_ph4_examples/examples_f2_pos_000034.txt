@@ -1,0 +1,55 @@
+file = t002159
+date = 2000-10-11
+user = BUSH
+conversation = October_11,_2000_Debate_Transcript
+URL = The_Second_Gore-Bush_Presidential_Debate
+
+word count = 319
+words loading = 17
+factor score = 34
+
+I have, I have. First **question** is what ' s in the **best** **interests** of 
+the United **States** ? What ' s in the **best** **interests** of our 
+**people** ? When it comes to **foreign** **policy** that will be my guiding 
+**question** . Is it in our **nation** ' s **interests** ? **Peace** in the 
+Middle East is in our **nation** ' s **interests** . Having a hemisphere that 
+is **free** for trade and peaceful is in our **nation** ' s **interests** . 
+**Strong** relations in Europe is in our **nation** ' s **interest** . I ' ve 
+thought a lot about what it means to be the **president** . I also understand 
+that an administration is not one person, but an administration is dedicated 
+**citizens** who are called by the **president** to **serve** the country, to 
+**serve** a cause greater than self, and so I ' ve thought about an 
+administration of **people** who **represent** all America, but **people** who 
+understand my compassionate and conservative philosophy. I haven ' t started 
+naming names except for one person, and that ' s Mr. Richard Cheney who I 
+thought did a great job the other night. He ' s a vice presidential nominee who 
+**represents** — I think **people** got to see why I picked him. He ' s man 
+of solid **judgment** and he ' s going to be a person to stand by my side. One 
+of the things I ' ve done in Texas is I ' ve been able to put together a 
+**good** team of **people** . I ' ve been able to set clear goals. The goals 
+ought to be an education system that leaves no child behind, Medicare for our 
+seniors, a Social Security system that ' s safe and secure, **foreign** 
+**policy** that ' s in our **nation** ' s **interest** , and a **strong** 
+**military** , and then bring **people** together to achieve those goals. That 
+' s what a Chief Executive Officer does. So I ' ve thought long and hard about 
+the honor of being the **President** of the United **States** . 
+
+Lemmas in this text that loaded on the factor:
+
+citizen 
+foreign 
+free 
+good 
+interest (secondary)
+judgment 
+military 
+nation 
+peace (secondary)
+people 
+policy 
+president 
+question 
+represent 
+serve 
+states 
+strong 

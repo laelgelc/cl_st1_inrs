@@ -1,0 +1,16 @@
+file = t000054
+date = 2020-09-29
+user = TRUMP
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 25
+words loading = 1
+factor score = -2
+
+Well, you didn ' t do very well in Swine Flu. H1-N1 , you were a **disaster** . 
+Your own Chief of Staff said you were a **disaster** . 
+
+Lemmas in this text that loaded on the factor:
+
+disaster 

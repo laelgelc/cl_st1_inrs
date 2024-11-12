@@ -1,0 +1,23 @@
+file = t000011
+date = 2020-09-29
+user = BIDEN
+conversation = September_29,_2020_Debate_Transcript
+URL = Presidential_Debate_at_Case_Western_Reserve_University_and_Cleveland_Clinic_in_Cleveland,_Ohio
+
+word count = 79
+words loading = 4
+factor score = -3
+
+The platform of the Democratic Party is what I, in fact, approved of, what I 
+approved of. Now, here ' s the deal. The deal is that it ' s going to wipe out 
+pre-existing **conditions** . And, by the way, the 200 , 000 people that have 
+died on his watch, how many of those have survived? Well, there ' s seven 
+million people that contracted COVID. What does it mean for them going forward 
+if you **strike** down the Affordable Care Act? 
+
+Lemmas in this text that loaded on the factor:
+
+condition 
+exist (secondary)
+pre 
+strike 

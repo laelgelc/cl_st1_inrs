@@ -1,0 +1,47 @@
+file = t001153
+date = 2012-10-03
+user = ROMNEY
+conversation = October_3,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PRESIDENTIAL_CANDIDATE,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_UNIVERSITY_OF_DENVER,_COLORADO
+
+word count = 377
+words loading = 6
+factor score = 14
+
+Mr. President, Mr. President, you ' re entitled as the president to your own 
+airplane and to your own house, but not to your own facts. All right, I ' m not 
+going to cut **education** funding. I don ' t have any plan to cut 
+**education** funding and — and grants that go to people going to **college** 
+. I ' m planning on ( inaudible ) to grow. So I ' m not planning on making 
+changes there. But you make a very good point, which is that the place you put 
+your money just makes a pretty clear indication of where your heart is. You put 
+$90 billion into — into green jobs. And I — look, I ' m all in favor of 
+green energy. $90 billion, that would have — that would have hired 2 million 
+**teachers** . $90 billion. And these businesses, many of them have gone out of 
+business, I think about half of them, of the ones have been invested in have 
+gone out of business. A number of them happened to be owned by people who were 
+contributors to your campaigns. Look, the right course for America ' s 
+government, we were talking about the role of government, is not to become the 
+economic player, picking winners and losers, telling people what kind of health 
+treatment they can receive, taking over the health care system that has existed 
+in this country for a long, long time and has produced the best health records 
+in the world. The right answer for government is say, How do we make the 
+private sector become more efficient and more effective? How do we get 
+**schools** to be more competitive? Let ' s grade them. I propose we grade our 
+**schools** so **parents** know which **schools** are succeeding and failing, 
+so they can take their child to a — to a **school** that he ' s being more 
+successful. I don ' t want to cut our commitment to **education** . I wanted to 
+make it more effective and efficient. And by the way, I ' ve had that 
+experience. I don ' t just talk about it. I ' ve been there. Massachusetts 
+**schools** are ranked number one in the nation. This is not because I didn ' t 
+have commitment to **education** . It ' s because I care about **education** 
+for all of our **kids** . 
+
+Lemmas in this text that loaded on the factor:
+
+college 
+education 
+kid 
+parent 
+school 
+teacher 

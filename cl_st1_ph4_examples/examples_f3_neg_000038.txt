@@ -1,0 +1,43 @@
+file = t001869
+date = 2004-10-08
+user = KERRY
+conversation = October_8,_2004_Debate_Transcript
+URL = The_Second_Bush-Kerry_Presidential_Debate
+
+word count = 330
+words loading = 6
+factor score = -3
+
+I would say to that person exactly what I will say to you right now. First of 
+all, I cannot tell you how deeply I respect the **belief** about life and when 
+it begins. I ' m a Catholic, raised a Catholic. I was an altar boy. 
+**Religion** has been a huge part of my life. It helped lead me through a war, 
+leads me today. But I can ' t take what is an article of faith for me and 
+legislate it for someone who doesn ' t share that article of faith, whether 
+they be agnostic, atheist, Jew, Protestant, whatever. I can ' t do that. But I 
+can counsel people. I can talk reasonably about life and about responsibility. 
+I can talk to people, as my wife Teresa does, about making other choices, and 
+about abstinence, and about all these other things that we ought to do as a 
+responsible **society** . But as a president, I have to represent all the 
+people in the nation. And I have to make that judgment. Now, I believe that you 
+can take that position and not be pro- **abortion** , but you have to afford 
+people their **constitutional** rights. And that means being smart about 
+allowing people to be fully educated, to know what their options are in life, 
+and making certain that you don ' t deny a poor person the right to be able to 
+have whatever the constitution affords them if they can ' t afford it 
+otherwise. That ' s why I think it ' s important. That ' s why I think it ' s 
+important for the United States, for instance, not to have this rigid 
+ideological restriction on helping families around the world to be able to make 
+a smart decision about family planning. You ' ll help prevent AIDS. You ' ll 
+help prevent unwanted children, unwanted pregnancies. You ' ll actually do a 
+better job, I think, of passing on the moral responsibility that is expressed 
+in your question. And I truly respect it. 
+
+Lemmas in this text that loaded on the factor:
+
+abortion (secondary)
+belief (secondary)
+constitutional 
+pro 
+religion (secondary)
+society 

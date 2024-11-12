@@ -1,0 +1,33 @@
+file = t002357
+date = 1996-10-06
+user = CLINTON
+conversation = October_6,_1996_Debate_Transcript
+URL = The_First_Clinton-Dole_Presidential_Debate
+
+word count = 198
+words loading = 5
+factor score = 11
+
+We have a very consistent policy in the Middle East: It is to support the 
+**peace** **process** ; to support the security of Israel; and to support those 
+who are prepared to take risks for **peace** . It is a very difficult 
+environment. The feelings are very strong. There are extremists in all parts of 
+the Middle East who want to kill that **peace** **process** . Prime Minister 
+Rabin gave his life because someone in his own country literally hated him for 
+trying to bring **peace** . I would like to have had a big, organized 
+**summit** , but those people were killing each other, rapidly, innocent Arab 
+children, innocent Israeli people, they were dying. And there is, so much trust 
+has broken down in the aftermath of the change of government. I felt that if I 
+could just get the parties together to say let ' s stop the violence, start 
+talking, commit to the **negotiations** , that would be a plus. Now today the 
+Secretary of State is in the Middle East and they ' ve started **negotiations** 
+and all those **leaders** promised me they would not quit until they resolved 
+the issues between them and got the **peace** **process** going forward again. 
+
+Lemmas in this text that loaded on the factor:
+
+leader (secondary)
+negotiation 
+peace 
+process 
+summit 

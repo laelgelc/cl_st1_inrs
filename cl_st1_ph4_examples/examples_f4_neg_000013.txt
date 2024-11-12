@@ -1,0 +1,25 @@
+file = t002055
+date = 2000-10-03
+user = BUSH
+conversation = October_3,_2000_Transcript
+URL = The_First_Gore-Bush_Presidential_Debate
+
+word count = 158
+words loading = 1
+factor score = -4
+
+Well, I ' m pleased with the results of the election. As the vice president is. 
+It ' s time for the man to go. It means that the United States must have a 
+strong diplomatic hand with our friends in NATO. That ' s why it ' s important 
+to make sure our alliances are as strong as they possibly can be to keep the 
+pressure on Mr. Milosevic. But this will be an interesting moment for the 
+**Russians** to step up and lead as well. Be a wonderful time for the 
+**Russians** to step into the Balkans and convince Mr. Milosevic that it ' s in 
+his best interest and his country ' s best interest to leave office. The 
+**Russians** have a lot of sway in that part of the world. We would like to see 
+the **Russians** use that sway to encourage democracy to take hold. It ' s an 
+encouraging election. It ' s time for the man to leave. 
+
+Lemmas in this text that loaded on the factor:
+
+russians 

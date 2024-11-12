@@ -1,0 +1,25 @@
+file = t001418
+date = 2012-10-22
+user = ROMNEY
+conversation = October_22,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_LYNN_UNIVERSITY,_BOCA_RATON,_FLORIDA
+
+word count = 141
+words loading = 1
+factor score = -2
+
+And this isn ' t — this isn ' t going to be necessary. We — we have, with 
+our partners in the region, we have sufficient resources to support those 
+groups. But look, this has been going on for a year. This is a time — this 
+should have been a time for American leadership. We should have taken a leading 
+role, not militarily, but a leading role organizationally, governmentally to 
+bring together the **parties** ; to find responsible **parties** . As you hear 
+from intelligence sources even today, the — the insurgents are highly 
+disparate. They haven ' t come together. They haven ' t formed a unity group, a 
+council of some kind. That needs to happen. America can help that happen. And 
+we need to make sure they have the arms they need to carry out the very 
+important role which is getting rid of Assad. 
+
+Lemmas in this text that loaded on the factor:
+
+party 

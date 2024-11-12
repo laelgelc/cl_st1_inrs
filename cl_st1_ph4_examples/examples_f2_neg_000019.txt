@@ -1,0 +1,16 @@
+file = t002608
+date = 1992-10-13
+user = QUAYLE
+conversation = October_13,_1992_Debate_Transcript
+URL = The_Gore-Quayle-Stockdale_Vice_Presidential_Debate
+
+word count = 20
+words loading = 1
+factor score = -1
+
+You ' ve talked about Jim Baker. You ' ve talked about **trickle** down 
+economics. You ' ve talked about the worst economy- 
+
+Lemmas in this text that loaded on the factor:
+
+trickle 

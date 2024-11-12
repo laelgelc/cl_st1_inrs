@@ -1,0 +1,77 @@
+file = t001392
+date = 2012-10-16
+user = ROMNEY
+conversation = October_16,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_HOFSTRA_UNIVERSITY,_HEMPSTEAD,_NEW_YORK
+
+word count = 680
+words loading = 14
+factor score = 35
+
+Boy, great **question** and important **question** , because you ' re 
+absolutely right. The **place** where we ' ve seen manufacturing go has been 
+China. China is now the largest manufacturer in the **world** . It used to be 
+the United **States** of America. A lot of **good** **people** have lost jobs. 
+A half a million manufacturing jobs have been lost in the last four years. That 
+' s total over the last four years. One of the reasons for that is that 
+**people** think it ' s more attractive in some cases to go offshore than to 
+stay here. We have made it less attractive for enterprises to stay here than to 
+go offshore from time to time. What I will do as **president** is make sure it 
+' s more attractive to come to America again. This is the way we ' re going to 
+create jobs in this country. It ' s not by trickle-down **government** , saying 
+we ' re going to take more money from **people** and hire more **government** 
+workers, raise more taxes, put in **place** more regulations. Trickle-down 
+**government** has never **worked** here, has never **worked** anywhere. I want 
+to make America the most attractive **place** in the **world** for 
+entrepreneurs, for small business, for big business, to invest and grow in 
+America. Now, we ' re going to have to make sure that as we trade with other 
+**nations** that they play by the rules. And China hasn ' t. One of the reasons 
+— or one of the ways they don ' t play by the rules is artificially holding 
+down the value of their currency. Because if they put their currency down low, 
+that means their prices on their **goods** are low. And that makes them 
+advantageous in the marketplace. We lose sales. And manufacturers here in the 
+U. S. making the same products can ' t compete. China has been a currency 
+manipulator for years and years and years. And the **president** has a regular 
+opportunity to label them as a currency manipulator, but refuses to do so. On 
+**day** one, I will label China a currency manipulator, which will allow me as 
+**president** to be able to put in **place** , if necessary, tariffs where I 
+believe that they are taking unfair advantage of our manufacturers. So we ' re 
+going to make sure that **people** we trade with around the **world** play by 
+the rules. But let me — let me not just stop there. Don ' t forget, what ' s 
+key to bringing back jobs here is not just finding someone else to punish, and 
+I ' m going to be strict with **people** who we trade with to make sure they 
+— they **follow** the law and play by the rules, but it ' s also to make 
+America the most attractive **place** in the **world** for businesses of all 
+kinds. That ' s why I want to down the tax rates on small employers, big 
+employers, so they want to be here. Canada ' s tax rate on companies is now 15 
+percent. Ours is 35 percent. So if you ' re starting a business, where would 
+you rather start it? We have to be competitive if we ' re going to create more 
+jobs here. Regulations have quadrupled. The rate of regulations quadrupled 
+under this **president** . I talk to small businesses across the country. They 
+say, " We **feel** like we ' re under attack from our own **government** . " I 
+want to make sure that regulators see their job as encouraging small business, 
+not crushing it. And there ' s no **question** but that Obamacare has been an 
+extraordinary deterrent to enterprises of all kinds hiring **people** . My 
+priority is making sure that we get more **people** hired. If we have more 
+**people** hired, if we get back manufacturing jobs, if we get back all kinds 
+of jobs into this country, then you ' re going to see rising incomes again. The 
+reason incomes are down is because unemployment is so **high** . I know what it 
+takes to get this to happen, and my plan will do that, and one part of it is to 
+make sure that we keep China playing by the rules. 
+
+Lemmas in this text that loaded on the factor:
+
+day 
+feel 
+follow 
+good 
+government 
+high (secondary)
+nation 
+people 
+place 
+president 
+question 
+states 
+work 
+world 

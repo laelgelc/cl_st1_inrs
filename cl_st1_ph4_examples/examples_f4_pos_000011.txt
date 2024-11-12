@@ -1,0 +1,52 @@
+file = t003079
+date = 1984-10-07
+user = THE_PRESIDENT
+conversation = October_7,_1984_Debate_Transcript
+URL = The_First_Reagan-Mondale_Presidential_Debate
+
+word count = 388
+words loading = 9
+factor score = 21
+
+I have believed that in the appointment of judges that all that was specified 
+in the party platform was that they **respect** the sanctity of **human** 
+**life** . Now, that I would want to see in any judge and with regard to any 
+issue having to do with **human** **life** . But with regard to abortion, and I 
+have a feeling that this is — there ' s been some reference without naming it 
+here in the remarks of Mr. Mondale tied to injecting religion into government. 
+With me, abortion is not a problem of religion, it ' s a problem of the 
+Constitution. I believe that until and unless someone can establish that the 
+unborn **child** is not a living **human** being, then that **child** is 
+already protected by the Constitution, which guarantees **life** , liberty, and 
+the pursuit of happiness to all of us. And I think that this is what we should 
+concentrate on, is trying — I know there were weeks and weeks of testimony 
+before a Senate committee, there were medical authorities, there were religious 
+— there were clerics there — everyone talking about this matter of prolife. 
+And at the end of all of that, not one shred of evidence was introduced that 
+the unborn **child** was not alive. We have seen premature births that are now 
+grown-up, happy people going around. Also, there is a strange dichotomy in this 
+whole position about our **courts** ruling that abortion is not the taking of a 
+**human** **life** . In California, sometime ago, a man beat a woman so 
+savagely that her unborn **child** was **born** dead with a fractured skull, 
+and the California State Legislature unanimously passed a **law** that was 
+signed by the then-Democratic Governor — signed a **law** that said that any 
+man who so abuses a pregnant woman that he causes the **death** of her unborn 
+**child** shall be **charged** with murder. Now, isn ' t it strange that that 
+same woman could have taken the **life** of her unborn **child** , and it was 
+abortion and not murder, but if somebody else does it, that ' s murder? And it 
+used the term " **death** of the unborn **child** . " So, this has been my 
+feeling about abortion, that we have a problem now to determine — and all the 
+evidence so far comes down on the side of the unborn **child** being a living 
+**human** being. 
+
+Lemmas in this text that loaded on the factor:
+
+bear 
+charge 
+child 
+court 
+death 
+human (secondary)
+law 
+life 
+respect 

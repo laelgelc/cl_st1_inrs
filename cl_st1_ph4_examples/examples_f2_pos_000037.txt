@@ -1,0 +1,73 @@
+file = t003333
+date = 1976-10-06
+user = MR._CARTER
+conversation = October_6,_1976_Debate_Transcript
+URL = The_Second_Carter-Ford_Presidential_Debate
+
+word count = 474
+words loading = 22
+factor score = 33
+
+Well, always in the past we ' ve had an ability to have a **strong** defense 
+and also have – to have a **strong** uh – domestic economy, and also to be 
+**strong** in our reputation and **influence** within the **community** of 
+**nations** . These uh – characteristics of our country have been endangered 
+under Mr. Ford. We ' re no longer respected in a showdown vote in the United 
+Nations or in – in any other international council we ' re lucky to get 20 
+percent of the other **nations** to vote with us. Our **allies** **feel** that 
+we ' ve neglected them. The so-called Nixon shock against Japan had weakened 
+our relationships there. Under this administration we ' ve also had an 
+inclination to keep separate the European countries, thinking that if they are 
+separate, then we can dominate them and proceed with our secret, Lone 
+Ranger-type diplomatic **efforts** . I would uh – also like to **point** out 
+that we, in this country, have let our economy go down the drain. The worst 
+inflation since the Great Depression. The **highest** unemployment of any 
+developed **nation** of the **world** . We have a **higher** unemployment rate 
+in this country than Great Britain, and West Germany. Our unemployment rate is 
+twice as **high** as it is in Italy; it ' s three or four times as **high** as 
+it is – as it is in Japan. And that terrible circumstance in this country is 
+exported overseas. We comprise about 30 percent of the **world** ' s economic 
+trade **power** **influence** . And when we ' re weak at home – weaker than 
+all our **allies** – that weakness weakens the whole **free** **world** . So 
+**strong** economy is very important. Another thing that we need to do is to 
+reestablish the **good** relationships that we ought to have between the United 
+**States** and our **natural** **allies** and friends. They have **felt** 
+neglected. And using that base of **strength** , and using the idealism, the 
+honesty, the predictability, the commitment, the integrity of our own country, 
+that ' s where our **strength** lies. And that would permit us to deal with the 
+developing **nations** in a **position** of **strength** . Under this 
+administration we ' ve had a continuation of the so-called balance of **power** 
+politics, where everything is looked on as a **struggle** between us on the one 
+side, the Soviet Union on the other. Our **allies** – the smaller countries 
+get trampled in the rush. What we need is to try to **seek** individualized 
+bilateral relationships with countries, regardless of their size, and to 
+establish world-order politics, which means that we want to preserve **peace** 
+through **strength** . We also wanna revert back to the stature and the respect 
+that our country had in previous administrations. Now, I can ' t say when this 
+can come. But I can guarantee it will not come if Gerald Ford is reelected and 
+this present **policy** is continued; it will come if I ' m elected. 
+
+Lemmas in this text that loaded on the factor:
+
+ally (secondary)
+community 
+effort 
+feel 
+free 
+good 
+high (secondary)
+influence 
+nation 
+natural (secondary)
+order 
+peace (secondary)
+point 
+policy 
+position 
+power 
+seek 
+states 
+strength 
+strong 
+struggle 
+world 

@@ -1,0 +1,16 @@
+file = t000731
+date = 2016-10-04
+user = KAINE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 22
+words loading = 1
+factor score = -1
+
+Or instead of you violating the Constitution by blocking people based on their 
+national origin rather than whether they ' re **dangerous** . 
+
+Lemmas in this text that loaded on the factor:
+
+dangerous 

@@ -1,0 +1,41 @@
+file = t001898
+date = 2004-10-05
+user = CHENEY
+conversation = October_5,_2004_Transcript
+URL = The_Cheney-Edwards_Vice_Presidential_Debate
+
+word count = 285
+words loading = 6
+factor score = 10
+
+Well, Gwen, it ' s hard to know where to start; there are so many inaccuracies 
+there. The fact of the matter is the **troops** wouldn ' t have what they have 
+today if you guys had had your way. You talk about internationalizing the 
+effort. They don ' t have a plan. Basically, it ' s an echo. You made the 
+comment that the Gulf **War** coalition in ' 91 was far stronger than this. No. 
+We had 34 countries then; we ' ve got 30 today. We ' ve got **troops** beside 
+us. It ' s hard, after John Kerry referred to our **allies** as a coalition of 
+the coerced and the bribed, to go out and persuade people to send **troops** 
+and to participate in this **process** . You end up with a **situation** in 
+which — talk about demeaning. In effect, you demean the sacrifice of our 
+**allies** when you say it ' s the wrong **war** , wrong place, wrong time, and 
+oh, by the way, send **troops** . Makes no sense at all. It ' s totally 
+inconsistent. There isn ' t a plan there. Our most important **ally** in the 
+**war** on terror, in Iraq specifically, is Prime Minister Allawi. He came 
+recently and addressed a joint session of Congress that I presided over with 
+the speaker of the House. And John Kerry rushed out immediately after his 
+speech was over with, where he came and he thanked America for our 
+contributions and our sacrifice and pledged to hold those elections in January, 
+went out and demeaned him, criticized him, challenged his **credibility** . 
+That is not the way to win friends and **allies** . You ' re never going to add 
+to the coalition with that kind of attitude. IFILL: Senator Edwards, 30 
+seconds. 
+
+Lemmas in this text that loaded on the factor:
+
+ally 
+credibility 
+process 
+situation (secondary)
+troop 
+war (secondary)

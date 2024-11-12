@@ -1,0 +1,19 @@
+file = t001158
+date = 2012-10-03
+user = OBAMA
+conversation = October_3,_2012_Debate_Transcript
+URL = PRESIDENT_BARACK_OBAMA_AND_FORMER_GOV._MITT_ROMNEY,_R-MASS.,_PRESIDENTIAL_CANDIDATE,_PARTICIPATE_IN_A_CANDIDATES_DEBATE,_UNIVERSITY_OF_DENVER,_COLORADO
+
+word count = 68
+words loading = 1
+factor score = -2
+
+And so part of leadership and governing is both saying what it is that you are 
+for, but also being willing to say no to some things. And I ' ve got to tell 
+you, Governor Romney, when it comes to his own **party** during the course of 
+this campaign, has not displayed that willingness to say no to some of the more 
+extreme parts of his **party** . 
+
+Lemmas in this text that loaded on the factor:
+
+party 

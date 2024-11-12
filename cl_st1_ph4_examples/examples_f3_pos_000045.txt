@@ -1,0 +1,51 @@
+file = t001984
+date = 2004-09-30
+user = KERRY
+conversation = September_30._2004_Debate_Transcript
+URL = The_First_Bush-Kerry_Presidential_Debate
+
+word count = 406
+words loading = 9
+factor score = 10
+
+The time line that I ' ve set out — and again, I want to correct the 
+president, because he ' s misled again this evening on what I ' ve said. I didn 
+' t say I would bring **troops** out in six months. I said, if we do the things 
+that I ' ve set out and we are successful, we could begin to draw the 
+**troops** down in six months. And I think a critical component of success in 
+Iraq is being able to convince the **Iraqis** and the Arab world that the 
+United States doesn ' t have long-term designs on it. As I understand it, we ' 
+re building some 14 **military** bases there now, and some people say they ' ve 
+got a rather permanent concept to them. When you guard the **oil** ministry, 
+but you don ' t guard the **nuclear** facilities, the message to a lot of 
+people is maybe, " Wow, maybe they ' re interested in our **oil** . " Now, the 
+problem is that they didn ' t think these things through properly. And these 
+are the things you have to think through. What I want to do is change the 
+dynamics on the ground. And you have to do that by beginning to not back off of 
+the Fallujahs and other places, and send the wrong message to the 
+**terrorists** . You have to close the borders. You ' ve got to show you ' re 
+serious in that regard. But you ' ve also got to show that you are prepared to 
+bring the rest of the world in and share the stakes. I will make a flat 
+statement - The United States of America has no long-term designs on staying in 
+Iraq. And our goal in my administration would be to get all of the **troops** 
+out of there with a minimal amount you need for training and logistics as we do 
+in some other countries in the world after a **war** to be able to sustain the 
+**peace** . But that ' s how we ' re going to win the **peace** , by rapidly 
+**training** the **Iraqis** themselves. Even the administration has admitted 
+they haven ' t done the training, because they came back to Congress a few 
+weeks ago and asked for a complete reprogramming of the money. Now what greater 
+admission is there, 16 months afterwards. " Oops, we haven ' t done the job. We 
+have to start to spend the money now. Will you guys give us permission to shift 
+it over into training? " 
+
+Lemmas in this text that loaded on the factor:
+
+iraqi 
+military (secondary)
+nuclear 
+oil (secondary)
+peace 
+terrorist 
+train 
+troop 
+war (secondary)

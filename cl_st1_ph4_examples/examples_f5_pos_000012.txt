@@ -1,0 +1,44 @@
+file = t002040
+date = 2000-10-03
+user = BUSH
+conversation = October_3,_2000_Transcript
+URL = The_First_Gore-Bush_Presidential_Debate
+
+word count = 291
+words loading = 8
+factor score = 18
+
+Well I would first say he should have been tackling it for the last seven 
+years. Secondly the difference is we need to explore at home. And the vice 
+president doesn ' t believe in exploration in Alaska. There ' s a lot of 
+shut-in **gas** that we need to be moving out of Alaska by pipeline. There ' s 
+an interesting issue up in the northwest as well. Do we remove dams that 
+produce hydroelectric **energy** ? I ' m against removing dams in the 
+northwest. I donâ€ trade_mark_e t know where the vice president stands but 
+thatâ€ trade_mark_e s a renewable **energy** **source** of **energy** . We 
+need to keep that in line. I was in **coal** country in West Virginia 
+yesterday. There is an abundant supply of **coal** in America. I know we can do 
+a better job of **clean** **coal** technologies. I ' m going to ask the 
+Congress for $2 billion to make sure we have the **cleanest** **coal** 
+technologies in the world. My answer to you is in the short-term we need to get 
+after it here in America. We need to explore our resources and we need to 
+develop our reservoirs of domestic **production** . We also need to have a 
+hemispheric **energy** policy where Canada, Mexico and the United States come 
+together. I brought this up recently with Vincent Fox the newly elected 
+president in Mexico, he ' s a man I know from Mexico. I talked to him about how 
+best to expedite the exploration of **natural** **gas** in Mexico and transport 
+it up to the United States so we become less dependent on foreign **sources** 
+of crude **oil** . This is a major problem facing America. The administration 
+did not deal with it. It ' s time for a new administration to deal with the 
+**energy** problem. 
+
+Lemmas in this text that loaded on the factor:
+
+clean 
+coal 
+energy 
+gas 
+natural 
+oil 
+production 
+source 

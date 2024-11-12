@@ -1,0 +1,48 @@
+file = t000659
+date = 2016-10-04
+user = KAINE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 426
+words loading = 3
+factor score = -4
+
+Elaine, on the economy, there ' s a fundamental choice for the American 
+electorate. Do you want a " you ' re hired " president in Hillary Clinton or do 
+you want a " you ' re fired " president in Donald Trump? I think that ' s not 
+such a hard choice. Hillary and I have a plan that ' s on the table that ' s a 
+" you ' re hired " plan. Five components. First thing we do is we invest in 
+manufacturing, infrastructure, and research in the clean energy jobs of 
+tomorrow. Second thing is we invest in our workforce, from pre-K education to 
+great teachers to debt-free college and tuition-free college for families that 
+make less than $125 , 000 a year. Third, we promote fairness by raising the 
+**minimum** wage, so you can ' t work full-time and be under the poverty level, 
+and by paying women equal pay for equal work. Fourth, we promote small business 
+**growth** , just as we ' ve done in Virginia, to make it easier to start and 
+grow small businesses. Hillary and I each grew up in small-business families. 
+My dad, who ran an iron working and welding shop, is here tonight. And, fifth, 
+we have a tax plan that targets tax relief to middle- class individuals and 
+small businesses and asks those at the very top who ' ve benefited as we ' ve 
+come out of recession to pay more. The Trump plan is a different plan. It ' s a 
+" you ' re fired " plan. And there ' s two key elements to it. First, Donald 
+Trump said wages are too high. And both Donald Trump and Mike Pence think we 
+ought to eliminate the **federal** **minimum** wage. Mike Pence, when he was in 
+Congress, voted against raising the **minimum** wage above $5 . 15 . And he has 
+been a one-man bulwark against **minimum** wage increases in Indiana. The 
+second component of the plan is massive tax breaks for the very top, trillions 
+of dollars of tax breaks for people just like Donald Trump. The problem with 
+this, Elaine, is that ' s exactly what we did 10 years ago and it put the 
+economy into the deepest recession — the deepest recession since the 1930s. 
+Independent analysts say the Clinton plan would grow the economy by 10 . 5 
+million jobs. The Trump plan would cost 3 . 5 million jobs. And Donald Trump 
+— why would he do this? Because his tax plan basically helps him. And if he 
+ever met his promise and he gave his tax returns to the American public like he 
+said he would, we would see just how much his economic plan is really a 
+Trump-first plan. 
+
+Lemmas in this text that loaded on the factor:
+
+federal (secondary)
+growth (secondary)
+minimum 

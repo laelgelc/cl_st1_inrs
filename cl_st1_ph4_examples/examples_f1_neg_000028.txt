@@ -1,0 +1,20 @@
+file = t001307
+date = 2012-10-11
+user = RYAN
+conversation = October_11,_2012_Debate_Transcript
+URL = REP._PAUL_D._RYAN,_R-WIS.,_VICE_PRESIDENTIAL_CANDIDATE,AND_VICE_PRESIDENT_JOSEPH_R._BIDEN_JR._PARTICIPATE_IN_ACANDIDATES_DEBATE,_DANVILLE,_KENTUCKY
+
+word count = 61
+words loading = 2
+factor score = -2
+
+All I ' m saying is, if you believe that life begins at conception, that, 
+therefore, doesn ' t change the definition of life. That ' s a principle. The 
+policy of a Romney administration is to oppose **abortion** with exceptions for 
+rape, incest and life of the mother. Now, I ' ve got to take issue with the 
+Catholic church and **religious** liberty. 
+
+Lemmas in this text that loaded on the factor:
+
+abortion 
+religious 

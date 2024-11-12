@@ -1,0 +1,38 @@
+file = t002574
+date = 1992-10-11
+user = CLINTON
+conversation = October_11,_1992_Second_Half_Debate_Transcript
+URL = The_First_Clinton-Bush-Perot_Presidential_Debate(Second_Half_of_Debate)
+
+word count = 228
+words loading = 8
+factor score = 14
+
+Like Mr. Perot, I have held crack babies in my **arms** . But I know more about 
+this, I think, than anybody else up here because I have a brother who ' s a 
+recovering **drug** addict. I ' m very **proud** of him. But I can tell you 
+this. If **drugs** were legal, I don ' t think he ' d be alive today. I am 
+adamantly opposed to legalizing **drugs** . He is alive today because of the 
+**criminal** **justice** system. That ' s a mistake. What should we do? First, 
+we ought to prevent more of this on the **street** . Thirty years ago, there 
+were three policemen for every **crime** . Now there are three **crimes** for 
+every policeman. We need a hundred thousand more **police** on the **street** . 
+I have a plan for that. Secondly, we ought to have treatment on demand. 
+Thirdly, we ought to have boot camps for first-time nonviolent offenders so 
+they can get discipline and treatment and education and get reconnected to the 
+community before they ' re severed and sent to prison, where they can learn how 
+to be first class **criminals** . There is a **crime** bill that, lamentably, 
+was blocked from passage once again, mostly by Republicans in the US Senate, 
+which would have addressed some of these problems. That **crime** bill is going 
+to be one of my highest priorities next January if I become president. 
+
+Lemmas in this text that loaded on the factor:
+
+arm (secondary)
+crime 
+criminal 
+drug 
+justice 
+police 
+proud 
+street 

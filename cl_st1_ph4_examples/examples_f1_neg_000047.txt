@@ -1,0 +1,16 @@
+file = t000408
+date = 2020-10-22
+user = BIDEN
+conversation = Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee
+URL = Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee
+
+word count = 28
+words loading = 1
+factor score = -1
+
+On the condition that he would agree that he would be **drawing** down his 
+nuclear capacity to get – the Korean Peninsula should be a nuclear free zone. 
+
+Lemmas in this text that loaded on the factor:
+
+draw 

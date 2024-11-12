@@ -1,0 +1,42 @@
+file = t000836
+date = 2016-10-04
+user = PENCE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 274
+words loading = 8
+factor score = 13
+
+But for me, I would tell you that for me the sanctity of **life** proceeds out 
+of the **belief** that — that ancient principle that — where God says 
+before you were formed in the womb, I knew you, and so for my first time in 
+**public** **life** , I **sought** to stand with great compassion for the 
+sanctity of **life** . The state of Indiana has also **sought** to make sure 
+that we expand alternatives in health care counseling for women, non-abortion 
+alternatives. I ' m also very pleased at the fact we ' re well on our way in 
+Indiana to becoming the most pro-adoption state in America. I think if you ' re 
+going to be pro-life, you should — you should be pro-adoption. But what I can 
+' t understand is with Hillary Clinton and now Senator Kaine at her side is to 
+support a practice like partial-birth abortion. I mean, to hold to the view — 
+and I know Senator Kaine, you hold pro-life views personally — but the very 
+idea that a **child** that is almost **born** into the world could still have 
+their **life** taken from them is just anathema to me. And I cannot — I can ' 
+t conscience about — about a party that supports that. Or that — I know you 
+' ve historically opposed taxpayer funding of abortion. But Hillary Clinton 
+wants to — wants to repeal the longstanding provision in the **law** where we 
+said we wouldn ' t use taxpayer dollars to fund abortion. So for me, my faith 
+informs my **life** . I try and spend a little time on my knees every day. But 
+it all for me begins with cherishing the dignity, the worth, the value of every 
+**human** **life** . 
+
+Lemmas in this text that loaded on the factor:
+
+bear 
+belief 
+child 
+human (secondary)
+law 
+life 
+public 
+seek (secondary)

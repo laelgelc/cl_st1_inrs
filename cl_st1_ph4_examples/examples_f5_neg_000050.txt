@@ -1,0 +1,42 @@
+file = t001885
+date = 2004-10-05
+user = CHENEY
+conversation = October_5,_2004_Transcript
+URL = The_Cheney-Edwards_Vice_Presidential_Debate
+
+word count = 361
+words loading = 2
+factor score = -3
+
+Gwen, we ' ve never let up on Osama bin Laden from day one. We ' ve actively 
+and aggressively pursued him. We ' ve captured or killed thousands of Al Qaida 
+in various places around the world and especially in Afghanistan. We ' ll 
+continue to very aggressively pursue him, and I ' m confident eventually we ' 
+ll get him. The key to success in Afghanistan has been, again, to go in and go 
+after the terrorists, which we ' ve done, and also take down the Taliban regime 
+which allowed them to function there, in effect sponsors, if you will, of the 
+Al Qaida organization. John Edwards, two and a half years ago, six months after 
+we went into Afghanistan announced that it was chaotic, the **situation** was 
+deteriorating, the warlords were about to take over. Here we are, two and a 
+half years later, we ' re four days away from a democratic election, the first 
+one in history in Afghanistan. We ' ve got 10 million voters who have 
+registered to vote, nearly half of them women. That election will put in place 
+a democratically elected government that will take over next December. We ' ve 
+made enormous progress in Afghanistan, in exactly the right direction, in spite 
+of what John Edwards said two and a half years ago. He just got it **wrong** . 
+The fact is, as we go forward in Afghanistan, we will pursue Osama bin Laden 
+and the terrorists as long as necessary. We ' re standing up Afghan security 
+forces so they can take on responsibility for their own security. We ' ll keep 
+U. S. forces there — we have about 16 , 000 there today — as long as 
+necessary, to assist the Afghans in terms of dealing with their security 
+**situation** . But they ' re making significant progress. We have President 
+Karzai, who is in power. They have done wonders writing their own constitution 
+for the first time ever. Schools are open. Young girls are going to school. 
+Women are going to vote. Women are even eligible to run for office. This is 
+major, major progress. There will be democracy in Afghanistan, make no doubt 
+about it. Freedom is the best antidote to terror. 
+
+Lemmas in this text that loaded on the factor:
+
+situation 
+wrong 

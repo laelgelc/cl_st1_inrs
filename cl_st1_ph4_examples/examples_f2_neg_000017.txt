@@ -1,0 +1,16 @@
+file = t002298
+date = 2000-10-17
+user = BUSH
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 22
+words loading = 1
+factor score = -1
+
+I may not be for your version, Mr. Vice President, but I ' m for what I just 
+described to the **lady** . 
+
+Lemmas in this text that loaded on the factor:
+
+lady 

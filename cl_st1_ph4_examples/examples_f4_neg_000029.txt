@@ -1,0 +1,38 @@
+file = t001064
+date = 2016-10-19
+user = CLINTON
+conversation = October_19,_2016_Debate_Transcript
+URL = Presidential_Debate_at_the_University_of_Nevada_in_Las_Vegas
+
+word count = 338
+words loading = 2
+factor score = -2
+
+Well, I am encouraged that there is an effort led by the Iraqi army, supported 
+by Kurdish forces, and also given the help and advice from the number of 
+special forces and other Americans on the ground. But I will not support 
+putting American soldiers into Iraq as an occupying force. I don ' t think that 
+is in our interest, and I don ' t think that would be smart to do. In fact, 
+Chris, I think that would be a big red flag waving for ISIS to reconstitute 
+itself. The goal here is to take back Mosul. It ' s going to be a hard fight. I 
+' ve got no illusions about that. And then continue to press into Syria to 
+begin to take back and move on Raqqa, which is the ISIS headquarters. I am 
+hopeful that the hard work that American military advisers have done will pay 
+off and that we will see a real—a really successful military operation. But 
+we know we ' ve got lots of work to do. Syria will remain a hotbed of terrorism 
+as long as the civil war, aided and abetted by the Iranians and the 
+**Russians** , continue. So I have said, look, we need to keep our eye on ISIS. 
+That ' s why I want to have an intelligence surge that protects us here at 
+home, why we have to go after them from the air, on the ground, online, why we 
+have to make sure here at home we don ' t let terrorists buy weapons. If you ' 
+re too dangerous to fly, you ' re too dangerous to buy a gun. And I ' m going 
+to continue to push for a no-fly zone and safe havens within Syria not only to 
+help protect the Syrians and prevent the constant outflow of refugees, but to, 
+frankly, **gain** some leverage on both the Syrian government and the 
+**Russians** so that perhaps we can have the kind of serious negotiation 
+necessary to bring the conflict to an end and go forward on a political track. 
+
+Lemmas in this text that loaded on the factor:
+
+gain 
+russians 

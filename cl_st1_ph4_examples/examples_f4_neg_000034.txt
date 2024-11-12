@@ -1,0 +1,28 @@
+file = t002944
+date = 1988-10-05
+user = QUAYLE
+conversation = October_5,_1988_Debate_Transcripts
+URL = The_Bentsen-Quayle_Vice_Presidential_Debate
+
+word count = 159
+words loading = 2
+factor score = -2
+
+Senator Bentsen, you know that I did not vote to cut Social Security benefits 
+eight times. What I have voted for and what Senator Bentsen has voted for is to 
+delay the cost-of-living adjustments. Senator Bentsen two times in the United 
+States Senate voted to delay the cost-of-living adjustments. The governor of 
+Massachusetts at a governors ' **conference** supported a **resolution** to 
+delay the cost-of-living adjustment. And, John, you are right: they use this 
+for political advantage. What they try to do time and time again is to scare 
+the old people of this country. That ' s the politics of the past. In 1983 
+Republicans and Democrats dropped their political swords and in a bipartisan 
+effort saved the Social Security system. Republicans and Democrats banded 
+together because we know that this program is not a Republican program, it ' s 
+not a Democrat program – it ' s a program for older Americans. And that 
+program is actuarially sound to the turn of this century. 
+
+Lemmas in this text that loaded on the factor:
+
+conference 
+resolution 

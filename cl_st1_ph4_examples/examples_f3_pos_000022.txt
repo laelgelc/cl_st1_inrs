@@ -1,0 +1,58 @@
+file = t003143
+date = 1984-10-11
+user = BUSH
+conversation = October_11,_1984_Debate_Transcript
+URL = The_Bush-Ferraro_Vice-Presidential_Debate
+
+word count = 454
+words loading = 10
+factor score = 12
+
+Yes, I can. The, you mentioned the Gromyko meeting, those were broken off under 
+the Carter-Mondale days. There had been three separate Soviet **leaders** . Mr. 
+Brezhnev, Mr. Andropov, and now Chernenko. During their, that, in three and a 
+half years, three separate **leaders** . The **Soviets** have not been willing 
+to talk. We are the ones that went to the table in INF. We had a good proposal, 
+a moral proposal. Ban an entire generation of intermediate **nuclear** 
+**force** **weapons** and if you won ' t do that, don ' t leave your **allies** 
+in Europe in a monopoly position. The **Soviets** with 1 , 200 of these things, 
+and the alliance with none. We didn ' t think that ' s the way to deter 
+aggression and keep the **peace** . The president went, the first thing he did 
+when he came into office was make a proposal on the most destabilizing 
+**weapons** of all, START. And when the the **strategic** **weapon** and when 
+the **Soviets** said, well, we don ' t like that proposal, we said all right, 
+we ' ll be more flexible. I at the urging of the president went to Geneva and 
+laid on the table a treaty to ban all chemical **weapons** . We don ' t want 
+them to have a monopoly. We said look, let ' s come together. You come over 
+here and see what we ' re doing; we ' ll go over there and see what you ' re 
+doing. But let ' s save the kids of this world from chemical **weapons** . A 
+brilliant proposal to get rid of all of them. And the **Soviets** nyet, nyet 
+nyet. In the mutual balance **force** reduction to reduce conventional 
+**forces** , they ' re not even willing to tell us the base. Mrs. Ferraro knows 
+that, and how many **troops** they have. There ' s four sessions. We have had 
+an **agreement** with them on the hot line. But Carter-Monad made an 
+**agreement** , the Salt II **agreement** , but the Democratic Senate, they 
+were a Democratic administration, the Democratic Senate wouldn ' t even ratify 
+that **agreement** . It was flawed, it was unverifiable and it was not good. 
+Our president wants to reduce, not just to stop, he wants to reduce 
+dramatically **nuclear** **weapons** . And when the **Soviets** know they ' re 
+going to have this strong president to deal with, and when this new 
+administration, Mr. Chernenko, given more than a few months in office can 
+solidify its position, then they ' ll talk. But if they think the opposition, 
+before they sit down, are going to give up the MX, give up the B-l, go for a 
+freeze that locks in inferiority in Europe, all of these things, unilaterally, 
+before they ' re willing to talk, they may just sweat it out for four more 
+weeks. Who knows. 
+
+Lemmas in this text that loaded on the factor:
+
+agreement (secondary)
+ally 
+force (secondary)
+leader (secondary)
+nuclear 
+peace 
+soviets (secondary)
+strategic 
+troop 
+weapon 

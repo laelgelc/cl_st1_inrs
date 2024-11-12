@@ -1,0 +1,107 @@
+file = t003459
+date = 1960-10-21
+user = MR._NIXON
+conversation = October_21,_1960_Debate_Transcript
+URL = The_Fourth_Kennedy-Nixon_Presidential_Debate
+
+word count = 1220
+words loading = 4
+factor score = -4
+
+Mr. Howe, Senator Kennedy, my fellow Americans. Since this campaign began I 
+have had a very rare privilege. I have traveled to forty-eight of the fifty 
+states and in my travels I have learned what the people of the United States 
+are thinking about. There is one issue that stands out above all the rest, one 
+in which every American is concerned, regardless of what group he may be a 
+member and regardless of where he may live. And that issue, very simply stated, 
+is this: how can we keep the peace – keep it without surrender? How can we 
+extend freedom – extend it without war? Now in determining how we deal with 
+this issue, we must find the answer to a very important but simple question: 
+who threatens the peace? Who threatens freedom in the world? There is only one 
+threat to peace and one threat to freedom – that that is presented by the 
+international **Communist** movement. And therefore if we are to have peace, we 
+must know how to deal with the **Communists** and their leaders. I know Mr. 
+Khrushchev. I also have had the opportunity of knowing and meeting other 
+**Communist** leaders in the world. I believe there are certain principles we 
+must find in dealing with him and his colleagues – principles, if followed, 
+that will keep the peace and that also can extend freedom. First, we have to 
+learn from the past, because we cannot afford to make the mistakes of the past. 
+In the seven years before this Administration came into power in Washington, we 
+found that six hundred million people went behind the Iron Curtain. And at the 
+end of that seven years we were engaged in a war in Korea which cost of thirty 
+thousand American lives. In the past seven years, in President Eisenhower ' s 
+Administration, this situation has been reversed. We ended the Korean War; by 
+strong, firm leadership we have kept out of other wars; and we have avoided 
+surrender of principle or territory at the **conference** table. Now why were 
+we successful, as our predecessors were not successful? I think there ' re 
+several reasons. In the first place, they made a fatal error in misjudging the 
+**Communists** ; in trying to apply to them the same rules of conduct that you 
+would apply to the leaders of the free world. One of the major errors they made 
+was the one that led to the Korean War. In ruling out the defense of Korea, 
+they invited aggression in that area. They thought they were going to have 
+peace – it brought war. We learned from their mistakes. And so, in our seven 
+years, we find that we have been firm in our diplomacy; we have never made 
+concessions without getting concessions in return. We have always been willing 
+to go the extra **mile** to negotiate for disarmament or in any other area. But 
+we have never been willing to do anything that, in effect, surrendered freedom 
+any place in the world. That is why President Eisenhower was correct in not 
+apologizing or expressing regrets to Mr. Khrushchev at the Paris **Conference** 
+, as Senator Kennedy suggested he could have done. That is why Senator wh- 
+President Eisenhower was also correct in his policy in the Formosa Straits, 
+where he declined, and refused to follow the recommendations – 
+recommendations which Senator Kennedy voted for in 1955 ; again made in 1959 ; 
+again repeated in his debates that you have heard – recommendations with 
+regard to – again – slicing off a piece of free territory, and abandoning 
+it, if – in effect, to the **Communists** . Why did the President feel this 
+was wrong and why was the President right and his critics wrong? Because again 
+this showed a lack of understanding of dictators, a lack of understanding 
+particularly of **Communists** , because every time you make such a concession 
+it does not lead to peace; it only encourages them to blackmail you. It 
+encourages them to begin a war. And so I say that the record shows that we know 
+how to keep the peace, to keep it without surrender. Let us move now to the 
+future. It is not enough to stand on this record because we are dealing with 
+the most ruthless, fanatical … leaders that the world has ever seen. That is 
+why I say that in this period of the sixties, America must move forward in 
+every area. First of all, although we are today, as Senator Kennedy has 
+admitted, the strongest nation in the world militarily, we must increase our 
+strength, increase it so that we will always have enough strength that 
+regardless of what our potential opponents have – if the should launch a 
+surprise attack – we will be able to destroy their war-making capability. 
+They must know, in other words, that it is national suicide if they begin 
+anything. We need this kind of strength because we ' re the guardians of the 
+peace. In addition to military strength, we need to see that the economy of 
+this country continues to grow. It has grown in the past seven years. It can 
+and will grow even more in the next four. And the reason that it must grow even 
+more is because we have things to do at home and also because we ' re in a race 
+for survival – a race in which it isn ' t enough to be ahead; it isn ' t 
+enough simply to be complacent. We have to move ahead in order to stay ahead. 
+And that is why, in this field, I have made recommendations which I am 
+confident will move the American economy ahead – move it firmly and soundly 
+so that there will never be a time when the Soviet Union will be able to 
+challenge our superiority in this field. And so we need military strength, we 
+need economic strength, we also need the right diplomatic policies. What are 
+they? Again we turn to the past. Firmness but no belligerence, and by no 
+belligerence I mean that we do not answer insult by insult. When you are proud 
+and confident of your strength, you do not get down to the level of Mr. 
+Khrushchev and his colleagues. And that example that President Eisenhower has 
+set we will continue to follow. But all this by itself is not enough. It is not 
+enough for us simply to be the strongest nation militarily, the strongest 
+economically, and also to have firm diplomacy. We must have a great goal. And 
+that is: not just to keep freedom for ourselves but to extend it to all the 
+world, to extend it to all the world because that is America ' s destiny. To 
+extend it to all the world because the **Communist** aim is not to hold their 
+own but to extend Communism. And you cannot fight a victory for Communism or a 
+strategy of victory for Communism with the strategy, simply of holding the 
+line. And so I say that we believe that our policies of military strength, of 
+economic strength, of diplomatic firmness first will keep the peace and keep it 
+without surrender. We also believe that in the great field of ideals that we 
+can lead America to the victory for freedom – victory in the newly developing 
+countries, victory also in the captive countries – provided we have faith in 
+ourselves and faith in our principles. 
+
+Lemmas in this text that loaded on the factor:
+
+communist (secondary)
+communists 
+conference 
+mile 

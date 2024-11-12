@@ -1,0 +1,32 @@
+file = t001558
+date = 2008-09-26
+user = MCCAIN
+conversation = September_26,_2008_Debate_Transcript
+URL = The_First_McCain-Obama_Presidential_Debate
+
+word count = 228
+words loading = 2
+factor score = -3
+
+But in the case of missile defense, Senator Obama said it had to be, quote, " 
+proven. " That wasn ' t proven when Ronald Reagan said we would do SDI, which 
+is missile defense. And it was major — a major factor in bringing about the 
+end of the Cold War. We seem to come full circle again. Senator Obama still 
+doesn ' t quite understand — or doesn ' t get it — that if we fail in Iraq, 
+it encourages Al Qaida. They would establish a base in Iraq. The consequences 
+of defeat, which would result from his plan of withdrawal and according to date 
+certain, regardless of **conditions** , according to our military leaders, 
+according to every expert, would lead to defeat — possible defeat, loss of 
+all the fragile sacrifice that we ' ve made of American blood and treasure, 
+which grieves us all. All of that would be lost if we followed Senator Obama ' 
+s plan to have specific dates with withdrawal, regardless of **conditions** on 
+the ground. And General Petraeus says we have had great success, but it ' s 
+very fragile. And we can ' t do what Senator Obama wants to do. That is the 
+central issue of our time. And I think Americans will judge very seriously as 
+to whether that ' s the right path or the **wrong** path and who should be the 
+next president of the United States. 
+
+Lemmas in this text that loaded on the factor:
+
+condition 
+wrong 

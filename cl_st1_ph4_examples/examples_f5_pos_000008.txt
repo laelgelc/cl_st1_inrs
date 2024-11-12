@@ -1,0 +1,53 @@
+file = t003208
+date = 1980-09-21
+user = REAGAN
+conversation = September_21,_1980_Debate_Transcript
+URL = The_Anderson-Reagan_Presidential_Debate
+
+word count = 410
+words loading = 10
+factor score = 24
+
+Well, I believe that conservation, at course, is worthy in and of itself. 
+Anything that would preserve, or help us use less **energy** , that would be 
+fine, and I ' m for it. But I do not believe that conservation alone is the 
+answer to the present **energy** problem, because all you ' re doing then is 
+staving off, by a short time, the day when you would come to the end of the 
+**energy** supply. To say that we are limited, and at a dangerous point in this 
+country with regard to **energy** , I think, is to ignore the fact. The fact 
+is, that in today ' s **oil** wells, there is more **oil** still there than we 
+have so far taken out and used. But it would require what is known as secondary 
+or tertiary efforts to bring it out of the ground. And this is known **oil** 
+reserves, known supplies. There are hundreds of millions of acres of land that 
+have been taken out of circulation by the Government for whatever reason they 
+have, that is believed by the most knowledgeable **oil** geologists to contain 
+probably more **oil** and **natural** **gas** than we have used so far since we 
+**drilled** that first well 121 years ago. We have a **coal** supply that is 
+equal to 50 % of the world ' s **coal** supply, good for centuries, in this 
+country. I grant you that prices may go up, because as you go further and have 
+to go deeper, you are adding to the cost of **production** . We have nuclear 
+power, which, I believe, with the safest. the most stringent of safety 
+requirements, could meet our **energy** needs for the next couple of decades 
+while we go forward exploring the areas of **solar** power and other forms of 
+**energy** that might be renewable and that would not be exhaustible. All of 
+these things can be done. When you stop and think that we are only **drilling** 
+on 2 % . have leased only 2 % of the possible. possibility for **oil** of the 
+continental shelf around the United States; when you stop to think that the 
+government has taken over 100 million acres of land out of circulation in 
+Alaska, alone, that is believed by geologists to contain much in the line of 
+minerals and **energy** **sources** , then I think it is the Government, and 
+the Government with its own restrictions and regulations, that is **creating** 
+the **energy** crisis. That we are, indeed, an energy-rich nation. 
+
+Lemmas in this text that loaded on the factor:
+
+coal 
+create (secondary)
+drill 
+energy 
+gas 
+natural 
+oil 
+production 
+solar 
+source 

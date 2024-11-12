@@ -1,0 +1,35 @@
+file = t002175
+date = 2000-10-11
+user = GORE
+conversation = October_11,_2000_Debate_Transcript
+URL = The_Second_Gore-Bush_Presidential_Debate
+
+word count = 290
+words loading = 1
+factor score = -2
+
+Well, I ' ve been kind of a hard-liner on this issue for more than eight years. 
+When I was in the senate before I became vice president I was pushing for 
+stronger action against Milosevic. He caused the death of so many people. He 
+was the last communist **party** boss there and then he became a dictator that 
+by some other label he was still essentially a communist dictator. And 
+unfortunately now he is trying to reassert himself in Serbian politics. Already 
+just today the members of his political **party** said that they were going to 
+ignore the orders of the new president of Serbia, and that they question his 
+legitimacy, and he ' s still going to try to be actively involved. He is an 
+indicted war criminal. He should be held accountable. Now, I did want to pick 
+up on one of the statements earlier, and maybe I have heard, maybe I have heard 
+the previous statements wrong, Governor. In some of the discussions we ' ve had 
+about when it ' s appropriate for the U. S. to use force around the world, at 
+times the standards that you ' ve laid down have given me the impression that 
+if it ' s something like a genocide taking place or what they called ethnic 
+cleansing in Bosnia, that that alone would not be, that that wouldn ' t be the 
+kind of situation that would cause you to think that the U. S. ought to get 
+involved with troops. Now, have to be other factors involved for me to want to 
+be involved. But by itself, that to me can bring into play a fundamental 
+American strategic interest because I think it ' s based on our values. Now, 
+have I got that wrong? 
+
+Lemmas in this text that loaded on the factor:
+
+party 

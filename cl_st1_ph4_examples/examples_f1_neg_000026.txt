@@ -1,0 +1,19 @@
+file = t000740
+date = 2016-10-04
+user = KAINE
+conversation = October_4,_2016_Debate_Transcript
+URL = Vice_Presidential_Debate_at_Longwood_University_in_Farmville,_Virginia
+
+word count = 49
+words loading = 2
+factor score = -2
+
+Sure. Can we just be clear — Hillary and I will do immigration enforcement 
+and we ' ll vet refugees based on whether they ' re **dangerous** or not. We 
+won ' t do it based on discriminating against you from the country you come 
+from or the **religion** that you practice. 
+
+Lemmas in this text that loaded on the factor:
+
+dangerous 
+religion 

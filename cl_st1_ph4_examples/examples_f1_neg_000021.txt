@@ -1,0 +1,31 @@
+file = t003071
+date = 1984-10-07
+user = THE_PRESIDENT
+conversation = October_7,_1984_Debate_Transcript
+URL = The_First_Reagan-Mondale_Presidential_Debate
+
+word count = 233
+words loading = 1
+factor score = -3
+
+Yes, it ' s very difficult to rebut, because I find myself in so much agreement 
+with Mr. Mondale. I, too, want that wall that is in the Constitution of 
+separation of church and state to remain there. The only attacks I have made 
+are on people who apparently would break away at that wall from the government 
+side, using the government, using the power of the courts and so forth to 
+hinder that part of the Constitution that says the government shall not only 
+not establish a **religion** , it shall not inhibit the practice of 
+**religion** . And they have been using these things to have government, 
+through court orders, inhibit the practice of **religion** . A child wants to 
+say grace in a school cafeteria and a court rules that they can ' t do it 
+because it ' s school property. These are they types of things that I think 
+have been happening in a kind of a secular way that have been eroding that 
+separation, and I am opposed to that. With regard to a platform on the Supreme 
+Court, I can only say one thing about that. I have appointed one member to the 
+Supreme Court - Sandra Day O ' Connor. I ' ll stand on my record on that. And 
+if I have the opportunity to appoint any more, I ' ll do it in the same manner 
+that I did in selecting her. 
+
+Lemmas in this text that loaded on the factor:
+
+religion 

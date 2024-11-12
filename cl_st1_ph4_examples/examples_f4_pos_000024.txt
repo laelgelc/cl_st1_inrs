@@ -1,0 +1,41 @@
+file = t002284
+date = 2000-10-17
+user = BUSH
+conversation = October_17,_2000_Debate_Transcript
+URL = The_Third_Gore-Bush_Presidential_Debate
+
+word count = 324
+words loading = 5
+factor score = 16
+
+Well, I don ' t think I ran the ad. I think somebody who doesn ' t want me to 
+be president might have run that ad. That wasn ' t my ad. I think it might have 
+been one of my opponent ' s ads. Here is what I believe, sir. I believe 
+law-abiding citizens ought to be allowed to protect themselves and their 
+families. I believe that we ought to keep **guns** out of the hands of people 
+that shouldn ' t have them. That ' s why I ' m for instant **background** 
+**checks** at **gun** shows, I ' m for trigger locks, I think that makes sense. 
+Matter of fact, we distributed free trigger locks in the State of Texas so that 
+people can get them and put them on their **guns** to make their **guns** more 
+safe. I think we ought to raise the age at which juveniles can have a **gun** . 
+But I also believe strongly that we need to enforce **laws** on the books that 
+the best way to make sure that we keep our society safe and secure is to hold 
+people accountable for breaking the **law** . If we catch somebody illegally 
+selling a **gun** , there needs to be a consequence. If we keep somebody — 
+you know, illegally using a **gun** , there needs to be a consequence. 
+**Enforcement** of **law** , and the federal government can help. There is a 
+great program called Project Exile in Richmond, Virginia, where we focused 
+federal taxpayers ' money and federal prosecutors and went after people who 
+were illegally using **guns** . To me that ' s how you make society the safest 
+it can be. And so, yeah, sometimes I agree with some of these groups in 
+Washington and sometimes I don ' t. I ' m a pretty independent thinker. The one 
+thing I ' m for is a safe society. And I ' m for enforcing **laws** on the 
+books. And that ' s what is going to happen should I earn your confidence. 
+
+Lemmas in this text that loaded on the factor:
+
+background 
+check 
+enforcement 
+gun 
+law 

@@ -1,0 +1,45 @@
+file = t003338
+date = 1976-10-06
+user = MR._CARTER
+conversation = October_6,_1976_Debate_Transcript
+URL = The_Second_Carter-Ford_Presidential_Debate
+
+word count = 340
+words loading = 6
+factor score = 10
+
+Well, Mr. Ford **acts** like he ' s uh – running for president for the first 
+time. He ' s been in office two years, and there has been absolutely no 
+progress made toward a new SALT **agreement** . He has learned the date of the 
+expiration of SALT I, apparently. We ' ve seen, in this world, a development of 
+a tremendous **threat** to us. As a **nuclear** engineer myself, I know the 
+limitations and capabilities of atomic power. I also – know that as far as 
+the human beings on this earth are concerned that the nonproliferation of 
+atomic **weapons** is number one. Only the last few days with the election 
+approaching, has Mr. Ford taken any interest in a nonproliferation movement. I 
+advocated last May in a speech at the United Nations that we move immediately 
+as a nation to declare a complete moratorium on the testing of all **nuclear** 
+devices, both **weapons** and peaceful devices; that we not ship any more 
+atomic fuel to a country that refuses to comply with strict controls over the 
+waste which can be reprocessed into explosives. I ' ve also advocated that we 
+stop the sale by Germany and France of – **processing** plants for Pakistan 
+and Brazil. Mr. Ford hasn ' t moved on this. We also need to provide an 
+adequate supply of enriched uranium. Mr. Ford, again, under pressure from the 
+atomic energy lobby, has insisted that this reprocessing or rather re-en- 
+enrichment be done by private industry and not by the existing uh – 
+government uh – plants. This kind of confusion and absence of leadership has 
+let us drift now for two years with a constantly increasing **threat** of 
+atomic **weapons** throughout the world. We now have five nations that have 
+atomic bombs that we know about. If we continue under Mr. Ford ' s policy by 
+1985 or ' 90 we ' ll have twenty nations that have the capability of exploding 
+atomic **weapons** . This has got to be stopped. That is one of the major 
+challenges and major undertakings that I will assume as the next president. 
+
+Lemmas in this text that loaded on the factor:
+
+act 
+agreement (secondary)
+nuclear 
+process 
+threat 
+weapon 

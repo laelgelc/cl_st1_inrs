@@ -1,0 +1,51 @@
+file = t002165
+date = 2000-10-11
+user = BUSH
+conversation = October_11,_2000_Debate_Transcript
+URL = The_Second_Gore-Bush_Presidential_Debate
+
+word count = 366
+words loading = 11
+factor score = 11
+
+Well, I think during the campaign, particularly now during this difficult 
+period, we ought to be speaking with one voice, and I appreciate the way the 
+administration has worked hard to calm the tensions. Like the vice president, I 
+call on Chairman Arafat to have his people pull back to make the **peace** . I 
+think **credibility** is going to be very important in the future in the Middle 
+East. I want everybody to know should I be the president Israel ' s going to be 
+our friend. I ' m going to stand by Israel. Secondly, that I think it ' s 
+important to reach out to moderate Arab nations, like Jordan and Egypt, Saudi 
+Arabia and Kuwait. It ' s important to be friends with people when you don ' t 
+need each other so that when you do there ' s a strong bond of friendship. And 
+that ' s going to be particularly important in dealing not only with 
+**situations** such as now occurring in Israel, but with Saddam Hussein. The 
+coalition against Saddam has fallen apart or it ' s unraveling, let ' s put it 
+that way. The **sanctions** are being violated. We don ' t know whether he ' s 
+developing **weapons** of **mass** **destruction** . He better not be or there 
+' s going to be a **consequence** should I be the president. But it ' s 
+important to have **credibility** and **credibility** is formed by being strong 
+with your friends and resolute in your determination. One of the reasons why I 
+think it ' s important for this nation to develop an anti-ballistic **missile** 
+system that we can share with our **allies** in the Middle East if need be to 
+keep the **peace** to be able to say to the Saddam Husseinâ€ trade_mark_e s 
+of the world or the **Iranians** , don ' t dare threaten our friends. It ' s 
+also important to keep strong ties in the Middle East, credible ties, because 
+of the energy crisis we ' re now in. After all, a lot of the energy is produced 
+from the Middle East, and so I appreciate what the administration is doing. I 
+hope to get a sense of should I be fortunate to be the president how my 
+administration will react to the Middle East. 
+
+Lemmas in this text that loaded on the factor:
+
+ally 
+consequence (secondary)
+credibility 
+destruction 
+iranian 
+mass 
+missile (secondary)
+peace 
+sanction 
+situation (secondary)
+weapon 

@@ -1,0 +1,26 @@
+file = t002405
+date = 1996-10-09
+user = GORE
+conversation = October_9,_1996_Debate_Transcript
+URL = The_Gore-Kemp_Vice_Presidential_Debate
+
+word count = 161
+words loading = 1
+factor score = -3
+
+Remember what I said just a moment ago. If it were not so, he would have told 
+you. The problems between races in America must be addressed. The good news is 
+we ' re making progress. We ' ve seen 10 . 5 million new jobs created in the 
+last four years. We ' ve seen the unemployment rate come down dramatically. We 
+' ve seen the African-American unemployment rate go below double digits for the 
+first time in 25 years and it stayed below for 25 months in a row. We have 
+empowerment **zones** and enterprise communities, 105 of them in communities 
+all across the United States of America. Let me tell you a story about Joann 
+Crowder in Detroit. She was on welfare for eight years until the empowerment 
+**zone** was created there. She just got a job in the new business that — 
+that launched its enterprise right in that empowerment **zone** . We want to do 
+that for millions more all across the country. 
+
+Lemmas in this text that loaded on the factor:
+
+zone 

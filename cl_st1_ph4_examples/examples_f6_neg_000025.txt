@@ -1,0 +1,37 @@
+file = t003390
+date = 1960-09-26
+user = MR._NIXON
+conversation = September_26,_1960_Debate_Transcript
+URL = The_First_Kennedy-Nixon_Presidential_Debate
+
+word count = 269
+words loading = 2
+factor score = -3
+
+It would be rather difficult to cover them in eight and- in two and a half 
+minutes. I would suggest that these proposals could be mentioned. First, after 
+each of my foreign trips I have made recommendations that have been adopted. 
+For example, after my first trip abroad – abroad, I strongly **recommended** 
+that we increase our exchange programs particularly as they related to exchange 
+of persons of leaders in the labor field and in the information field. After my 
+trip to South America, I made recommendations that a separate inter-American 
+lending agency be set up which the South American nations would like much 
+better than a lend- than to participate in the lending agencies which treated 
+all the countries of the world the same. Uh – I have made other 
+recommendations after each of the other trips; for example, after my trip 
+abroad to Hungary I made some recommendations with regard to the Hungarian 
+refugee situation which were adopted, not only by the President but some of 
+them were enacted into law by the Congress. Within the Administration, as a 
+chairman of the President ' s **Committee** on Price Stability and Economic 
+Growth, I have had the opportunity to make recommendations which have been 
+adopted within the Administration and which I think have been reasonably 
+effective. I know Senator Kennedy suggested in his speech at Cleveland 
+yesterday that that **committee** had not been particularly effective. I would 
+only suggest that while we do not take the credit for it – I would not 
+presume to – that since that **committee** has been formed the price line has 
+been held very well within the United States. 
+
+Lemmas in this text that loaded on the factor:
+
+committee 
+recommend 

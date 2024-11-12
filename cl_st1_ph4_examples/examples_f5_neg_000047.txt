@@ -1,0 +1,37 @@
+file = t001818
+date = 2004-10-08
+user = BUSH
+conversation = October_8,_2004_Debate_Transcript
+URL = The_Second_Bush-Kerry_Presidential_Debate
+
+word count = 323
+words loading = 2
+factor score = -3
+
+Two days ago in the Oval Office, I met with the finance minister from Iraq. He 
+came to see me. And he talked about how optimistic he was and the country was 
+about heading toward elections. Think about it - They ' re going from tyranny 
+to elections. He talked about the reconstruction efforts that are beginning to 
+take hold. He talked about the fact that Iraqis love to be free. He said he was 
+optimistic when he came here, then he turned on the TV and listened to the 
+political rhetoric and all of a sudden he was pessimistic. Now, this is guy a 
+who, along with others, has taken great risk for great freedom. And we need to 
+stand with him. My opponent says he has a plan; it sounds familiar, because it 
+' s called the Bush plan. We ' re going to train **troops** , and we are. We ' 
+ll have 125 , 000 trained by the end of December. We ' re spending about $7 
+billion. He talks about a grand idea - Let ' s have a summit; we ' re going to 
+solve the problem in Iraq by holding a summit. And what is he going to say to 
+those people that show up at the summit? Join me in the **wrong** war at the 
+**wrong** time at the **wrong** place. Risk your **troops** in a war you ' ve 
+called a mistake. Nobody is going to follow somebody who doesn ' t believe we 
+can succeed and with somebody who says that war where we are is a mistake. I 
+know how these people think. I meet with them all the time. I talk to Tony 
+Blair all the time. I talk to Silvio Berlusconi. They ' re not going to follow 
+an American president who says follow me into a mistake. Our plan is working. 
+We ' re going to make elections. And Iraq is going to be free, and America will 
+be better off for it. 
+
+Lemmas in this text that loaded on the factor:
+
+troop (secondary)
+wrong 
