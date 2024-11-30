@@ -21,6 +21,8 @@
 - [Week 46, 2024 - Progress Report](https://github.com/lacsii/Weekly-report/blob/main/rogerio/rogerio.md#week-46-2024---progress-report)
 - [Week 47, 2024 - Progress Report](https://github.com/lacsii/Weekly-report/blob/main/rogerio/rogerio.md#week-47-2024---progress-report)
 - [Week 48, 2024 - Progress Report](https://github.com/lacsii/Weekly-report/blob/main/rogerio/rogerio.md#week-48-2024---progress-report)
+- [Week 49, 2024 - Progress Report](https://github.com/lacsii/Weekly-report/blob/main/rogerio/rogerio.md#week-49-2024---progress-report)
+- [Week 50, 2024 - Progress Report](https://github.com/lacsii/Weekly-report/blob/main/rogerio/rogerio.md#week-50-2024---progress-report)
 
 ## Week 26 to Week 28, 2024 - Progress Report
 
@@ -192,4 +194,15 @@ After reviewing the results of the Proof of Concept with Claudia. we decided to 
 - The results were made available in [cl_st1_ph6_inrs](https://github.com/laelgelc/cl_st1_inrs/tree/main/cl_st1_ph6_inrs).
 
 ## Week 48, 2024 - Progress Report
-Arrangements for a Lexical Multi-Dimensional Analysis workshop planned for week 50.
+The following activities were performed:
+
+- Meeting with Carlos Kauffmann, Claudia and Marcos Oliveira to organise a Lexical Multi-Dimensional Analysis workshop planned for week 50;
+- Google Colab set-up for the workshop.
+
+## Week 49, 2024 - Progress Report
+The following activities were performed:
+
+- Arrangements for a Lexical Multi-Dimensional Analysis workshop planned for week 50.
+
+## Week 50, 2024 - Progress Report
+
