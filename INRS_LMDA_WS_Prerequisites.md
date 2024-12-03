@@ -8,7 +8,7 @@
 2. Right-click on [Google Colab](https://colab.research.google.com/), choose `Open link in new tab`;
 3. On the `Open notebook` window click on `Examples` and choose `Overview of Colab Features`;
 4. On the `Overview of Colaboratory Features` notebook, click on `Copy to Drive` button on the left of the `+ Text` button. As a result, a copy of the notebook will be created in a folder named `Colab Notebooks` and the notebook will open on a separate tab - simply close the notebooks on both tabs;
-5. Right-click on [Google Drive](https://drive.google.com/drive/my-drive), choose `Open link in new tab` to go to your Google Drive;
+5. Right-click on [Google Drive](https://drive.google.com/drive/my-drive), choose `Open link in new tab` to go to your Google Drive and double click on the `Colab Notebooks` folder;
 6. Right-click on [here](https://drive.google.com/drive/folders/1zIqlW8cUjIE1dD9HEsFYakvZkviMyCEA?usp=drive_link), choose `Open link in new tab`, right-click on `INRS LMDA Workshop` and choose `Download`;
 7. Uncompress the `INRS LMDA Workshop` ZIP file on your computer;
 8. On **your** Google Drive, go to the `Colab Notebooks` folder, click on `+ New`, choose `Folder upload`, upload the uncompressed `INRS LMDA Workshop` folder and wait until the upload process is complete;
