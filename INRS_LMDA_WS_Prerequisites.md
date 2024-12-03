@@ -19,4 +19,4 @@
 
 ### SAS OnDemand for Academics account set-up
 
-1. Follow the instructions on [SAS_OnDemand_for_Academics_Setup.ipynb](https://github.com/laelgelc/laelgelc/blob/main/SAS_OnDemand_for_Academics_Setup.ipynb)
+1. Right-click on [SAS_OnDemand_for_Academics_Setup.ipynb](https://github.com/laelgelc/laelgelc/blob/main/SAS_OnDemand_for_Academics_Setup.ipynb), choose `Open link in new tab` and follow the instructions.
