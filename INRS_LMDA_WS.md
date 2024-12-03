@@ -14,9 +14,9 @@ Procedure:
 ## Target Corpus design
 Target Corpus design considering as unit of linguistic analysis turns of speech of candidates consisting of at least ten words.
 
-Follow the same procedure for `INRS Workshop - CL_St1_Ph2_INRS.ipynb`.
+Follow the same procedure for the `INRS Workshop - CL_St1_Ph2_INRS.ipynb` Jupyter Notebook.
 
 ## Lexical Multi-Dimensional Analysis (LMDA)
 Lexical Multi-Dimensional Analysis (LMDA) of the Target Corpus to determine the dimensional profile of the debates.
 
-Follow the same procedure for `INRS Workshop - CL_St1_Ph4_INRS.ipynb`.
+Follow the same procedure for the `INRS Workshop - CL_St1_Ph4_INRS.ipynb` Jupyter Notebook.
