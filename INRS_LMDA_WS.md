@@ -5,10 +5,11 @@ Preparation of a data set consisting of 47 transcripts of US Presidential and Vi
 
 Procedure:
 
-1. Go to **your** `INRS LMDA Workshop` folder and double click on `INRS Workshop - CL_St1_Ph1_INRS.ipynb`;
-2. Click on `Connect` on the top right corner of the screen and wait for the runtime to initialise;
-3. Click on `Runtime` and choose `Run all`;
-4. On the `Permit this notebook to access your Google Drive files?` pop-up window, click on `Connect to Google Drive` and follow the instructions.
+1. Right-click on [Google Drive](https://drive.google.com/drive/my-drive), choose `Open link in new tab` to go to your Google Drive and double click on the `Colab Notebooks` folder;
+2. Double click on the `INRS LMDA Workshop` folder and double click on the `INRS Workshop - CL_St1_Ph1_INRS.ipynb` Jupyter Notebook;
+3. Click on `Connect` on the top right corner of the screen and wait for the runtime to initialise;
+4. Click on `Runtime` and choose `Run all`;
+5. On the `Permit this notebook to access your Google Drive files?` pop-up window, click on `Connect to Google Drive` and follow the instructions.
 
 ## Target Corpus design
 Target Corpus design considering as unit of linguistic analysis turns of speech of candidates consisting of at least ten words.
