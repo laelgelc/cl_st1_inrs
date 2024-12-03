@@ -4,7 +4,7 @@
 
 ### Google Colab set-up
 
-1. From your web browser, go to [Google](https://www.google.com/) and log into your Google Account;
+1. Right-click on [Google](https://www.google.com/), choose `Open link in new tab` and log into your Google Account;
 2. Right-click on [Google Colab](https://colab.research.google.com/), choose `Open link in new tab`;
 3. On the `Open notebook` window click on `Examples` and choose `Overview of Colab Features`;
 4. On the `Overview of Colaboratory Features` notebook, click on `Copy to Drive` button on the left of the `+ Text` button. As a result, a copy of the notebook will be created in a folder named `Colab Notebooks`;
