@@ -1,4 +1,4 @@
-# INRS Workshop
+# INRS Lexical Multi-Dimensional Analysis Workshop
 
 ## Data set preparation
 Preparation of a data set consisting of 47 transcripts of US Presidential and Vice Presidential debates from the website https://www.debates.org/.
