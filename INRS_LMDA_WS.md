@@ -5,7 +5,7 @@ Preparation of a data set consisting of 47 transcripts of US Presidential and Vi
 
 Procedure:
 
-1. Right click on [CL_St1_Ph1_INRS.ipynb](https://colab.research.google.com/drive/1eH7Ruzu_sAmGktotGRCVnlycSQXiEh0H?usp=sharing) and choose `Open link in a new tab`;
+1. Go to **your** `INRS LMDA Workshop` and double click on `INRS Workshop - CL_St1_Ph1_INRS.ipynb`;
 2. Click on `Connect` on the top right corner of the screen and wait for the runtime to initialise;
 3. Click on `Runtime` and choose `Run all`;
 4. On the `Permit this notebook to access your Google Drive files?` pop-up window, click on `Connect to Google Drive` and follow the instructions.
@@ -13,9 +13,9 @@ Procedure:
 ## Target Corpus design
 Target Corpus design considering as unit of linguistic analysis turns of speech of candidates consisting of at least ten words.
 
-Follow the same procedure for [CL_St1_Ph2_INRS.ipynb](https://colab.research.google.com/drive/162UcHlgalHTJinV8Jrbi3Rqm3N1Gdbqo?usp=sharing).
+Follow the same procedure for `INRS Workshop - CL_St1_Ph2_INRS.ipynb`.
 
 ## Lexical Multi-Dimensional Analysis (LMDA)
 Lexical Multi-Dimensional Analysis (LMDA) of the Target Corpus to determine the dimensional profile of the debates.
 
-Follow the same procedure for [CL_St1_Ph4_INRS.ipynb](https://colab.research.google.com/drive/1_899b8Jv5dlmd97efygRUfEhWntsSo_u?usp=sharing).
+Follow the same procedure for `INRS Workshop - CL_St1_Ph4_INRS.ipynb`.
