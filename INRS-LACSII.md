@@ -205,4 +205,4 @@ The following activities were performed:
 - Arrangements for a Lexical Multi-Dimensional Analysis workshop planned for week 50.
 
 ## Week 50, 2024 - Progress Report
-
+The Lexical Multi-Dimensional Analysis workshop was delivered on 12/12/2024 as planned.
